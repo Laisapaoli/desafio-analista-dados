@@ -1,0 +1,305 @@
+   mes   |         transicao          | qtd_origem | qtd_destino | taxa_conv_pct | var_pp_vs_mes_ant | var_pct_vs_mes_ant | pct_abertas 
+---------+----------------------------+------------+-------------+---------------+-------------------+--------------------+-------------
+ 2024-01 | Prospecção → Qualificação  |          5 |           5 |         100.0 |                   |                    |           0
+ 2024-01 | Qualificação → Proposta    |          5 |           4 |          80.0 |                   |                    |           0
+ 2024-01 | Proposta → Negociação      |          4 |           4 |         100.0 |                   |                    |           0
+ 2024-01 | Negociação → Fechado Ganho |          4 |           3 |          75.0 |                   |                    |           0
+ 2024-02 | Prospecção → Qualificação  |          2 |           1 |          50.0 |             -50.0 |              -50.0 |           0
+ 2024-02 | Qualificação → Proposta    |          1 |           1 |         100.0 |              20.0 |               25.0 |           0
+ 2024-02 | Proposta → Negociação      |          1 |           1 |         100.0 |               0.0 |                0.0 |           0
+ 2024-02 | Negociação → Fechado Ganho |          1 |           1 |         100.0 |              25.0 |               33.3 |           0
+ 2024-03 | Prospecção → Qualificação  |         10 |          10 |         100.0 |              50.0 |              100.0 |           0
+ 2024-03 | Qualificação → Proposta    |         10 |           7 |          70.0 |             -30.0 |              -30.0 |           0
+ 2024-03 | Proposta → Negociação      |          7 |           4 |          57.1 |             -42.9 |              -42.9 |           0
+ 2024-03 | Negociação → Fechado Ganho |          4 |           4 |         100.0 |               0.0 |                0.0 |           0
+ 2024-04 | Prospecção → Qualificação  |         10 |           8 |          80.0 |             -20.0 |              -20.0 |           0
+ 2024-04 | Qualificação → Proposta    |          8 |           5 |          62.5 |              -7.5 |              -10.7 |           0
+ 2024-04 | Proposta → Negociação      |          5 |           5 |         100.0 |              42.9 |               75.0 |           0
+ 2024-04 | Negociação → Fechado Ganho |          5 |           3 |          60.0 |             -40.0 |              -40.0 |           0
+ 2024-05 | Prospecção → Qualificação  |         10 |           3 |          30.0 |             -50.0 |              -62.5 |           0
+ 2024-05 | Qualificação → Proposta    |          3 |           0 |           0.0 |             -62.5 |             -100.0 |           0
+ 2024-05 | Proposta → Negociação      |          0 |           0 |               |                   |                    |           0
+ 2024-05 | Negociação → Fechado Ganho |          0 |           0 |               |                   |                    |           0
+ 2024-06 | Prospecção → Qualificação  |         13 |          11 |          84.6 |              54.6 |              182.1 |           0
+ 2024-06 | Qualificação → Proposta    |         11 |           7 |          63.6 |              63.6 |                    |           0
+ 2024-06 | Proposta → Negociação      |          7 |           5 |          71.4 |                   |                    |           0
+ 2024-06 | Negociação → Fechado Ganho |          5 |           3 |          60.0 |                   |                    |           0
+ 2024-07 | Prospecção → Qualificação  |         12 |          10 |          83.3 |              -1.3 |               -1.5 |           0
+ 2024-07 | Qualificação → Proposta    |         10 |           6 |          60.0 |              -3.6 |               -5.7 |           0
+ 2024-07 | Proposta → Negociação      |          6 |           3 |          50.0 |             -21.4 |              -30.0 |           0
+ 2024-07 | Negociação → Fechado Ganho |          3 |           2 |          66.7 |               6.7 |               11.1 |           0
+ 2024-08 | Prospecção → Qualificação  |         15 |          10 |          66.7 |             -16.7 |              -20.0 |           0
+ 2024-08 | Qualificação → Proposta    |         10 |           9 |          90.0 |              30.0 |               50.0 |           0
+ 2024-08 | Proposta → Negociação      |          9 |           7 |          77.8 |              27.8 |               55.6 |           0
+ 2024-08 | Negociação → Fechado Ganho |          7 |           4 |          57.1 |              -9.5 |              -14.3 |           0
+ 2024-09 | Prospecção → Qualificação  |         20 |          16 |          80.0 |              13.3 |               20.0 |           0
+ 2024-09 | Qualificação → Proposta    |         16 |          15 |          93.8 |               3.8 |                4.2 |           0
+ 2024-09 | Proposta → Negociação      |         15 |           8 |          53.3 |             -24.4 |              -31.4 |           0
+ 2024-09 | Negociação → Fechado Ganho |          8 |           6 |          75.0 |              17.9 |               31.3 |           0
+ 2024-10 | Prospecção → Qualificação  |         15 |          13 |          86.7 |               6.7 |                8.3 |           0
+ 2024-10 | Qualificação → Proposta    |         13 |          10 |          76.9 |             -16.8 |              -17.9 |           0
+ 2024-10 | Proposta → Negociação      |         10 |           7 |          70.0 |              16.7 |               31.3 |           0
+ 2024-10 | Negociação → Fechado Ganho |          7 |           4 |          57.1 |             -17.9 |              -23.8 |           0
+ 2024-11 | Prospecção → Qualificação  |         17 |          16 |          94.1 |               7.5 |                8.6 |           0
+ 2024-11 | Qualificação → Proposta    |         16 |          11 |          68.8 |              -8.2 |              -10.6 |           0
+ 2024-11 | Proposta → Negociação      |         11 |          10 |          90.9 |              20.9 |               29.9 |           0
+ 2024-11 | Negociação → Fechado Ganho |         10 |           9 |          90.0 |              32.9 |               57.5 |           0
+ 2024-12 | Prospecção → Qualificação  |         12 |           9 |          75.0 |             -19.1 |              -20.3 |           0
+ 2024-12 | Qualificação → Proposta    |          9 |           7 |          77.8 |               9.0 |               13.1 |           0
+ 2024-12 | Proposta → Negociação      |          7 |           2 |          28.6 |             -62.3 |              -68.6 |           0
+ 2024-12 | Negociação → Fechado Ganho |          2 |           2 |         100.0 |              10.0 |               11.1 |           0
+ 2025-01 | Prospecção → Qualificação  |         13 |           9 |          69.2 |              -5.8 |               -7.7 |           0
+ 2025-01 | Qualificação → Proposta    |          9 |           5 |          55.6 |             -22.2 |              -28.6 |           0
+ 2025-01 | Proposta → Negociação      |          5 |           4 |          80.0 |              51.4 |              180.0 |           0
+ 2025-01 | Negociação → Fechado Ganho |          4 |           3 |          75.0 |             -25.0 |              -25.0 |           0
+ 2025-02 | Prospecção → Qualificação  |          9 |           9 |         100.0 |              30.8 |               44.4 |           0
+ 2025-02 | Qualificação → Proposta    |          9 |           9 |         100.0 |              44.4 |               80.0 |           0
+ 2025-02 | Proposta → Negociação      |          9 |           4 |          44.4 |             -35.6 |              -44.4 |           0
+ 2025-02 | Negociação → Fechado Ganho |          4 |           3 |          75.0 |               0.0 |                0.0 |           0
+ 2025-03 | Prospecção → Qualificação  |         19 |          15 |          78.9 |             -21.1 |              -21.1 |           0
+ 2025-03 | Qualificação → Proposta    |         15 |          12 |          80.0 |             -20.0 |              -20.0 |           0
+ 2025-03 | Proposta → Negociação      |         12 |           8 |          66.7 |              22.2 |               50.0 |           0
+ 2025-03 | Negociação → Fechado Ganho |          8 |           4 |          50.0 |             -25.0 |              -33.3 |           0
+ 2025-04 | Prospecção → Qualificação  |         17 |          13 |          76.5 |              -2.5 |               -3.1 |           0
+ 2025-04 | Qualificação → Proposta    |         13 |           9 |          69.2 |             -10.8 |              -13.5 |           0
+ 2025-04 | Proposta → Negociação      |          9 |           7 |          77.8 |              11.1 |               16.7 |           0
+ 2025-04 | Negociação → Fechado Ganho |          7 |           3 |          42.9 |              -7.1 |              -14.3 |           0
+ 2025-05 | Prospecção → Qualificação  |         22 |          19 |          86.4 |               9.9 |               12.9 |           0
+ 2025-05 | Qualificação → Proposta    |         19 |          14 |          73.7 |               4.5 |                6.4 |           0
+ 2025-05 | Proposta → Negociação      |         14 |          10 |          71.4 |              -6.3 |               -8.2 |           0
+ 2025-05 | Negociação → Fechado Ganho |         10 |           8 |          80.0 |              37.1 |               86.7 |           0
+ 2025-06 | Prospecção → Qualificação  |         23 |          20 |          87.0 |               0.6 |                0.7 |           0
+ 2025-06 | Qualificação → Proposta    |         20 |          15 |          75.0 |               1.3 |                1.8 |           0
+ 2025-06 | Proposta → Negociação      |         15 |          11 |          73.3 |               1.9 |                2.7 |           0
+ 2025-06 | Negociação → Fechado Ganho |         11 |           7 |          63.6 |             -16.4 |              -20.5 |           0
+ 2025-07 | Prospecção → Qualificação  |         21 |          16 |          76.2 |             -10.8 |              -12.4 |           0
+ 2025-07 | Qualificação → Proposta    |         16 |          11 |          68.8 |              -6.3 |               -8.3 |           0
+ 2025-07 | Proposta → Negociação      |         11 |          10 |          90.9 |              17.6 |               24.0 |           0
+ 2025-07 | Negociação → Fechado Ganho |         10 |           9 |          90.0 |              26.4 |               41.4 |           0
+ 2025-08 | Prospecção → Qualificação  |         19 |          13 |          68.4 |              -7.8 |              -10.2 |           0
+ 2025-08 | Qualificação → Proposta    |         13 |          11 |          84.6 |              15.9 |               23.1 |           0
+ 2025-08 | Proposta → Negociação      |         11 |           7 |          63.6 |             -27.3 |              -30.0 |           0
+ 2025-08 | Negociação → Fechado Ganho |          7 |           6 |          85.7 |              -4.3 |               -4.8 |           0
+ 2025-09 | Prospecção → Qualificação  |         20 |          12 |          60.0 |              -8.4 |              -12.3 |           0
+ 2025-09 | Qualificação → Proposta    |         12 |           8 |          66.7 |             -17.9 |              -21.2 |           0
+ 2025-09 | Proposta → Negociação      |          8 |           4 |          50.0 |             -13.6 |              -21.4 |           0
+ 2025-09 | Negociação → Fechado Ganho |          4 |           3 |          75.0 |             -10.7 |              -12.5 |           0
+ 2025-10 | Prospecção → Qualificação  |         17 |          13 |          76.5 |              16.5 |               27.5 |           0
+ 2025-10 | Qualificação → Proposta    |         13 |          10 |          76.9 |              10.3 |               15.4 |           0
+ 2025-10 | Proposta → Negociação      |         10 |           8 |          80.0 |              30.0 |               60.0 |           0
+ 2025-10 | Negociação → Fechado Ganho |          8 |           5 |          62.5 |             -12.5 |              -16.7 |           0
+ 2025-11 | Prospecção → Qualificação  |         15 |          10 |          66.7 |              -9.8 |              -12.8 |           0
+ 2025-11 | Qualificação → Proposta    |         10 |           9 |          90.0 |              13.1 |               17.0 |           0
+ 2025-11 | Proposta → Negociação      |          9 |           5 |          55.6 |             -24.4 |              -30.6 |           0
+ 2025-11 | Negociação → Fechado Ganho |          5 |           5 |         100.0 |              37.5 |               60.0 |           0
+ 2025-12 | Prospecção → Qualificação  |         21 |          16 |          76.2 |               9.5 |               14.3 |           0
+ 2025-12 | Qualificação → Proposta    |         16 |          11 |          68.8 |             -21.3 |              -23.6 |           0
+ 2025-12 | Proposta → Negociação      |         11 |           7 |          63.6 |               8.1 |               14.5 |           0
+ 2025-12 | Negociação → Fechado Ganho |          7 |           6 |          85.7 |             -14.3 |              -14.3 |           0
+ 2026-01 | Prospecção → Qualificação  |         20 |          18 |          90.0 |              13.8 |               18.1 |           0
+ 2026-01 | Qualificação → Proposta    |         18 |          14 |          77.8 |               9.0 |               13.1 |           0
+ 2026-01 | Proposta → Negociação      |         14 |          10 |          71.4 |               7.8 |               12.2 |           0
+ 2026-01 | Negociação → Fechado Ganho |         10 |           8 |          80.0 |              -5.7 |               -6.7 |           0
+ 2026-02 | Prospecção → Qualificação  |         10 |           6 |          60.0 |             -30.0 |              -33.3 |           0
+ 2026-02 | Qualificação → Proposta    |          6 |           4 |          66.7 |             -11.1 |              -14.3 |           0
+ 2026-02 | Proposta → Negociação      |          4 |           1 |          25.0 |             -46.4 |              -65.0 |           0
+ 2026-02 | Negociação → Fechado Ganho |          1 |           0 |           0.0 |             -80.0 |             -100.0 |           0
+ 2026-03 | Prospecção → Qualificação  |         23 |          16 |          69.6 |               9.6 |               15.9 |           0
+ 2026-03 | Qualificação → Proposta    |         16 |          14 |          87.5 |              20.8 |               31.3 |           0
+ 2026-03 | Proposta → Negociação      |         14 |           9 |          64.3 |              39.3 |              157.1 |           0
+ 2026-03 | Negociação → Fechado Ganho |          9 |           7 |          77.8 |              77.8 |                    |           0
+ 2026-04 | Prospecção → Qualificação  |         16 |          14 |          87.5 |              17.9 |               25.8 |           6
+ 2026-04 | Qualificação → Proposta    |         14 |          10 |          71.4 |             -16.1 |              -18.4 |           6
+ 2026-04 | Proposta → Negociação      |         10 |           7 |          70.0 |               5.7 |                8.9 |           6
+ 2026-04 | Negociação → Fechado Ganho |          7 |           4 |          57.1 |             -20.6 |              -26.5 |           6
+ 2026-05 | Prospecção → Qualificação  |         23 |          19 |          82.6 |              -4.9 |               -5.6 |           0
+ 2026-05 | Qualificação → Proposta    |         19 |          14 |          73.7 |               2.3 |                3.2 |           0
+ 2026-05 | Proposta → Negociação      |         14 |          10 |          71.4 |               1.4 |                2.0 |           0
+ 2026-05 | Negociação → Fechado Ganho |         10 |           7 |          70.0 |              12.9 |               22.5 |           0
+ 2026-06 | Prospecção → Qualificação  |         21 |          13 |          61.9 |             -20.7 |              -25.1 |           5
+ 2026-06 | Qualificação → Proposta    |         13 |          10 |          76.9 |               3.2 |                4.4 |           5
+ 2026-06 | Proposta → Negociação      |         10 |           4 |          40.0 |             -31.4 |              -44.0 |           5
+ 2026-06 | Negociação → Fechado Ganho |          4 |           3 |          75.0 |               5.0 |                7.1 |           5
+ 2026-07 | Prospecção → Qualificação  |         16 |          11 |          68.8 |               6.8 |               11.1 |           0
+ 2026-07 | Qualificação → Proposta    |         11 |          10 |          90.9 |              14.0 |               18.2 |           0
+ 2026-07 | Proposta → Negociação      |         10 |           7 |          70.0 |              30.0 |               75.0 |           0
+ 2026-07 | Negociação → Fechado Ganho |          7 |           6 |          85.7 |              10.7 |               14.3 |           0
+ 2026-08 | Prospecção → Qualificação  |         25 |          21 |          84.0 |              15.3 |               22.2 |          36
+ 2026-08 | Qualificação → Proposta    |         21 |          20 |          95.2 |               4.3 |                4.8 |          36
+ 2026-08 | Proposta → Negociação      |         20 |          12 |          60.0 |             -10.0 |              -14.3 |          36
+ 2026-08 | Negociação → Fechado Ganho |         12 |           8 |          66.7 |             -19.0 |              -22.2 |          36
+ 2026-09 | Prospecção → Qualificação  |         26 |          26 |         100.0 |              16.0 |               19.0 |          54
+ 2026-09 | Qualificação → Proposta    |         26 |          21 |          80.8 |             -14.5 |              -15.2 |          54
+ 2026-09 | Proposta → Negociação      |         21 |          13 |          61.9 |               1.9 |                3.2 |          54
+ 2026-09 | Negociação → Fechado Ganho |         13 |           7 |          53.8 |             -12.8 |              -19.2 |          54
+(132 rows)
+
+     etapa     | qtd | conv_da_etapa_anterior_pct | conv_acumulada_pct 
+---------------+-----+----------------------------+--------------------
+ Prospecção    | 512 |                            |              100.0
+ Qualificação  | 396 |                       77.3 |               77.3
+ Proposta      | 301 |                       76.0 |               58.8
+ Negociação    | 204 |                       67.8 |               39.8
+ Fechado Ganho | 153 |                       75.0 |               29.9
+(5 rows)
+
+ posicao |             nome             |   receita    | participacao_pct | acumulado_pct | classe_abc 
+---------+------------------------------+--------------+------------------+---------------+------------
+       1 | Clínica Araucária S.A.       | 1,898,435.00 |            20.12 |         20.12 | A
+       2 | Indústria Serra Azul S.A.    | 707,760.00   |             7.50 |         27.62 | A
+       3 | Grupo Aurora ME              | 648,090.00   |             6.87 |         34.48 | A
+       4 | Laboratório Três Rios Ltda   | 550,092.50   |             5.83 |         40.31 | A
+       5 | Rede Paraná Ltda             | 412,760.00   |             4.37 |         44.68 | A
+       6 | Logística Santa Luzia Ltda   | 381,345.00   |             4.04 |         48.73 | A
+       7 | Logística Nova Era S.A.      | 365,760.00   |             3.88 |         52.60 | A
+       8 | Construtora Araucária EIRELI | 322,117.50   |             3.41 |         56.01 | A
+       9 | Energia Guaporé Ltda         | 262,820.00   |             2.78 |         58.80 | A
+      10 | Escola Jequitibá S.A.        | 250,520.00   |             2.65 |         61.45 | A
+(10 rows)
+
+ classe | clientes | pct_clientes | pct_receita 
+--------+----------+--------------+-------------
+ A      |       19 |         27.5 |        80.5
+ B      |       17 |         24.6 |        14.7
+ C      |       33 |         47.8 |         4.8
+(3 rows)
+
+          faixa           |  n  | media_dias | mediana_dias |  q1   |  q3  |  iqr  | lim_inf | lim_sup | outliers | media_sem_outliers 
+--------------------------+-----+------------+--------------+-------+------+-------+---------+---------+----------+--------------------
+ 1. Pequeno (< R$ 10 mil) | 112 |       44.0 |         39.5 | 29.75 |   52 | 22.25 |       0 |  85.375 |        6 |               40.2
+ 2. Médio (R$ 10–50 mil)  | 225 |       50.3 |           45 |    30 |   64 |    34 |       0 |     115 |        2 |               49.2
+ 3. Grande (≥ R$ 50 mil)  | 175 |       72.1 |           65 |  45.5 | 87.5 |    42 |       0 |   150.5 |        7 |               67.1
+(3 rows)
+
+   faixa    | id_externo |             nome              |  origem  |   valor   | ciclo | lim_sup 
+------------+------------+-------------------------------+----------+-----------+-------+---------
+ 1. Pequeno | OPP-0107   | Construtora Araucária - 0107  | Outbound |   4900.00 |   141 |    85.4
+ 1. Pequeno | OPP-0039   | Construtora Serra - 0039      | Outbound |   8550.00 |   132 |    85.4
+ 1. Pequeno | OPP-0466   | Colégio Pioneira - 0466       | Outbound |   9500.00 |   126 |    85.4
+ 1. Pequeno | OPP-0394   | Têxtil Monte - 0394           | Inbound  |   2500.00 |    88 |    85.4
+ 1. Pequeno | OPP-0444   | Laboratório Paraná - 0444     | Outbound |   7175.00 |    87 |    85.4
+ 1. Pequeno | OPP-0480   | Grupo Paraná - 0480           | Outbound |   2500.00 |    87 |    85.4
+ 2. Médio   | OPP-0232   | Têxtil Jequitibá - 0232       | Outbound |  22365.00 |   174 |   115.0
+ 2. Médio   | OPP-0429   | Indústria Atlântico - 0429    | Evento   |  42800.00 |   168 |   115.0
+ 3. Grande  | OPP-0180   | Supermercados Pioneira - 0180 | Inbound  |  91680.00 |   242 |   150.5
+ 3. Grande  | OPP-0388   | Supermercados Guaporé - 0388  | Inbound  | 714000.00 |   194 |   150.5
+ 3. Grande  | OPP-0193   | Construtora Araucária - 0193  | Evento   | 208970.00 |   192 |   150.5
+ 3. Grande  | OPP-0136   | Transportadora Nova - 0136    | Outbound | 172900.00 |   191 |   150.5
+ 3. Grande  | OPP-0011   | Logística Guaporé - 0011      | Outbound | 148320.00 |   191 |   150.5
+ 3. Grande  | OPP-0002   | Distribuidora Serra - 0002    | Inbound  | 218120.00 |   174 |   150.5
+ 3. Grande  | OPP-0204   | Laboratório Primavera - 0204  | Outbound |  51300.00 |   159 |   150.5
+(15 rows)
+
+ mes_compra | clientes | voltou_m1 | voltou_m2 | voltou_m3 | voltou_em_ate_3m | retencao_3m_pct 
+------------+----------+-----------+-----------+-----------+------------------+-----------------
+ 2024-02    |        2 |         0 |         0 |         0 |                0 |             0.0
+ 2024-03    |        1 |         0 |         0 |         0 |                0 |             0.0
+ 2024-04    |        3 |         0 |         1 |         1 |                1 |            33.3
+ 2024-05    |        2 |         0 |         0 |         0 |                0 |             0.0
+ 2024-06    |        2 |         1 |         1 |         1 |                1 |            50.0
+ 2024-07    |        1 |         1 |         1 |         0 |                1 |           100.0
+ 2024-08    |        1 |         1 |         0 |         1 |                1 |           100.0
+ 2024-09    |        5 |         0 |         1 |         1 |                1 |            20.0
+ 2024-10    |        5 |         0 |         0 |         0 |                0 |             0.0
+ 2024-11    |        2 |         1 |         1 |         1 |                1 |            50.0
+ 2024-12    |        3 |         1 |         1 |         2 |                2 |            66.7
+ 2025-01    |        6 |         1 |         1 |         1 |                1 |            16.7
+ 2025-02    |        3 |         1 |         2 |         1 |                2 |            66.7
+ 2025-03    |        6 |         1 |         1 |         1 |                1 |            16.7
+ 2025-04    |        3 |         1 |         2 |         1 |                2 |            66.7
+ 2025-05    |        1 |         1 |         1 |         0 |                1 |           100.0
+ 2025-06    |        6 |         1 |         0 |         1 |                1 |            16.7
+ 2025-07    |        9 |         0 |         1 |         1 |                1 |            11.1
+ 2025-08    |        6 |         2 |         1 |         1 |                3 |            50.0
+ 2025-09    |        5 |         1 |         1 |         2 |                2 |            40.0
+ 2025-10    |        6 |         0 |         1 |         2 |                2 |            33.3
+ 2025-11    |        3 |         1 |         0 |         0 |                1 |            33.3
+ 2025-12    |        4 |         1 |         1 |         1 |                1 |            25.0
+ 2026-01    |        6 |         2 |         2 |         2 |                2 |            33.3
+ 2026-02    |        6 |         2 |         2 |         0 |                2 |            33.3
+ 2026-03    |        6 |         2 |         0 |         2 |                3 |            50.0
+ 2026-04    |        4 |         0 |         1 |         1 |                1 |            25.0
+ 2026-05    |        2 |         0 |         0 |         0 |                0 |             0.0
+ 2026-06    |        7 |         3 |         0 |         2 |                4 |            57.1
+ 2026-07    |        5 |         0 |         1 |         2 |                2 |            40.0
+(30 rows)
+
+ ano  | clientes_mes | voltaram | retencao_3m_pct 
+------+--------------+----------+-----------------
+ 2024 |           27 |        8 |            29.6
+ 2025 |           58 |       18 |            31.0
+ 2026 |           36 |       14 |            38.9
+(3 rows)
+
+   id_a   |   id_b   |      nome_a       |      nome_b       |                 email_a                  |                 email_b                  | mesma_conta | sim_nome | dist_email |     classificacao      
+----------+----------+-------------------+-------------------+------------------------------------------+------------------------------------------+-------------+----------+------------+------------------------
+ CTT-0025 | CTT-9010 | Marcos Souza      | Marcos Souza      | marcos.souza25@tresfarm.com.br           | MARCOS.SOUZA25@TRESFARM.COM.BR           | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0102 | CTT-9016 | Luíza Conceição   | Luiza Conceição   | luiza.conceicao102@santahosp.com.br      | LUIZA.CONCEICAO102@SANTAHOSP.COM.BR      | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0103 | CTT-9006 | Mônica Santos     | Monica Santos     | monica.santos103@atlanticosupe.com.br    | MONICA.SANTOS103@ATLANTICOSUPE.COM.BR    | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0150 | CTT-9008 | Mônica Nascimento | Monica Nascimento | monica.nascimento150@paranarede.com.br   |                                          | t           |     1.00 |            | DUPLICADO CERTO
+ CTT-0154 | CTT-9007 | Letícia Costa     | Leticia Costa     | leticia.costa154@boaesco.com.br          | LETICIA.COSTA154@BOAESCO.COM.BR          | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0159 | CTT-0160 | Maria Santos      | Maria Santos      |                                          | maria.santos160@saosupe.com.br           | t           |     1.00 |            | DUPLICADO CERTO
+ CTT-0170 | CTT-9015 | Débora Rodrigues  | Debora Rodrigues  | debora.rodrigues170@montehosp.com.br     | DEBORA.RODRIGUES170@MONTEHOSP.COM.BR     | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0181 | CTT-9014 | Carlos Lima       | Carlos Lima       | carlos.lima181@araucariaener.com.br      |                                          | t           |     1.00 |            | DUPLICADO CERTO
+ CTT-0189 | CTT-9020 | Letícia Pereira   | Leticia Pereira   | leticia.pereira189@paranacole.com.br     | LETICIA.PEREIRA189@PARANACOLE.COM.BR     | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0195 | CTT-9019 | Maria Lima        | Maria Lima        | maria.lima195@serralogi.com.br           | MARIA.LIMA195@SERRALOGI.COM.BR           | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0198 | CTT-9003 | Juliana Souza     | Juliana Souza     | juliana.souza198@cerradocons.com.br      | JULIANA.SOUZA198@CERRADOCONS.COM.BR      | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0236 | CTT-9013 | Sérgio Oliveira   | Sergio Oliveira   | sergio.oliveira236@araucariafarm.com.br  | SERGIO.OLIVEIRA236@ARAUCARIAFARM.COM.BR  | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0248 | CTT-9005 | Marcos Ferreira   | Marcos Ferreira   | marcos.ferreira248@jequitibaindu.com.br  | MARCOS.FERREIRA248@JEQUITIBAINDU.COM.BR  | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0251 | CTT-9002 | Maria Almeida     | Maria Almeida     | maria.almeida251@primaveraener.com.br    | MARIA.ALMEIDA251@PRIMAVERAENER.COM.BR    | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0271 | CTT-9009 | Thiago Costa      | Thiago Costa      | thiago.costa271@montecole.com.br         | THIAGO.COSTA271@MONTECOLE.COM.BR         | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0278 | CTT-9017 | Luíza Almeida     | Luiza Almeida     | luiza.almeida278@montemeta.com.br        | LUIZA.ALMEIDA278@MONTEMETA.COM.BR        | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0057 | CTT-9012 | Vítor Ferreira    | Vitor Ferreira    | vitor.ferreira57@valehosp.com.br         | VITOR.FERREIRA57@VALEHOSP.COM.BR         | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0063 | CTT-9001 | Thiago Nascimento | Thiago Nascimento | thiago.nascimento63@jequitibagrup.com.br | THIAGO.NASCIMENTO63@JEQUITIBAGRUP.COM.BR | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0067 | CTT-9011 | João Almeida      | Joao Almeida      | joao.almeida67@atlanticoindu.com.br      | JOAO.ALMEIDA67@ATLANTICOINDU.COM.BR      | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0094 | CTT-9018 | André Santos      | Andre Santos      | andre.santos94@ribeiraocons.com.br       | ANDRE.SANTOS94@RIBEIRAOCONS.COM.BR       | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0096 | CTT-9004 | Bruno Santos      | Bruno Santos      | bruno.santos96@saohosp.com.br            | BRUNO.SANTOS96@SAOHOSP.COM.BR            | t           |     1.00 |          0 | DUPLICADO CERTO
+ CTT-0026 | CTT-0226 | Maria Costa       | Maria Costa       | maria.costa26@guaporetran.com.br         |                                          | f           |     1.00 |            | HOMÔNIMO (não mesclar)
+ CTT-0028 | CTT-0077 | José Ferreira     | José Ferreira     |                                          | jose.ferreira77@ribeiraoener.com.br      | f           |     1.00 |            | HOMÔNIMO (não mesclar)
+ CTT-0028 | CTT-0140 | José Ferreira     | José Ferreira     |                                          |                                          | f           |     1.00 |            | HOMÔNIMO (não mesclar)
+ CTT-0045 | CTT-0051 | Débora Lima       | Débora Lima       |                                          | debora.lima51@cerradocole.com.br         | f           |     1.00 |            | HOMÔNIMO (não mesclar)
+ CTT-0055 | CTT-0062 | Thiago Ribeiro    | Thiago Ribeiro    | thiago.ribeiro55@mantiqueiraindu.com.br  |                                          | f           |     1.00 |            | HOMÔNIMO (não mesclar)
+ CTT-0223 | CTT-0226 | Maria Costa       | Maria Costa       | maria.costa223@santagrup.com.br          |                                          | f           |     1.00 |            | HOMÔNIMO (não mesclar)
+ CTT-0108 | CTT-0174 | Rafael Santos     | Rafael Santos     | rafael.santos108@cerradohosp.com.br      |                                          | f           |     1.00 |            | HOMÔNIMO (não mesclar)
+ CTT-0065 | CTT-9008 | Mônica Nascimento | Monica Nascimento | monica.nascimento65@guaporelogi.com.br   |                                          | f           |     1.00 |            | HOMÔNIMO (não mesclar)
+ CTT-0108 | CTT-0213 | Rafael Santos     | Rafael Santos     | rafael.santos108@cerradohosp.com.br      |                                          | f           |     1.00 |            | HOMÔNIMO (não mesclar)
+ CTT-0077 | CTT-0140 | José Ferreira     | José Ferreira     | jose.ferreira77@ribeiraoener.com.br      |                                          | f           |     1.00 |            | HOMÔNIMO (não mesclar)
+ CTT-0087 | CTT-0174 | Rafael Santos     | Rafael Santos     | rafael.santos87@trescons.com.br          |                                          | f           |     1.00 |            | HOMÔNIMO (não mesclar)
+ CTT-0087 | CTT-0213 | Rafael Santos     | Rafael Santos     | rafael.santos87@trescons.com.br          |                                          | f           |     1.00 |            | HOMÔNIMO (não mesclar)
+ CTT-0110 | CTT-0183 | Rafael Silva      | Rafael Silva      |                                          | rafael.silva183@ipetext.com.br           | f           |     1.00 |            | HOMÔNIMO (não mesclar)
+ CTT-0241 | CTT-9008 | Mônica Nascimento | Monica Nascimento | monica.nascimento241@ribeiraotran.com.br |                                          | f           |     1.00 |            | HOMÔNIMO (não mesclar)
+ CTT-0174 | CTT-0213 | Rafael Santos     | Rafael Santos     |                                          |                                          | f           |     1.00 |            | HOMÔNIMO (não mesclar)
+(36 rows)
+
+     classificacao      | pares | registros_a_remover 
+------------------------+-------+---------------------
+ DUPLICADO CERTO        |    21 |                  21
+ HOMÔNIMO (não mesclar) |    15 |                   0
+(2 rows)
+
+   id_a   |   id_b   |           nome_a            |             nome_b             | sim_nome 
+----------+----------+-----------------------------+--------------------------------+----------
+ ACC-0026 | ACC-9009 | Construtora Atlântico Ltda  | Construtora Atlantico Ltda     |     1.00
+ ACC-0035 | ACC-9007 | Construtora Aurora S.A.     | Construtora Aurora SA          |     1.00
+ ACC-0039 | ACC-9011 | Agro Guaporé EIRELI         |   Agro  Guaporé  EIRELI        |     1.00
+ ACC-0041 | ACC-9019 | Indústria Primavera ME      | Indústria Primavera M.E.       |     1.00
+ ACC-0048 | ACC-9018 | Escola Atlântico Ltda       |   Escola  Atlântico  Ltda      |     1.00
+ ACC-0065 | ACC-9002 | Indústria Horizonte ME      | Industria Horizonte ME         |     1.00
+ ACC-0071 | ACC-9005 | Construtora Três Rios ME    | Construtora Três Rios M.E.     |     1.00
+ ACC-0087 | ACC-9004 | Hospital Cerrado S.A.       | hospital cerrado s.a.          |     1.00
+ ACC-0096 | ACC-9008 | Rede Ribeirão ME            |   Rede  Ribeirão  ME           |     1.00
+ ACC-0106 | ACC-9015 | Indústria Ipê Ltda          |   Indústria  Ipê  Ltda         |     1.00
+ ACC-0109 | ACC-9014 | Laboratório Nova Era EIRELI | Laboratorio Nova Era EIRELI    |     1.00
+ ACC-0112 | ACC-9016 | Transportadora Cerrado Ltda | Transportadora Cerrado LTDA.   |     1.00
+ ACC-0129 | ACC-9021 | Logística Bandeirantes ME   |   Logística  Bandeirantes  ME  |     1.00
+ ACC-0131 | ACC-9001 | Indústria Araucária S.A.    | Industria Araucaria S.A.       |     1.00
+ ACC-0136 | ACC-9006 | Energia Cerrado S.A.        | ENERGIA CERRADO S.A.           |     1.00
+ ACC-0140 | ACC-9017 | Energia Araucária Ltda      | Energia Araucaria Ltda         |     1.00
+ ACC-0155 | ACC-9003 | Construtora Vale Verde S.A. | construtora vale verde s.a.    |     1.00
+ ACC-0160 | ACC-9010 | Logística Ipê EIRELI        | Logística Ipê EIRELI           |     1.00
+ ACC-0165 | ACC-9013 | Laboratório Paraná Ltda     | Laboratorio Parana Ltda        |     1.00
+ ACC-0174 | ACC-9022 | Têxtil Bandeirantes Ltda    | Têxtil Bandeirantes LTDA.      |     1.00
+ ACC-0190 | ACC-9012 | Metalúrgica Itapuã ME       | Metalúrgica Itapuã M.E.        |     1.00
+ ACC-0206 | ACC-9020 | Rede Serra Azul ME          | Rede Serra Azul M.E.           |     1.00
+(22 rows)
+

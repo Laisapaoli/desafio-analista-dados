@@ -1,0 +1,305 @@
+id_externo,conta_id,nome,sobrenome,email,telefone,cargo
+CTT-0001,ACC-0001,Diego,Costa,diego.costa1@valeindu.com.br,(11) 92097-5303,Coordenador de Vendas
+CTT-0002,ACC-0002,Patrícia,Gonçalves,patricia.goncalves2@atlanticometa.com.br,(11) 91291-7174,Gerente de TI
+CTT-0003,ACC-0003,Lúcia,Souza,lucia.souza3@guaporeindu.com.br,(11) 91110-1861,Analista de Compras
+CTT-0004,ACC-0004,Camila,Souza,camila.souza4@serradist.com.br,(11) 97502-8427,Sócio
+CTT-0005,ACC-0005,André,Silva,andre.silva5@saoagro.com.br,(11) 93657-9713,CEO
+CTT-0006,ACC-0006,Vítor,Ferreira,vitor.ferreira6@paranahosp.com.br,(11) 93838-4980,Gerente Financeiro
+CTT-0007,ACC-0007,Camila,Costa,camila.costa7@soltran.com.br,(11) 93717-5639,Gerente Financeiro
+CTT-0008,ACC-0008,Mônica,Oliveira,monica.oliveira8@araucariacole.com.br,(11) 97643-8030,Coordenador de Vendas
+CTT-0009,ACC-0008,João,Oliveira,joao.oliveira9@araucariacole.com.br,(11) 95903-1995,Analista de Compras
+CTT-0010,ACC-0009,Débora,Pereira,debora.pereira10@valelabo.com.br,(11) 99972-1397,Sócio
+CTT-0011,ACC-0010,José,Gonçalves,jose.goncalves11@santatext.com.br,(11) 97159-3554,Sócio
+CTT-0012,ACC-0010,Letícia,Santos,leticia.santos12@santatext.com.br,(11) 98001-8531,Analista de Compras
+CTT-0013,ACC-0011,Letícia,Silva,leticia.silva13@santatran.com.br,(11) 91957-6991,Gerente Financeiro
+CTT-0014,ACC-0012,Luíza,Costa,luiza.costa14@auroralogi.com.br,(11) 91215-6990,Sócio
+CTT-0015,ACC-0012,Mônica,Oliveira,monica.oliveira15@auroralogi.com.br,(11) 92228-6850,Diretor Comercial
+CTT-0016,ACC-0013,Bruno,Ribeiro,bruno.ribeiro16@horizontelabo.com.br,(11) 91813-7125,CEO
+CTT-0017,ACC-0014,Patrícia,Almeida,patricia.almeida17@auroracole.com.br,(11) 98770-1260,Gerente Financeiro
+CTT-0018,ACC-0014,Camila,Nascimento,camila.nascimento18@auroracole.com.br,(11) 93213-3167,Diretor Comercial
+CTT-0019,ACC-0015,Patrícia,Gonçalves,patricia.goncalves19@primaveracole.com.br,(11) 92287-8688,Gerente Financeiro
+CTT-0020,ACC-0016,Diego,Costa,diego.costa20@serrafarm.com.br,(11) 98274-2783,CEO
+CTT-0021,ACC-0016,Mônica,Araújo,monica.araujo21@serrafarm.com.br,(11) 91131-9194,Sócio
+CTT-0022,ACC-0017,Bruno,Gonçalves,bruno.goncalves22@horizontedist.com.br,(11) 96905-9184,Analista de Compras
+CTT-0023,ACC-0018,João,Almeida,joao.almeida23@saoesco.com.br,(11) 91049-1048,Diretor Comercial
+CTT-0024,ACC-0019,Paulo,Nascimento,paulo.nascimento24@cerradologi.com.br,(11) 91464-8379,Gerente Financeiro
+CTT-0025,ACC-0020,Marcos,Souza,marcos.souza25@tresfarm.com.br,(11) 99819-8212,Gerente Financeiro
+CTT-0026,ACC-0021,Maria,Costa,maria.costa26@guaporetran.com.br,(11) 93146-3589,Diretor Comercial
+CTT-0027,ACC-0021,Mônica,Araújo,monica.araujo27@guaporetran.com.br,(11) 98643-3203,Sócio
+CTT-0028,ACC-0022,José,Ferreira,,(11) 97021-8207,Gerente de TI
+CTT-0029,ACC-0023,Lúcia,Lima,lucia.lima29@ribeiraocole.com.br,(11) 99349-2081,Diretor Comercial
+CTT-0030,ACC-0023,João,Pereira,joao.pereira30@ribeiraocole.com.br,(11) 97948-8614,Sócio
+CTT-0031,ACC-0024,João,Lima,joao.lima31@ipeener.com.br,(11) 98377-8540,CEO
+CTT-0032,ACC-0024,Rafael,Costa,rafael.costa32@ipeener.com.br,(11) 95018-1361,Gerente de TI
+CTT-0033,ACC-0025,Paulo,Rodrigues,paulo.rodrigues33@atlanticocole.com.br,(11) 92815-2023,Coordenador de Vendas
+CTT-0034,ACC-0026,Débora,Nascimento,debora.nascimento34@atlanticocons.com.br,(11) 97275-5540,Sócio
+CTT-0035,ACC-0027,Carlos,Oliveira,carlos.oliveira35@ipesupe.com.br,(11) 97705-5933,Gerente de TI
+CTT-0036,ACC-0028,Maria,Almeida,maria.almeida36@serratran.com.br,(11) 91774-8659,Sócio
+CTT-0037,ACC-0029,Camila,Almeida,camila.almeida37@mantiqueiratran.com.br,(11) 92396-8319,Gerente Financeiro
+CTT-0038,ACC-0030,Paulo,Ferreira,paulo.ferreira38@pioneiraener.com.br,(11) 91477-2737,Analista de Compras
+CTT-0039,ACC-0030,Luíza,Souza,luiza.souza39.pioneiraener.com.br,(11) 91141-3436,Coordenador de Vendas
+CTT-0040,ACC-0031,Mônica,Lima,monica.lima40@ribeiraometa.com.br,(11) 97388-5702,Coordenador de Vendas
+CTT-0041,ACC-0032,Juliana,Nascimento,juliana.nascimento41@ribeiraolabo.com.br,(11) 97744-6503,Diretor Comercial
+CTT-0042,ACC-0032,Letícia,Conceição,leticia.conceicao42@ribeiraolabo.com.br,(11) 95583-1490,CEO
+CTT-0043,ACC-0033,Thiago,Rodrigues,thiago.rodrigues43@novalogi.com.br,(11) 96546-1039,Gerente de TI
+CTT-0044,ACC-0034,Maria,Ferreira,maria.ferreira44@bandeiranteshosp.com.br,(11) 92972-8956,CEO
+CTT-0045,ACC-0035,Débora,Lima,,(11) 97385-4703,Gerente Financeiro
+CTT-0046,ACC-0036,André,Araújo,andre.araujo46@guaporerede.com.br,(11) 94340-1825,CEO
+CTT-0047,ACC-0037,Letícia,Gonçalves,leticia.goncalves47@ipedist.com.br,(11) 92651-4387,CEO
+CTT-0048,ACC-0037,Fernanda,Costa,fernanda.costa48@ipedist.com.br,(11) 99819-6327,Sócio
+CTT-0049,ACC-0038,Bruno,Santos,bruno.santos49@itapuaener.com.br,(11) 95886-8055,Gerente de TI
+CTT-0050,ACC-0039,Camila,Almeida,camila.almeida50@guaporeagro.com.br,(11) 96727-8853,CEO
+CTT-0051,ACC-0040,Débora,Lima,debora.lima51@cerradocole.com.br,(11) 95018-2306,Gerente Financeiro
+CTT-0052,ACC-0041,Marcos,Silva,marcos.silva52@primaveraindu.com.br,(11) 99513-5870,Sócio
+CTT-0053,ACC-0042,Thiago,Costa,thiago.costa53@valeener.com.br,(11) 94764-6201,CEO
+CTT-0054,ACC-0043,Ana,Almeida,ana.almeida54@itapualabo.com.br,(11) 97297-3317,Sócio
+CTT-0055,ACC-0044,Thiago,Ribeiro,thiago.ribeiro55@mantiqueiraindu.com.br,(11) 94983-9464,Gerente Financeiro
+CTT-0056,ACC-0045,João,Conceição,joao.conceicao56@novaclin.com.br,(11) 92335-5154,Analista de Compras
+CTT-0057,ACC-0046,Vítor,Ferreira,vitor.ferreira57@valehosp.com.br,(11) 97217-4635,Sócio
+CTT-0058,ACC-0047,Marcos,Ribeiro,marcos.ribeiro58@valegrup.com.br,(11) 95267-2163,Sócio
+CTT-0059,ACC-0047,Paulo,Almeida,paulo.almeida59@valegrup.com.br,(11) 92072-9759,Sócio
+CTT-0060,ACC-0048,Rafael,Souza,rafael.souza60@atlanticoesco.com.br,(11) 99529-3502,Gerente Financeiro
+CTT-0061,ACC-0049,Fernanda,Almeida,fernanda.almeida61@saodist.com.br,(11) 93742-6531,CEO
+CTT-0062,ACC-0050,Thiago,Ribeiro,,(11) 98069-6498,Gerente Financeiro
+CTT-0063,ACC-0051,Thiago,Nascimento,thiago.nascimento63@jequitibagrup.com.br,(11) 96711-9742,Sócio
+CTT-0064,ACC-0052,Luíza,Nascimento,luiza.nascimento64.jequitibatran.com.br,(11) 92380-4678,Diretor Comercial
+CTT-0065,ACC-0053,Mônica,Nascimento,monica.nascimento65@guaporelogi.com.br,(11) 92958-9541,Diretor Comercial
+CTT-0066,ACC-0053,Marcos,Ribeiro,marcos.ribeiro66@guaporelogi.com.br,(11) 96294-6413,Coordenador de Vendas
+CTT-0067,ACC-0054,João,Almeida,joao.almeida67@atlanticoindu.com.br,(11) 99283-1324,CEO
+CTT-0068,ACC-0055,Vítor,Oliveira,vitor.oliveira68@valesupe.com.br,(11) 94765-5295,Diretor Comercial
+CTT-0069,ACC-0056,Marcos,Pereira,marcos.pereira69@serrameta.com.br,(11) 92331-3030,Gerente Financeiro
+CTT-0070,ACC-0057,André,Oliveira,andre.oliveira70@soldist.com.br,(11) 96151-4157,Gerente de TI
+CTT-0071,ACC-0058,Luíza,Ribeiro,luiza.ribeiro71@saometa.com.br,(11) 96306-7317,Analista de Compras
+CTT-0072,ACC-0059,Rafael,Rodrigues,rafael.rodrigues72@itapuadist.com.br,(11) 96830-6283,Analista de Compras
+CTT-0073,ACC-0060,Juliana,Gonçalves,juliana.goncalves73@boagrup.com.br,(11) 96549-3845,Gerente de TI
+CTT-0074,ACC-0061,Juliana,Conceição,juliana.conceicao74@atlanticogrup.com.br,(11) 98086-4083,Sócio
+CTT-0075,ACC-0062,Bruno,Ribeiro,bruno.ribeiro75@boatext.com.br,(11) 92772-4882,CEO
+CTT-0076,ACC-0063,Vítor,Gonçalves,vitor.goncalves76@novatext.com.br,(11) 96633-5736,CEO
+CTT-0077,ACC-0064,José,Ferreira,jose.ferreira77@ribeiraoener.com.br,(11) 99654-5614,Diretor Comercial
+CTT-0078,ACC-0065,Luíza,Ribeiro,luiza.ribeiro78.horizonteindu.com.br,(11) 97629-6024,Gerente de TI
+CTT-0079,ACC-0065,Thiago,Araújo,thiago.araujo79@horizonteindu.com.br,(11) 98976-2154,Gerente Financeiro
+CTT-0080,ACC-0066,Camila,Gonçalves,camila.goncalves80@aurorasupe.com.br,(11) 98651-5532,Sócio
+CTT-0081,ACC-0066,Diego,Pereira,diego.pereira81@aurorasupe.com.br,(11) 97599-5681,Diretor Comercial
+CTT-0082,ACC-0067,Camila,Silva,,(11) 98198-3213,CEO
+CTT-0083,ACC-0068,Diego,Santos,diego.santos83@atlanticoener.com.br,(11) 95673-8535,Coordenador de Vendas
+CTT-0084,ACC-0069,Rafael,Nascimento,rafael.nascimento84@valecole.com.br,(11) 95446-1374,Gerente Financeiro
+CTT-0085,ACC-0070,Thiago,Lima,thiago.lima85@tresmeta.com.br,(11) 91503-1648,Analista de Compras
+CTT-0086,ACC-0071,Camila,Gonçalves,camila.goncalves86@trescons.com.br,(11) 98577-8396,Gerente Financeiro
+CTT-0087,ACC-0071,Rafael,Santos,rafael.santos87@trescons.com.br,(11) 91500-1698,Gerente Financeiro
+CTT-0088,ACC-0072,Paulo,Ferreira,paulo.ferreira88@araucariaesco.com.br,(11) 96087-4006,Diretor Comercial
+CTT-0089,ACC-0073,Sérgio,Conceição,sergio.conceicao89.guaporecole.com.br,(11) 92556-7576,Analista de Compras
+CTT-0090,ACC-0074,Patrícia,Conceição,patricia.conceicao90@boaclin.com.br,(11) 91598-7683,Analista de Compras
+CTT-0091,ACC-0075,Paulo,Nascimento,paulo.nascimento91@serracons.com.br,(11) 91132-4929,Diretor Comercial
+CTT-0092,ACC-0075,Mônica,Gonçalves,monica.goncalves92@serracons.com.br,(11) 98443-7354,Coordenador de Vendas
+CTT-0093,ACC-0076,Lúcia,Lima,lucia.lima93.ribeiraocons.com.br,(11) 94736-4349,Gerente Financeiro
+CTT-0094,ACC-0076,André,Santos,andre.santos94@ribeiraocons.com.br,(11) 97381-2382,Gerente de TI
+CTT-0095,ACC-0077,João,Silva,joao.silva95@itapuahosp.com.br,(11) 96406-7015,CEO
+CTT-0096,ACC-0078,Bruno,Santos,bruno.santos96@saohosp.com.br,(11) 95574-4283,Diretor Comercial
+CTT-0097,ACC-0079,Paulo,Conceição,paulo.conceicao97@guaporedist.com.br,(11) 99624-1689,Analista de Compras
+CTT-0098,ACC-0080,Luíza,Costa,luiza.costa98@serraindu.com.br,(11) 95045-7948,Coordenador de Vendas
+CTT-0099,ACC-0080,Rafael,Nascimento,rafael.nascimento99@serraindu.com.br,(11) 94819-3798,Gerente Financeiro
+CTT-0100,ACC-0081,Lúcia,Rodrigues,lucia.rodrigues100@paranacons.com.br,(11) 97188-2296,Coordenador de Vendas
+CTT-0101,ACC-0081,Débora,Araújo,debora.araujo101@paranacons.com.br,(11) 97347-7776,Gerente Financeiro
+CTT-0102,ACC-0082,Luíza,Conceição,luiza.conceicao102@santahosp.com.br,(11) 99329-6767,Coordenador de Vendas
+CTT-0103,ACC-0083,Mônica,Santos,monica.santos103@atlanticosupe.com.br,(11) 91096-7073,Sócio
+CTT-0104,ACC-0084,Bruno,Almeida,bruno.almeida104@guaporeclin.com.br,(11) 97807-5725,Coordenador de Vendas
+CTT-0105,ACC-0085,Juliana,Silva,juliana.silva105@santaener.com.br,(11) 92473-7402,Gerente Financeiro
+CTT-0106,ACC-0086,Rafael,Souza,rafael.souza106@paranaener.com.br,(11) 94759-8525,Coordenador de Vendas
+CTT-0107,ACC-0087,Letícia,Souza,leticia.souza107@cerradohosp.com.br,(11) 99901-9621,Sócio
+CTT-0108,ACC-0087,Rafael,Santos,rafael.santos108@cerradohosp.com.br,(11) 96003-2804,Gerente Financeiro
+CTT-0109,ACC-0088,Rafael,Rodrigues,rafael.rodrigues109@atlanticodist.com.br,(11) 98213-9911,Gerente Financeiro
+CTT-0110,ACC-0088,Rafael,Silva,,(11) 96857-2274,Coordenador de Vendas
+CTT-0111,ACC-0089,Juliana,Souza,juliana.souza111@monterede.com.br,(11) 95033-8585,Diretor Comercial
+CTT-0112,ACC-0090,Letícia,Santos,leticia.santos112@paranaesco.com.br,(11) 93957-1720,Gerente Financeiro
+CTT-0113,ACC-0091,Fernanda,Nascimento,fernanda.nascimento113@guaporeesco.com.br,(11) 97797-1371,Gerente Financeiro
+CTT-0114,ACC-0091,Sérgio,Silva,sergio.silva114.guaporeesco.com.br,(11) 94903-5316,Diretor Comercial
+CTT-0115,ACC-0092,Patrícia,Souza,patricia.souza115@auroralabo.com.br,(11) 99269-2355,Gerente de TI
+CTT-0116,ACC-0093,Débora,Souza,debora.souza116@pioneiracole.com.br,(11) 92628-3196,Diretor Comercial
+CTT-0117,ACC-0094,Diego,Souza,diego.souza117@cerradotext.com.br,(11) 99465-1401,Analista de Compras
+CTT-0118,ACC-0094,Fernanda,Gonçalves,,(11) 96688-3095,Sócio
+CTT-0119,ACC-0095,Paulo,Pereira,paulo.pereira119@pioneirasupe.com.br,(11) 93628-2749,Sócio
+CTT-0120,ACC-0096,Luíza,Ribeiro,luiza.ribeiro120@ribeiraorede.com.br,(11) 99959-6277,Analista de Compras
+CTT-0121,ACC-0097,Ana,Lima,ana.lima121@jequitibatext.com.br,(11) 95439-1125,Sócio
+CTT-0122,ACC-0097,Luíza,Oliveira,luiza.oliveira122@jequitibatext.com.br,(11) 91756-3419,Analista de Compras
+CTT-0123,ACC-0098,Juliana,Ribeiro,juliana.ribeiro123@horizontecole.com.br,(11) 98564-8591,Gerente de TI
+CTT-0124,ACC-0099,José,Nascimento,jose.nascimento124@horizonteclin.com.br,(11) 96737-6005,Sócio
+CTT-0125,ACC-0099,Ana,Oliveira,ana.oliveira125@horizonteclin.com.br,(11) 96841-4660,Diretor Comercial
+CTT-0126,ACC-0100,Rafael,Ribeiro,rafael.ribeiro126@novacons.com.br,(11) 98149-7865,Sócio
+CTT-0127,ACC-0100,Paulo,Almeida,paulo.almeida127@novacons.com.br,(11) 96523-1522,CEO
+CTT-0128,ACC-0101,Ana,Oliveira,ana.oliveira128@guaporemeta.com.br,(11) 94299-7692,CEO
+CTT-0129,ACC-0101,João,Oliveira,joao.oliveira129@guaporemeta.com.br,(11) 95855-8929,Gerente Financeiro
+CTT-0130,ACC-0102,André,Rodrigues,andre.rodrigues130@atlanticoclin.com.br,(11) 99381-8599,Diretor Comercial
+CTT-0131,ACC-0103,Vítor,Santos,vitor.santos131@araucariarede.com.br,(11) 95342-5781,Coordenador de Vendas
+CTT-0132,ACC-0104,Letícia,Ribeiro,leticia.ribeiro132@araucariasupe.com.br,(11) 97201-8667,CEO
+CTT-0133,ACC-0104,Aline,Almeida,aline.almeida133@araucariasupe.com.br,(11) 94328-5542,Diretor Comercial
+CTT-0134,ACC-0105,Letícia,Rodrigues,leticia.rodrigues134@cerradometa.com.br,(11) 99185-3744,Gerente de TI
+CTT-0135,ACC-0106,Sérgio,Silva,sergio.silva135@ipeindu.com.br,(11) 92081-8651,Gerente Financeiro
+CTT-0136,ACC-0107,Thiago,Rodrigues,thiago.rodrigues136@boameta.com.br,(11) 94064-6245,CEO
+CTT-0137,ACC-0108,Letícia,Nascimento,leticia.nascimento137@santalogi.com.br,(11) 98630-5782,Diretor Comercial
+CTT-0138,ACC-0109,João,Ferreira,joao.ferreira138@novalabo.com.br,(11) 91944-1197,Sócio
+CTT-0139,ACC-0110,Camila,Costa,camila.costa139.treslabo.com.br,(11) 99982-9255,Gerente Financeiro
+CTT-0140,ACC-0111,José,Ferreira,,(11) 96676-4523,Gerente Financeiro
+CTT-0141,ACC-0112,Letícia,Santos,leticia.santos141@cerradotran.com.br,(11) 91076-4049,Diretor Comercial
+CTT-0142,ACC-0113,Patrícia,Almeida,patricia.almeida142@valetext.com.br,(11) 92724-3332,Gerente de TI
+CTT-0143,ACC-0114,Maria,Oliveira,maria.oliveira143@novatran.com.br,(11) 96471-9346,CEO
+CTT-0144,ACC-0115,Sérgio,Nascimento,sergio.nascimento144@paranasupe.com.br,(11) 95033-4781,Analista de Compras
+CTT-0145,ACC-0115,Diego,Araújo,diego.araujo145@paranasupe.com.br,(11) 93767-2281,CEO
+CTT-0146,ACC-0116,Camila,Almeida,camila.almeida146@ribeiraoindu.com.br,(11) 96098-1065,Analista de Compras
+CTT-0147,ACC-0117,Marcos,Ferreira,marcos.ferreira147@jequitibaesco.com.br,(11) 93501-2532,Analista de Compras
+CTT-0148,ACC-0118,Sérgio,Costa,sergio.costa148@guaporetext.com.br,(11) 95731-6703,Diretor Comercial
+CTT-0149,ACC-0118,Lúcia,Santos,lucia.santos149@guaporetext.com.br,(11) 97420-9835,Sócio
+CTT-0150,ACC-0119,Mônica,Nascimento,monica.nascimento150@paranarede.com.br,(11) 96582-8910,Sócio
+CTT-0151,ACC-0119,Diego,Araújo,diego.araujo151@paranarede.com.br,(11) 95297-9861,Sócio
+CTT-0152,ACC-0120,Fernanda,Costa,fernanda.costa152@jequitibalogi.com.br,(11) 96857-9129,Coordenador de Vendas
+CTT-0153,ACC-0120,Paulo,Costa,paulo.costa153@jequitibalogi.com.br,(11) 95635-7485,CEO
+CTT-0154,ACC-0121,Letícia,Costa,leticia.costa154@boaesco.com.br,(11) 99667-6609,Coordenador de Vendas
+CTT-0155,ACC-0122,Vítor,Santos,vitor.santos155@montesupe.com.br,(11) 95146-8800,CEO
+CTT-0156,ACC-0122,André,Pereira,andre.pereira156@montesupe.com.br,(11) 91667-2026,Gerente Financeiro
+CTT-0157,ACC-0123,Juliana,Pereira,juliana.pereira157@itapuatran.com.br,(11) 97590-8282,Gerente de TI
+CTT-0158,ACC-0124,Thiago,Conceição,thiago.conceicao158@itapuaesco.com.br,(11) 96846-5977,Coordenador de Vendas
+CTT-0159,ACC-0125,Maria,Santos,,(11) 96886-4751,Sócio
+CTT-0160,ACC-0125,Maria,Santos,maria.santos160@saosupe.com.br,(11) 99727-1965,Coordenador de Vendas
+CTT-0161,ACC-0126,José,Araújo,jose.araujo161@valeclin.com.br,(11) 92385-3593,Gerente Financeiro
+CTT-0162,ACC-0126,Rafael,Ribeiro,rafael.ribeiro162@valeclin.com.br,(11) 98392-7603,Gerente de TI
+CTT-0163,ACC-0127,Diego,Silva,diego.silva163.paranagrup.com.br,(11) 97749-6732,Analista de Compras
+CTT-0164,ACC-0127,Diego,Rodrigues,diego.rodrigues164@paranagrup.com.br,(11) 94118-1042,CEO
+CTT-0165,ACC-0128,Thiago,Santos,thiago.santos165@mantiqueiratext.com.br,(11) 93679-1368,Coordenador de Vendas
+CTT-0166,ACC-0129,Rafael,Gonçalves,rafael.goncalves166@bandeiranteslogi.com.br,(11) 97995-9668,Gerente Financeiro
+CTT-0167,ACC-0130,André,Gonçalves,andre.goncalves167@mantiqueiraclin.com.br,(11) 98874-9868,Gerente Financeiro
+CTT-0168,ACC-0131,João,Lima,joao.lima168@araucariaindu.com.br,(11) 95184-3927,Analista de Compras
+CTT-0169,ACC-0131,Marcos,Pereira,marcos.pereira169@araucariaindu.com.br,(11) 99800-3176,Diretor Comercial
+CTT-0170,ACC-0132,Débora,Rodrigues,debora.rodrigues170@montehosp.com.br,(11) 91666-8142,Gerente de TI
+CTT-0171,ACC-0133,Luíza,Nascimento,luiza.nascimento171@aurorameta.com.br,(11) 91763-2997,Coordenador de Vendas
+CTT-0172,ACC-0134,Paulo,Gonçalves,paulo.goncalves172@guaporeener.com.br,(11) 95863-8217,Diretor Comercial
+CTT-0173,ACC-0135,Rafael,Gonçalves,rafael.goncalves173@araucariahosp.com.br,(11) 99321-4999,Analista de Compras
+CTT-0174,ACC-0136,Rafael,Santos,,(11) 93145-1332,Sócio
+CTT-0175,ACC-0136,Juliana,Almeida,juliana.almeida175@cerradoener.com.br,(11) 91495-4353,Gerente de TI
+CTT-0176,ACC-0137,André,Gonçalves,andre.goncalves176@jequitibasupe.com.br,(11) 91438-4320,Analista de Compras
+CTT-0177,ACC-0137,Sérgio,Almeida,sergio.almeida177@jequitibasupe.com.br,(11) 91983-9383,Gerente Financeiro
+CTT-0178,ACC-0138,Mônica,Rodrigues,monica.rodrigues178@solclin.com.br,(11) 97863-7418,Diretor Comercial
+CTT-0179,ACC-0138,Sérgio,Conceição,sergio.conceicao179@solclin.com.br,(11) 96912-7962,Gerente Financeiro
+CTT-0180,ACC-0139,Lúcia,Lima,lucia.lima180@araucariatext.com.br,(11) 98788-7658,Diretor Comercial
+CTT-0181,ACC-0140,Carlos,Lima,carlos.lima181@araucariaener.com.br,(11) 94540-8207,Gerente Financeiro
+CTT-0182,ACC-0140,Marcos,Conceição,marcos.conceicao182@araucariaener.com.br,(11) 94435-1440,CEO
+CTT-0183,ACC-0141,Rafael,Silva,rafael.silva183@ipetext.com.br,(11) 93110-1916,Gerente de TI
+CTT-0184,ACC-0141,Luíza,Almeida,luiza.almeida184@ipetext.com.br,(11) 96596-3102,Gerente Financeiro
+CTT-0185,ACC-0142,Camila,Santos,camila.santos185@serraagro.com.br,(11) 94993-1040,Gerente de TI
+CTT-0186,ACC-0142,Vítor,Nascimento,vitor.nascimento186@serraagro.com.br,(11) 99564-5631,Diretor Comercial
+CTT-0187,ACC-0143,Maria,Araújo,maria.araujo187@novaagro.com.br,(11) 97094-5774,Analista de Compras
+CTT-0188,ACC-0144,Fernanda,Costa,fernanda.costa188@araucarialogi.com.br,(11) 97836-4611,Coordenador de Vendas
+CTT-0189,ACC-0145,Letícia,Pereira,leticia.pereira189@paranacole.com.br,(11) 99059-6494,Gerente de TI
+CTT-0190,ACC-0145,Rafael,Lima,rafael.lima190@paranacole.com.br,(11) 97043-3291,Gerente Financeiro
+CTT-0191,ACC-0146,Patrícia,Ribeiro,patricia.ribeiro191@guaporesupe.com.br,(11) 94734-8674,Analista de Compras
+CTT-0192,ACC-0147,Sérgio,Santos,sergio.santos192@ribeiraologi.com.br,(11) 94131-8015,Diretor Comercial
+CTT-0193,ACC-0148,Luíza,Oliveira,luiza.oliveira193@paranaclin.com.br,(11) 99121-3690,Sócio
+CTT-0194,ACC-0148,Sérgio,Silva,sergio.silva194@paranaclin.com.br,(11) 97386-6312,Gerente Financeiro
+CTT-0195,ACC-0149,Maria,Lima,maria.lima195@serralogi.com.br,(11) 94572-2030,Coordenador de Vendas
+CTT-0196,ACC-0150,Thiago,Costa,thiago.costa196@pioneiratext.com.br,(11) 95946-8978,Coordenador de Vendas
+CTT-0197,ACC-0151,Sérgio,Ferreira,sergio.ferreira197@cerradocons.com.br,(11) 92688-7113,Coordenador de Vendas
+CTT-0198,ACC-0151,Juliana,Souza,juliana.souza198@cerradocons.com.br,(11) 91763-7074,Sócio
+CTT-0199,ACC-0152,Aline,Santos,aline.santos199@montetran.com.br,(11) 95048-7458,CEO
+CTT-0200,ACC-0153,André,Santos,andre.santos200@saolabo.com.br,(11) 98266-5801,CEO
+CTT-0201,ACC-0154,Thiago,Nascimento,thiago.nascimento201@mantiqueirameta.com.br,(11) 96743-3666,Analista de Compras
+CTT-0202,ACC-0154,Bruno,Rodrigues,bruno.rodrigues202@mantiqueirameta.com.br,(11) 97976-4671,Gerente Financeiro
+CTT-0203,ACC-0155,Marcos,Silva,marcos.silva203@valecons.com.br,(11) 92231-2073,Gerente de TI
+CTT-0204,ACC-0156,Camila,Almeida,camila.almeida204@paranaagro.com.br,(11) 92680-9977,Diretor Comercial
+CTT-0205,ACC-0157,Ana,Souza,ana.souza205@bandeirantesclin.com.br,(11) 97307-7611,CEO
+CTT-0206,ACC-0157,Fernanda,Ribeiro,fernanda.ribeiro206@bandeirantesclin.com.br,(11) 96356-1542,Gerente de TI
+CTT-0207,ACC-0158,Juliana,Lima,juliana.lima207@tresindu.com.br,(11) 95461-9236,CEO
+CTT-0208,ACC-0159,José,Silva,jose.silva208@primaveraagro.com.br,(11) 95471-4096,Coordenador de Vendas
+CTT-0209,ACC-0160,Vítor,Costa,vitor.costa209@ipelogi.com.br,(11) 91927-4288,Gerente de TI
+CTT-0210,ACC-0161,Luíza,Costa,luiza.costa210@jequitibafarm.com.br,(11) 91604-4157,Analista de Compras
+CTT-0211,ACC-0162,Lúcia,Souza,lucia.souza211@saofarm.com.br,(11) 95992-1159,Analista de Compras
+CTT-0212,ACC-0163,Diego,Gonçalves,diego.goncalves212@auroragrup.com.br,(11) 95079-9667,Gerente Financeiro
+CTT-0213,ACC-0164,Rafael,Santos,,(11) 98925-4089,Coordenador de Vendas
+CTT-0214,ACC-0165,Vítor,Silva,vitor.silva214@paranalabo.com.br,(11) 94783-8985,Coordenador de Vendas
+CTT-0215,ACC-0166,Ana,Ferreira,,(11) 99660-7766,Diretor Comercial
+CTT-0216,ACC-0166,Patrícia,Almeida,patricia.almeida216@montegrup.com.br,(11) 95527-5867,Coordenador de Vendas
+CTT-0217,ACC-0167,Débora,Costa,debora.costa217@santalabo.com.br,(11) 93560-4120,Gerente Financeiro
+CTT-0218,ACC-0167,Mônica,Costa,monica.costa218@santalabo.com.br,(11) 99072-4476,CEO
+CTT-0219,ACC-0168,José,Costa,jose.costa219@montelabo.com.br,(11) 96043-3927,Diretor Comercial
+CTT-0220,ACC-0169,Patrícia,Oliveira,patricia.oliveira220@serraener.com.br,(11) 99180-3753,Sócio
+CTT-0221,ACC-0169,Sérgio,Ferreira,sergio.ferreira221@serraener.com.br,(11) 95765-9854,Sócio
+CTT-0222,ACC-0170,Lúcia,Conceição,lucia.conceicao222@santagrup.com.br,(11) 92940-6316,CEO
+CTT-0223,ACC-0170,Maria,Costa,maria.costa223@santagrup.com.br,(11) 96578-6880,Sócio
+CTT-0224,ACC-0171,José,Souza,jose.souza224@cerradosupe.com.br,(11) 93694-8690,Coordenador de Vendas
+CTT-0225,ACC-0172,Débora,Costa,debora.costa225@jequitibalabo.com.br,(11) 93696-3902,Analista de Compras
+CTT-0226,ACC-0173,Maria,Costa,,(11) 92398-4122,Sócio
+CTT-0227,ACC-0174,Marcos,Araújo,marcos.araujo227@bandeirantestext.com.br,(11) 91013-3548,CEO
+CTT-0228,ACC-0174,Paulo,Pereira,paulo.pereira228@bandeirantestext.com.br,(11) 91545-6052,Sócio
+CTT-0229,ACC-0175,Carlos,Santos,carlos.santos229@solmeta.com.br,(11) 98126-6264,Analista de Compras
+CTT-0230,ACC-0176,Mônica,Santos,monica.santos230@primaveradist.com.br,(11) 96713-4945,Analista de Compras
+CTT-0231,ACC-0176,Aline,Souza,aline.souza231@primaveradist.com.br,(11) 98747-5285,Sócio
+CTT-0232,ACC-0177,Rafael,Pereira,rafael.pereira232@primaverameta.com.br,(11) 99951-6300,Gerente Financeiro
+CTT-0233,ACC-0177,Mônica,Gonçalves,monica.goncalves233@primaverameta.com.br,(11) 97070-3300,Gerente de TI
+CTT-0234,ACC-0178,Paulo,Santos,paulo.santos234@bandeirantesfarm.com.br,(11) 97043-9122,Gerente de TI
+CTT-0235,ACC-0178,Juliana,Souza,juliana.souza235@bandeirantesfarm.com.br,(11) 93402-8087,Gerente de TI
+CTT-0236,ACC-0179,Sérgio,Oliveira,sergio.oliveira236@araucariafarm.com.br,(11) 92666-2540,Sócio
+CTT-0237,ACC-0180,Mônica,Santos,monica.santos237@novasupe.com.br,(11) 93874-1916,Gerente de TI
+CTT-0238,ACC-0181,Mônica,Ferreira,monica.ferreira238@primaveralabo.com.br,(11) 96875-3870,Coordenador de Vendas
+CTT-0239,ACC-0182,Débora,Ribeiro,debora.ribeiro239@solcole.com.br,(11) 98015-5614,Analista de Compras
+CTT-0240,ACC-0182,Letícia,Nascimento,leticia.nascimento240@solcole.com.br,(11) 99410-4896,Analista de Compras
+CTT-0241,ACC-0183,Mônica,Nascimento,monica.nascimento241@ribeiraotran.com.br,(11) 91322-9441,Analista de Compras
+CTT-0242,ACC-0184,Patrícia,Gonçalves,patricia.goncalves242@boaindu.com.br,(11) 97652-1926,Gerente Financeiro
+CTT-0243,ACC-0184,Patrícia,Oliveira,patricia.oliveira243@boaindu.com.br,(11) 93642-1369,Coordenador de Vendas
+CTT-0244,ACC-0185,Maria,Ferreira,maria.ferreira244@solagro.com.br,(11) 93214-6148,Coordenador de Vendas
+CTT-0245,ACC-0186,Mônica,Lima,monica.lima245@bandeirantesesco.com.br,(11) 99860-5095,Sócio
+CTT-0246,ACC-0187,Juliana,Almeida,juliana.almeida246@tressupe.com.br,(11) 95644-8110,Diretor Comercial
+CTT-0247,ACC-0188,Rafael,Rodrigues,rafael.rodrigues247@pioneiracons.com.br,(11) 91427-1458,Diretor Comercial
+CTT-0248,ACC-0189,Marcos,Ferreira,marcos.ferreira248@jequitibaindu.com.br,(11) 92004-6719,Coordenador de Vendas
+CTT-0249,ACC-0189,João,Silva,joao.silva249@jequitibaindu.com.br,(11) 94460-7996,CEO
+CTT-0250,ACC-0190,Marcos,Santos,marcos.santos250@itapuameta.com.br,(11) 99079-7283,Gerente Financeiro
+CTT-0251,ACC-0191,Maria,Almeida,maria.almeida251@primaveraener.com.br,(11) 92862-9793,Analista de Compras
+CTT-0252,ACC-0192,Aline,Costa,aline.costa252@serraesco.com.br,(11) 95414-4546,Coordenador de Vendas
+CTT-0253,ACC-0193,Débora,Rodrigues,debora.rodrigues253@tresdist.com.br,(11) 94749-2363,Sócio
+CTT-0254,ACC-0194,Vítor,Conceição,vitor.conceicao254@saocole.com.br,(11) 93609-2008,Diretor Comercial
+CTT-0255,ACC-0195,Letícia,Conceição,leticia.conceicao255@montetext.com.br,(11) 98764-2462,Sócio
+CTT-0256,ACC-0196,Débora,Nascimento,debora.nascimento256@primaveragrup.com.br,(11) 91999-5572,Gerente de TI
+CTT-0257,ACC-0197,Patrícia,Almeida,patricia.almeida257@solesco.com.br,(11) 95405-1263,Coordenador de Vendas
+CTT-0258,ACC-0198,Aline,Oliveira,aline.oliveira258@saoener.com.br,(11) 94690-4881,Diretor Comercial
+CTT-0259,ACC-0199,Letícia,Santos,leticia.santos259@mantiqueiralabo.com.br,(11) 98024-5204,Sócio
+CTT-0260,ACC-0200,Patrícia,Araújo,patricia.araujo260@araucariatran.com.br,(11) 95767-3342,Diretor Comercial
+CTT-0261,ACC-0200,Aline,Nascimento,aline.nascimento261@araucariatran.com.br,(11) 93060-3902,Gerente de TI
+CTT-0262,ACC-0201,João,Souza,joao.souza262@pioneiralabo.com.br,(11) 93182-9226,Gerente Financeiro
+CTT-0263,ACC-0202,Letícia,Ferreira,leticia.ferreira263@primaverarede.com.br,(11) 98768-7148,Analista de Compras
+CTT-0264,ACC-0203,Aline,Almeida,aline.almeida264@monteesco.com.br,(11) 93054-7694,Gerente de TI
+CTT-0265,ACC-0204,Rafael,Pereira,rafael.pereira265@araucariacons.com.br,(11) 93221-9372,CEO
+CTT-0266,ACC-0205,Camila,Costa,camila.costa266@mantiqueirahosp.com.br,(11) 91437-5452,Sócio
+CTT-0267,ACC-0206,Patrícia,Nascimento,patricia.nascimento267@serrarede.com.br,(11) 98774-7403,Analista de Compras
+CTT-0268,ACC-0207,João,Ribeiro,joao.ribeiro268@saogrup.com.br,(11) 92353-6431,Gerente Financeiro
+CTT-0269,ACC-0208,Mônica,Pereira,monica.pereira269@soltext.com.br,(11) 93870-2243,Diretor Comercial
+CTT-0270,ACC-0209,Patrícia,Santos,patricia.santos270@itapualogi.com.br,(11) 99268-1808,Analista de Compras
+CTT-0271,ACC-0210,Thiago,Costa,thiago.costa271@montecole.com.br,(11) 99395-2694,CEO
+CTT-0272,ACC-0211,Juliana,Araújo,juliana.araujo272@mantiqueiragrup.com.br,(11) 91281-2381,Sócio
+CTT-0273,ACC-0211,Thiago,Conceição,thiago.conceicao273@mantiqueiragrup.com.br,(11) 91995-7355,Analista de Compras
+CTT-0274,ACC-0212,Luíza,Pereira,luiza.pereira274@boacons.com.br,(11) 95279-3174,Diretor Comercial
+CTT-0275,ACC-0213,Débora,Nascimento,debora.nascimento275@primaveraclin.com.br,(11) 96122-3076,Gerente de TI
+CTT-0276,ACC-0214,Rafael,Lima,rafael.lima276@solgrup.com.br,(11) 97186-8644,Gerente Financeiro
+CTT-0277,ACC-0215,Lúcia,Nascimento,,(11) 91042-3525,Coordenador de Vendas
+CTT-0278,ACC-0216,Luíza,Almeida,luiza.almeida278@montemeta.com.br,(11) 95798-6571,Gerente Financeiro
+CTT-0279,ACC-0216,Maria,Lima,maria.lima279@montemeta.com.br,(11) 95119-2464,Analista de Compras
+CTT-0280,ACC-0217,Camila,Nascimento,camila.nascimento280@boalogi.com.br,(11) 97955-9955,Sócio
+CTT-0281,ACC-0217,Patrícia,Gonçalves,patricia.goncalves281@boalogi.com.br,(11) 98698-3619,Gerente de TI
+CTT-0282,ACC-0218,Thiago,Araújo,thiago.araujo282@saoclin.com.br,(11) 93236-9268,Sócio
+CTT-0283,ACC-0219,Vítor,Nascimento,vitor.nascimento283@pioneiragrup.com.br,(11) 95089-9713,Analista de Compras
+CTT-0284,ACC-0220,Maria,Nascimento,maria.nascimento284@novagrup.com.br,(11) 99183-9860,Gerente Financeiro
+CTT-9001,ACC-0051,Thiago,Nascimento,THIAGO.NASCIMENTO63@JEQUITIBAGRUP.COM.BR,(11) 96711-9742,Sócio
+CTT-9002,ACC-0191,Maria,Almeida,MARIA.ALMEIDA251@PRIMAVERAENER.COM.BR,(11) 92862-9793,Analista de Compras
+CTT-9003,ACC-0151,Juliana,Souza,JULIANA.SOUZA198@CERRADOCONS.COM.BR,(11) 91763-7074,Sócio
+CTT-9004,ACC-0078,Bruno,Santos,BRUNO.SANTOS96@SAOHOSP.COM.BR,(11) 95574-4283,Diretor Comercial
+CTT-9005,ACC-0189,Marcos,Ferreira,MARCOS.FERREIRA248@JEQUITIBAINDU.COM.BR,(11) 92004-6719,Coordenador de Vendas
+CTT-9006,ACC-0083,Monica,Santos,MONICA.SANTOS103@ATLANTICOSUPE.COM.BR,(11) 91096-7073,Sócio
+CTT-9007,ACC-0121,Leticia,Costa,LETICIA.COSTA154@BOAESCO.COM.BR,(11) 99667-6609,Coordenador de Vendas
+CTT-9008,ACC-0119,Monica,Nascimento,,(11) 96582-8910,Sócio
+CTT-9009,ACC-0210,Thiago,Costa,THIAGO.COSTA271@MONTECOLE.COM.BR,(11) 99395-2694,CEO
+CTT-9010,ACC-0020,Marcos,Souza,MARCOS.SOUZA25@TRESFARM.COM.BR,(11) 99819-8212,Gerente Financeiro
+CTT-9011,ACC-0054,Joao,Almeida,JOAO.ALMEIDA67@ATLANTICOINDU.COM.BR,(11) 99283-1324,CEO
+CTT-9012,ACC-0046,Vitor,Ferreira,VITOR.FERREIRA57@VALEHOSP.COM.BR,(11) 97217-4635,Sócio
+CTT-9013,ACC-0179,Sergio,Oliveira,SERGIO.OLIVEIRA236@ARAUCARIAFARM.COM.BR,(11) 92666-2540,Sócio
+CTT-9014,ACC-0140,Carlos,Lima,,(11) 94540-8207,Gerente Financeiro
+CTT-9015,ACC-0132,Debora,Rodrigues,DEBORA.RODRIGUES170@MONTEHOSP.COM.BR,(11) 91666-8142,Gerente de TI
+CTT-9016,ACC-0082,Luiza,Conceição,LUIZA.CONCEICAO102@SANTAHOSP.COM.BR,(11) 99329-6767,Coordenador de Vendas
+CTT-9017,ACC-0216,Luiza,Almeida,LUIZA.ALMEIDA278@MONTEMETA.COM.BR,(11) 95798-6571,Gerente Financeiro
+CTT-9018,ACC-0076,Andre,Santos,ANDRE.SANTOS94@RIBEIRAOCONS.COM.BR,(11) 97381-2382,Gerente de TI
+CTT-9019,ACC-0149,Maria,Lima,MARIA.LIMA195@SERRALOGI.COM.BR,(11) 94572-2030,Coordenador de Vendas
+CTT-9020,ACC-0145,Leticia,Pereira,LETICIA.PEREIRA189@PARANACOLE.COM.BR,(11) 99059-6494,Gerente de TI

@@ -1,0 +1,9 @@
+ProductCode,Name,Family,UnitPrice,IsActive
+PRD-01,Licença Básica,Licença,1500,True
+PRD-02,Licença Pro,Licença,3200,True
+PRD-03,Licença Enterprise,Licença,6800,True
+PRD-04,Implantação,Serviço,12000,True
+PRD-05,Treinamento,Serviço,2500,True
+PRD-06,Hora de Consultoria,Serviço,350,True
+PRD-07,Suporte Premium,Suporte,4800,True
+PRD-08,Integração via API,Serviço,9500,True

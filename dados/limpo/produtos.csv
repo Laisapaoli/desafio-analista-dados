@@ -1,0 +1,9 @@
+id_externo,nome,familia,preco_lista
+PRD-01,Licença Básica,Licença,1500
+PRD-02,Licença Pro,Licença,3200
+PRD-03,Licença Enterprise,Licença,6800
+PRD-04,Implantação,Serviço,12000
+PRD-05,Treinamento,Serviço,2500
+PRD-06,Hora de Consultoria,Serviço,350
+PRD-07,Suporte Premium,Suporte,4800
+PRD-08,Integração via API,Serviço,9500

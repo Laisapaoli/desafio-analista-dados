@@ -1,0 +1,18 @@
+tabela,problema_inserido,qtd
+contas,UF com grafia inconsistente,35.0
+contas,setor nulo,14.0
+contas,contas duplicadas (nome com variação),22.0
+contatos,contatos duplicados (e-mail em maiúscula / nome sem acento),20.0
+contatos,e-mail nulo,15.0
+contatos,e-mail inválido (sem @),8.0
+oportunidades,datas em dois formatos (ISO e dd/mm/aaaa),
+oportunidades,etapa com grafia inconsistente,40.0
+oportunidades,origem com grafia inconsistente,45.0
+oportunidades,origem nula,18.0
+oportunidades,valor nulo,24.0
+oportunidades,valor negativo,4.0
+oportunidades,data de fechamento inválida,7.0
+oportunidades,fechamento anterior à abertura,5.0
+oportunidades,linhas duplicadas exatas,18.0
+itens,itens órfãos (oportunidade inexistente),4.0
+itens,quantidade zero,3.0

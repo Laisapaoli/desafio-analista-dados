@@ -1,0 +1,559 @@
+etapa_maxima,data_ultima_mudanca_etapa,id_externo,nome,conta_id,etapa,origem,campanha_id,data_abertura,data_fechamento,valor,tipo
+Fechado Ganho,2025-07-15,OPP-0248,Distribuidora Sol - 0248,ACC-0057,Fechado Ganho,Indicação,,03/07/2025,2025-07-15,4560.0,Novo Negócio
+Negociação,2024-02-18,OPP-0003,Têxtil Monte - 0003,ACC-0195,Fechado Perdido,parceiro,,2024-01-18,18/02/2024,6650.0,Expansão
+Prospecção,2025-09-29,OPP-0275,Laboratório Nova - 0275,ACC-9014,Fechado Perdido,Inbound,CMP-02,2025-08-13,2025-09-29,13820.0,Novo Negócio
+Prospecção,2024-09-07,OPP-0054,Grupo Atlântico - 0054,ACC-0061,Fechado Perdido,Inbound,CMP-03,2024-07-07,2024-09-07,9025.0,Novo Negócio
+Fechado Ganho,2026-02-18,OPP-0362,Logística Santa - 0362,ACC-0108,Fechado Ganho,Indicação,,06/01/2026,2026-02-18,12000.0,Expansão
+Fechado Ganho,2025-11-07,OPP-0308,Energia Atlântico - 0308,ACC-0068,Fechado Ganho,Evento,CMP-08,2025-10-04,2025-11-07,11525.0,Novo Negócio
+Prospecção,2024-05-20,OPP-0031,Laboratório Três - 0031,ACC-0110,Closed Lost,Parceiro,,2024-05-06,2024-05-20,13900.0,Expansão
+Proposta,2024-06-21,OPP-0014,Construtora Araucária - 0014,ACC-0204,Fechado Perdido,Inbound,CMP-04,2024-03-28,2024-06-21,235800.0,Expansão
+Qualificação,2026-03-15,OPP-0319,Clínica Araucária - 0319,ACC-0067,Fechado Perdido,Outbound,CMP-09,2025-10-18,2026-03-15,263000.0,Expansão
+Fechado Ganho,2025-10-19,OPP-0268,Grupo Aurora - 0268,ACC-0163,Fechado Ganho,Evento,,2025-08-02,19/10/2025,648090.0,Novo Negócio
+Prospecção,2026-04-06,OPP-0395,Rede Paraná - 0395,ACC-0119,Fechado Perdido,Inbound,CMP-01,2026-03-15,06/04/2026,10575.0,Expansão
+Fechado Ganho,2025-10-01,OPP-0285,Clínica Araucária - 0285,ACC-0067,Fechado Ganho,Inbound,CMP-04,27/08/2025,01/10/2025,8550.0,Expansão
+Fechado Ganho,2026-05-13,OPP-0409,Supermercados São - 0409,ACC-0125,Fechado Ganho,Indicação,,29/03/2026,2026-05-13,4560.0,Novo Negócio
+Fechado Ganho,2026-07-30,OPP-0459,Clínica Araucária - 0459,ACC-0067,Fechado Ganho,Inbound,CMP-03,14/06/2026,2026-07-30,12900.0,Expansão
+Fechado Ganho,2026-09-13,OPP-0474,Têxtil Monte - 0474,ACC-0195,Fechado Ganho,INBOUND,CMP-03,02/07/2026,2026-09-13,31560.0,Expansão
+Negociação,2024-10-22,OPP-0084,Supermercados Guaporé - 0084,ACC-0146,Fechado Perdido,Indicação,,2024-09-07,22/10/2024,317910.0,Expansão
+Fechado Ganho,2025-10-11,OPP-0271,Têxtil Vale - 0271,ACC-0113,Fechado Ganho,outbound,CMP-10,2025-08-06,2025-10-11,40800.0,Expansão
+Fechado Ganho,2025-12-03,OPP-0326,Grupo Monte - 0326,ACC-0166,Fechado Ganho,,,2025-11-05,03/12/2025,16100.0,Expansão
+Qualificação,2026-01-30,OPP-0354,Têxtil Monte - 0354,ACC-0195,Fechado Perdido,Outbound,CMP-11,2025-12-28,30/01/2026,9100.0,Expansão
+Qualificação,2025-08-25,OPP-0225,Grupo Mantiqueira - 0225,ACC-0211,Fechado Perdido,Outbound,CMP-10,06/06/2025,abc,9500.0,Expansão
+Proposta,2024-05-13,OPP-0015,Clínica Araucária - 0015,ACC-0067,Fechado Perdido,Outbound,CMP-09,30/03/2024,13/05/2024,2375.0,Expansão
+Fechado Ganho,2024-09-12,OPP-0055,Clínica Araucária - 0055,ACC-0067,Fechado Ganho,Inbound,CMP-05,11/07/2024,12/09/2024,23050.0,Expansão
+Qualificação,2024-05-19,OPP-0027,Supermercados Guaporé - 0027,ACC-0146,Fechado Perdido,Indicação,,2024-04-30,2024-05-19,20900.0,Expansão
+Proposta,2025-06-05,OPP-0165,Supermercados Guaporé - 0165,ACC-0146,Fechado Perdido,,CMP-05,2025-03-01,2025-06-05,153000.0,Expansão
+Fechado Ganho,2025-03-11,OPP-0107,Construtora Araucária - 0107,ACC-0204,Fechado Ganho,Outbound,CMP-12,2024-10-21,2025-03-11,4900.0,Expansão
+Proposta,2026-08-05,OPP-0470,Têxtil Ipê - 0470,ACC-0141,Fechado Perdido,Evento,,26/06/2026,2026-08-05,7300.0,Expansão
+Prospecção,2025-06-08,OPP-0214,Grupo Mantiqueira - 0214,ACC-0211,Fechado Perdido,Inbound,CMP-03,2025-05-18,08/06/2025,11050.0,Expansão
+Proposta,2026-06-12,OPP-0437,Hospital Araucária - 0437,ACC-0135,Closed Lost,Indicação,,2026-05-15,12/06/2026,57220.0,Novo Negócio
+Proposta,2025-05-08,OPP-0174,Escola São - 0174,ACC-0018,Fechado Perdido,Evento,CMP-07,2025-03-09,2025-05-08,12000.0,Novo Negócio
+Qualificação,2025-09-26,OPP-0258,Farmácia São - 0258,ACC-0162,Fechado Perdido,Outbound,CMP-12,2025-07-18,2025-09-26,-31095.0,Novo Negócio
+Negociação,2026-10-13,OPP-0533,Indústria Vale - 0533,ACC-0001,Negociação,Outbound,CMP-12,2026-09-22,2026-11-04,14300.0,Expansão
+Fechado Ganho,2026-01-11,OPP-0287,Laboratório Três - 0287,ACC-0110,Fechado Ganho,Indicação,,03/09/2025,11/01/2026,521640.0,Expansão
+Fechado Ganho,2025-05-24,OPP-0175,Clínica Araucária - 0175,ACC-0067,Fechado Ganho,Evento,CMP-07,2025-03-11,2025-05-24,57000.0,Expansão
+Negociação,2026-10-22,OPP-0532,Laboratório Primavera - 0532,ACC-0181,Negociação,Outbound,CMP-12,16/09/2026,2026-11-12,310000.0,Novo Negócio
+Prospecção,2026-03-07,OPP-0329,Supermercados Paraná - 0329,ACC-0115,Closed Lost,Outbound,CMP-10,2025-11-12,2026-03-07,284550.0,Expansão
+Proposta,2026-09-23,OPP-0504,Clínica Araucária - 0504,ACC-0067,Proposta,Inbound,CMP-01,18/08/2026,28/11/2026,34925.0,Expansão
+Prospecção,2026-01-13,OPP-0327,Clínica Araucária - 0327,ACC-0067,Fechado Perdido,Evento,CMP-06,2025-11-08,2026-01-13,38400.0,Expansão
+Fechado Ganho,2025-07-23,OPP-0247,Laboratório Três - 0247,ACC-0110,Fechado Ganho,Indicação,,03/07/2025,2025-07-23,14202.5,Expansão
+Negociação,2025-09-20,OPP-0245,Hospital Vale - 0245,ACC-0046,Fechado Perdido,parceiro,,30/06/2025,2025-09-20,95520.0,Expansão
+Prospecção,2025-01-22,OPP-0114,Laboratório Monte - 0114,ACC-0168,Fechado Perdido,Evento,CMP-08,2024-11-02,22/01/2025,,Novo Negócio
+Proposta,2026-10-13,OPP-0530,Colégio Aurora - 0530,ACC-0014,Proposta,Evento,CMP-08,2026-09-15,2026-11-16,6935.0,Novo Negócio
+Proposta,2026-10-27,OPP-0466,Colégio Pioneira - 0466,ACC-0093,Fechado Perdido,Outbound,CMP-10,2026-06-23,2026-10-27,9500.0,Expansão
+Qualificação,2026-02-28,OPP-0367,Clínica Paraná - 0367,ACC-0148,Perdido,Outbound,CMP-11,11/01/2026,2026-02-28,19215.0,Novo Negócio
+Fechado Ganho,2026-06-19,OPP-0449,Clínica Araucária - 0449,ACC-0067,Fechado Ganho,Inbound,,28/05/2026,19/06/2026,4800.0,Expansão
+Proposta,2026-03-31,OPP-0342,Têxtil Cerrado - 0342,ACC-0094,Fechado Perdido,Outbound,CMP-11,2025-12-07,31/03/2026,433620.0,Novo Negócio
+Qualificação,2026-06-24,OPP-0451,Metalúrgica Três - 0451,ACC-0070,Fechado Perdido,Indicação,,2026-05-29,24/06/2026,80550.0,Expansão
+Proposta,2025-10-28,OPP-0301,Grupo Sol - 0301,ACC-0214,Fechado Perdido,Inbound,CMP-03,2025-09-24,2025-10-28,13965.0,Expansão
+Fechado Ganho,2024-10-25,OPP-0098,Grupo Paraná - 0098,ACC-0127,Fechado Ganho,Indicação,,2024-09-29,2024-10-25,11875.0,Novo Negócio
+Prospecção,2026-07-04,OPP-0448,Clínica Araucária - 0448,ACC-0067,Fechado Perdido,Inbound,CMP-01,2026-05-25,04/07/2026,,Expansão
+Fechado Ganho,2024-04-30,OPP-0017,Escola Guaporé - 0017,ACC-0091,Fechado Ganho,Indicação,,2024-03-31,2024-04-30,10800.0,Novo Negócio
+Proposta,2026-09-25,OPP-0526,Clínica Primavera - 0526,ACC-0213,Proposta,Inbound,CMP-01,2026-09-12,2026-12-06,20425.0,Expansão
+Qualificação,2025-01-29,OPP-0129,Indústria Serra - 0129,ACC-0080,Fechado Perdido,Inbound,CMP-02,26/11/2024,29/01/2025,12000.0,Expansão
+Qualificação,2024-12-12,OPP-0104,Clínica Nova - 0104,ACC-0045,Closed Lost,Inbound,,18/10/2024,2024-12-12,12000.0,Expansão
+Proposta,2025-11-10,OPP-0299,Energia Ribeirão - 0299,ACC-0064,Fechado Perdido,Evento,CMP-08,2025-09-21,2025-11-10,55100.0,Novo Negócio
+Prospecção,2025-10-21,OPP-0292,Clínica Paraná - 0292,ACC-0148,Fechado Perdido,Inbound,CMP-04,2025-09-11,2025-10-21,14295.0,Novo Negócio
+Prospecção,2026-09-29,OPP-0488,Clínica Araucária - 0488,ACC-0067,Fechado Perdido,Indicação,,2026-07-25,2026-09-29,23500.0,Expansão
+Fechado Ganho,2025-12-22,OPP-0325,Construtora Três - 0325,ACC-9005,Fechado Ganho,Inbound,CMP-05,2025-11-02,22/12/2025,80000.0,Novo Negócio
+Fechado Ganho,2025-07-26,OPP-0190,Energia Cerrado - 0190,ACC-0136,Fechado Ganho,Evento,CMP-06,12/04/2025,2025-07-26,13900.0,Novo Negócio
+Prospecção,2025-10-25,OPP-0283,Metalúrgica São - 0283,ACC-0058,fechado perdido,Outbound,CMP-11,2025-08-24,25/10/2025,11400.0,Novo Negócio
+Prospecção,2024-12-21,OPP-0106,Clínica Araucária - 0106,ACC-0067,Fechado Perdido,Outbound,CMP-10,2024-10-19,2024-12-21,15120.0,Expansão
+Qualificação,2024-12-04,OPP-0085,Logística Santa - 0085,ACC-0108,Fechado Perdido,Outbound,CMP-11,11/09/2024,2024-12-04,59000.0,Expansão
+Prospecção,2026-10-25,OPP-0506,Rede Paraná - 0506,ACC-0119,Closed Lost,Outbound,CMP-11,2026-08-19,2026-10-25,4800.0,Expansão
+Fechado Ganho,2025-06-19,OPP-0211,Escola Jequitibá - 0211,ACC-0117,Fechado Ganho,,,2025-05-14,19/06/2025,250520.0,Novo Negócio
+Fechado Ganho,2025-06-18,OPP-0201,Colégio Primavera - 0201,ACC-0015,Fechado Ganho,Parceiro,,2025-05-01,18/06/2025,126000.0,Expansão
+Qualificação,2024-04-22,OPP-0019,Clínica Araucária - 0019,ACC-0067,Fechado Perdido,Indicação,,2024-04-08,2024-04-22,102980.0,Expansão
+Prospecção,2025-10-30,OPP-0305,Clínica Vale - 0305,ACC-0126,Fechado Perdido,Indicação,,2025-09-28,30/10/2025,34500.0,Novo Negócio
+Proposta,2025-12-27,OPP-0330,Clínica Araucária - 0330,ACC-0067,Fechado Perdido,Inbound,CMP-02,16/11/2025,27/12/2025,14300.0,Expansão
+Fechado Ganho,2024-08-31,OPP-0070,Clínica Araucária - 0070,ACC-0067,Fechado Ganho,Inbound,CMP-03,2024-08-11,31/08/2024,2500.0,Expansão
+Proposta,2026-06-14,OPP-0423,Têxtil Guaporé - 0423,ACC-0118,Fechado Perdido,Indicação,,2026-04-24,14/06/2026,21867.5,Expansão
+Proposta,2025-06-23,OPP-0136,Transportadora Nova - 0136,ACC-0114,Fechado Perdido,Outbound,CMP-10,2024-12-14,2025-06-23,172900.0,Novo Negócio
+Prospecção,2025-08-04,OPP-0241,Clínica Araucária - 0241,ACC-0067,Fechado Perdido,Outbound,CMP-09,2025-06-23,04/08/2025,9500.0,Expansão
+Negociação,2026-07-20,OPP-0433,Clínica Bandeirantes - 0433,ACC-0157,Fechado Perdido,Inbound,CMP-01,2026-05-11,20/07/2026,346800.0,Novo Negócio
+Proposta,2026-10-21,OPP-0497,Metalúrgica Atlântico - 0497,ACC-0002,Proposta,Outbound,CMP-09,2026-08-09,15/10/2026,192270.0,Expansão
+Fechado Ganho,2026-07-02,OPP-0427,Hospital Vale - 0427,ACC-0046,Fechado Ganho,Evento,CMP-07,29/04/2026,2026-07-02,14375.0,Expansão
+Fechado Ganho,2025-06-18,OPP-0219,Colégio Atlântico - 0219,ACC-0025,Fechado Ganho,Evento,,2025-05-24,18/06/2025,2500.0,Novo Negócio
+Proposta,2026-10-30,OPP-0501,Grupo Monte - 0501,ACC-0166,Fechado Perdido,Outbound,CMP-11,2026-08-12,2026-10-30,38400.0,Expansão
+Negociação,2026-10-28,OPP-0529,Laboratório Três - 0529,ACC-0110,Negociação,Outbound,CMP-09,2026-09-13,2026-11-02,11635.0,Expansão
+Qualificação,2024-05-15,OPP-0012,Têxtil Pioneira - 0012,ACC-0150,Fechado Perdido,Indicação,,2024-03-22,2024-05-15,49540.0,Expansão
+Prospecção,2025-01-15,OPP-0141,Têxtil Cerrado - 0141,ACC-0094,Fechado Perdido,Evento,CMP-06,2024-12-28,2025-01-15,13650.0,Novo Negócio
+Qualificação,2025-10-15,OPP-0286,Logística Santa - 0286,ACC-0108,Fechado Perdido,Indicação,,02/09/2025,2025-10-15,44175.0,Expansão
+Qualificação,2024-08-27,OPP-0058,Rede Guaporé - 0058,ACC-0036,Fechado Perdido,Inbound,CMP-03,2024-07-17,2024-08-27,,Novo Negócio
+Proposta,2025-03-26,OPP-0176,Escola Sol - 0176,ACC-0197,Perdido,Inbound,CMP-05,2025-03-13,2025-03-26,23800.0,Expansão
+Proposta,2026-01-27,OPP-0335,Farmácia Serra - 0335,ACC-0016,Fechado Perdido,outbound,,25/11/2025,2026-01-27,51875.0,Expansão
+Qualificação,2025-04-26,OPP-0154,Grupo Mantiqueira - 0154,ACC-0211,Fechado Perdido,Evento,CMP-06,2025-01-30,2023-12-15,19950.0,Expansão
+Fechado Ganho,2024-06-28,OPP-0002,Distribuidora Serra - 0002,ACC-0004,Fechado Ganho,Inbound,CMP-03,06/01/2024,28/06/2024,218120.0,Novo Negócio
+Prospecção,2026-01-20,OPP-0311,Hospital Cerrado - 0311,ACC-0087,Fechado Perdido,Outbound,CMP-12,2025-10-12,2026-01-20,345600.0,Novo Negócio
+Proposta,2025-01-20,OPP-0126,Laboratório Monte - 0126,ACC-0168,Fechado Perdido,Evento,CMP-07,2024-11-17,2025-01-20,14300.0,Novo Negócio
+Qualificação,2024-02-21,OPP-0001,Rede Paraná - 0001,ACC-0119,Closed Lost,Parceiro,,04/01/2024,2024-02-30,94000.0,Expansão
+Fechado Ganho,2025-03-07,OPP-0158,Rede Paraná - 0158,ACC-0119,Fechado Ganho,Evento,CMP-07,2025-02-13,2025-03-07,4500.0,Expansão
+Prospecção,2026-04-22,OPP-0401,Clínica Araucária - 0401,ACC-0067,Fechado Perdido,Outbound,CMP-09,2026-03-19,2026-04-22,9500.0,Expansão
+Prospecção,2025-10-17,OPP-0281,Hospital Paraná - 0281,ACC-0006,Fechado Perdido,Inbound,CMP-04,20/08/2025,2025-10-17,41000.0,Novo Negócio
+Prospecção,2025-07-02,OPP-0197,Clínica Araucária - 0197,ACC-0067,Fechado Perdido,Evento,CMP-06,2025-04-25,2025-07-02,78880.0,Expansão
+Prospecção,2025-09-04,OPP-0253,Têxtil Jequitibá - 0253,ACC-0097,Fechado Perdido,inbound,CMP-04,2025-07-13,2025-09-04,72800.0,Expansão
+Prospecção,2025-08-24,OPP-0237,Energia Pioneira - 0237,ACC-0030,Fechado Perdido,outbound,CMP-09,2025-06-18,24/08/2025,11400.0,Novo Negócio
+Fechado Ganho,2025-01-16,OPP-0137,Transportadora Mantiqueira - 0137,ACC-0029,Fechado Ganho,Inbound,CMP-05,2024-12-17,2025-01-16,16800.0,Novo Negócio
+Prospecção,2024-08-20,OPP-0065,Construtora Araucária - 0065,ACC-0204,Closed Lost,Indicação,,2024-08-01,2024-08-20,20375.0,Expansão
+Qualificação,2025-08-05,OPP-0233,Logística Santa - 0233,ACC-0108,Fechado Perdido,Outbound,,2025-06-12,2025-08-05,10800.0,Expansão
+Proposta,2026-10-07,OPP-0517,Clínica Primavera - 0517,ACC-0213,Proposta,Outbound,CMP-09,2026-09-03,2026-11-26,23850.0,Expansão
+Qualificação,2025-08-06,OPP-0215,Clínica Primavera - 0215,ACC-0213,Fechado Perdido,Inbound,CMP-04,2025-05-19,2025-08-06,86400.0,Expansão
+Negociação,2024-12-03,OPP-0109,Laboratório Paraná - 0109,ACC-0165,Fechado Perdido,Outbound,,2024-10-24,2024-12-03,76050.0,Expansão
+Fechado Ganho,2024-03-16,OPP-0006,Escola Araucária - 0006,ACC-0072,Fechado Ganho,Inbound,CMP-05,22/02/2024,2024-03-16,11400.0,Novo Negócio
+Prospecção,2026-10-23,OPP-0454,Supermercados Guaporé - 0454,ACC-0146,Perdido,Outbound,CMP-12,2026-06-08,2026-10-23,141150.0,Expansão
+Proposta,2026-06-29,OPP-0391,Clínica Araucária - 0391,ACC-0067,Fechado Perdido,Outbound,CMP-10,2026-03-08,29/06/2026,23310.0,Expansão
+Fechado Ganho,2025-03-24,OPP-0135,Clínica Araucária - 0135,ACC-0067,Fechado Ganho,Parceiro,,2024-12-10,2025-03-24,83980.0,Expansão
+Proposta,2025-05-05,OPP-0160,Têxtil Boa - 0160,ACC-0062,Fechado Perdido,Indicação,,14/02/2025,2025-05-05,30300.0,Novo Negócio
+Proposta,2025-01-03,OPP-0134,Clínica Primavera - 0134,ACC-0213,Fechado Perdido,Indicação,,2024-12-10,03/01/2025,28625.0,Expansão
+Negociação,2026-10-21,OPP-0512,Clínica Araucária - 0512,ACC-0067,Negociação,Outbound,CMP-09,2026-08-27,2026-11-06,34800.0,Expansão
+Fechado Ganho,2025-07-14,OPP-0221,Metalúrgica Três - 0221,ACC-0070,Fechado Ganho,Inbound,CMP-04,2025-05-27,2025-07-14,9025.0,Novo Negócio
+Proposta,2026-04-17,OPP-0371,Construtora Araucária - 0371,ACC-0204,Perdido,Outbound,CMP-12,2026-01-15,17/04/2026,238200.0,Expansão
+Fechado Ganho,2026-09-29,OPP-0496,Distribuidora Ipê - 0496,ACC-0037,Fechado Ganho,Parceiro,,2026-08-08,2026-09-29,,Expansão
+Qualificação,2026-04-16,OPP-0347,Construtora Araucária - 0347,ACC-0204,Fechado Perdido,Outbound,CMP-10,16/12/2025,2026-04-16,77520.0,Expansão
+Prospecção,2025-08-05,OPP-0246,Distribuidora Primavera - 0246,ACC-0176,Fechado Perdido,Evento,CMP-06,01/07/2025,2025-08-05,28150.0,Expansão
+Fechado Ganho,2026-09-19,OPP-0461,Escola Araucária - 0461,ACC-0072,Fechado Ganho,Inbound,,15/06/2026,2026-09-19,48450.0,Expansão
+Fechado Ganho,2026-10-26,OPP-0523,Têxtil Guaporé - 0523,ACC-0118,Ganho,,,11/09/2026,26/10/2026,97280.0,Expansão
+Fechado Ganho,2026-06-22,OPP-0428,Clínica Araucária - 0428,ACC-0067,Fechado Ganho,Inbound,CMP-02,03/05/2026,2026-06-22,,Expansão
+Proposta,2026-10-06,OPP-0480,Grupo Paraná - 0480,ACC-0127,Fechado Perdido,Outbound,CMP-12,2026-07-11,06/10/2026,2500.0,Expansão
+Prospecção,2025-06-03,OPP-0200,Clínica Araucária - 0200,ACC-0067,Fechado Perdido,Outbound,CMP-12,2025-04-29,2025-06-03,8550.0,Expansão
+Fechado Ganho,2026-04-20,OPP-0393,Logística Santa - 0393,ACC-0108,Fechado Ganho,Inbound,,2026-03-10,2026-04-20,21025.0,Expansão
+Proposta,2026-09-09,OPP-0494,Clínica Primavera - 0494,ACC-0213,Proposta,Evento,CMP-08,2026-08-07,12/09/2026,69600.0,Expansão
+Negociação,2026-08-18,OPP-0483,Colégio Primavera - 0483,ACC-0015,Perdido,Evento,CMP-07,14/07/2026,2026-08-18,2500.0,Expansão
+Fechado Ganho,2026-10-21,OPP-0525,Rede Paraná - 0525,ACC-0119,Fechado Ganho,Inbound,CMP-02,11/09/2026,2026-10-21,70300.0,Expansão
+Fechado Ganho,2026-10-26,OPP-0523,Têxtil Guaporé - 0523,ACC-0118,Ganho,,,11/09/2026,26/10/2026,97280.0,Expansão
+Fechado Ganho,2025-08-20,OPP-0254,Colégio Pioneira - 0254,ACC-0093,Fechado Ganho,Parceiro,,15/07/2025,20/08/2025,51825.0,Novo Negócio
+Fechado Ganho,2026-09-24,OPP-0487,Supermercados Guaporé - 0487,ACC-0146,Fechado Ganho,Outbound,CMP-09,2026-07-25,2026-09-24,2250.0,Expansão
+Qualificação,2025-11-09,OPP-0290,Energia Itapuã - 0290,ACC-0038,Fechado Perdido,Inbound,CMP-05,2025-09-07,09/11/2025,78180.0,Novo Negócio
+Qualificação,2026-06-25,OPP-0414,Hospital Santa - 0414,ACC-0082,Fechado Perdido,Outbound,CMP-09,2026-04-08,2026-06-25,57000.0,Novo Negócio
+Fechado Ganho,2026-03-26,OPP-0350,Grupo Nova - 0350,ACC-0220,Fechado Ganho,Outbound,CMP-09,2025-12-23,2026-03-26,33400.0,Novo Negócio
+Negociação,2026-10-19,OPP-0505,Indústria Atlântico - 0505,ACC-0054,negociação,Outbound,CMP-09,2026-08-19,05/11/2026,159120.0,Novo Negócio
+Fechado Ganho,2026-07-09,OPP-0430,Clínica Araucária - 0430,ACC-0067,Fechado Ganho,Outbound,,07/05/2026,2026-07-09,45600.0,Expansão
+Fechado Ganho,2025-10-21,OPP-0309,Distribuidora Ipê - 0309,ACC-0037,Fechado Ganho,Indicação,,06/10/2025,2025-10-21,4320.0,Novo Negócio
+Prospecção,2024-07-03,OPP-0036,Escola Bandeirantes - 0036,ACC-0186,Fechado Perdido,Indicação,,16/05/2024,2024-07-03,23375.0,Novo Negócio
+Qualificação,2026-08-02,OPP-0478,Colégio Cerrado - 0478,ACC-0040,Fechado Perdido,Outbound,CMP-09,2026-07-09,2026-08-02,12967.5,Novo Negócio
+Fechado Ganho,2026-10-19,OPP-0509,Têxtil Mantiqueira - 0509,ACC-0128,Fechado Ganho,Indicação,,2026-08-22,2026-10-19,97280.0,Novo Negócio
+Proposta,2025-07-18,OPP-0203,Transportadora Araucária - 0203,ACC-0200,Fechado Perdido,Outbound,CMP-12,06/05/2025,2025-07-18,12000.0,Expansão
+Qualificação,2025-01-06,OPP-0120,Colégio Sol - 0120,ACC-0182,Closed Lost,Parceiro,,11/11/2024,06/01/2025,23100.0,Novo Negócio
+Proposta,2026-10-29,OPP-0518,Supermercados Ipê - 0518,ACC-0027,Fechado Perdido,Inbound,CMP-04,2026-09-06,2026-10-29,10800.0,Novo Negócio
+Fechado Ganho,2024-06-09,OPP-0021,Clínica Araucária - 0021,ACC-0067,Fechado Ganho,Indicação,,15/04/2024,09/06/2024,4800.0,Expansão
+Prospecção,2026-09-28,OPP-0467,Grupo Mantiqueira - 0467,ACC-0211,Fechado Perdido,Inbound,CMP-02,2026-06-24,28/09/2026,321480.0,Expansão
+Fechado Ganho,2026-07-27,OPP-0424,Rede Paraná - 0424,ACC-0119,Fechado Ganho,Inbound,CMP-05,2026-04-25,2026-07-27,61200.0,Expansão
+Prospecção,2026-01-14,OPP-0328,Metalúrgica Aurora - 0328,ACC-0133,Fechado Perdido,outbound,CMP-11,2025-11-09,14/01/2026,13825.0,Novo Negócio
+Qualificação,2025-07-29,OPP-0191,Indústria Jequitibá - 0191,ACC-0189,Fechado Perdido,Outbound,CMP-11,2025-04-17,2025-07-29,24425.0,Novo Negócio
+Fechado Ganho,2026-10-08,OPP-0522,Construtora Três - 0522,ACC-9005,Fechado Ganho,Inbound,CMP-04,2026-09-11,2026-10-08,40050.0,Expansão
+Proposta,2025-07-02,OPP-0235,Clínica Araucária - 0235,ACC-0067,Fechado Perdido,Indicação,,15/06/2025,2025-07-02,21300.0,Expansão
+Fechado Ganho,2025-02-26,OPP-0148,Têxtil Pioneira - 0148,ACC-0150,Fechado Ganho,Inbound,CMP-02,2025-01-13,2025-02-26,73025.0,Expansão
+Proposta,2026-07-16,OPP-0463,Transportadora Nova - 0463,ACC-0114,Fechado Perdido,Indicação,,17/06/2026,16/07/2026,2500.0,Novo Negócio
+Prospecção,2026-02-28,OPP-0370,Grupo Atlântico - 0370,ACC-0061,Fechado Perdido,Inbound,CMP-04,2026-01-14,2026-02-28,,Novo Negócio
+Prospecção,2024-10-02,OPP-0077,Clínica Araucária - 0077,ACC-0067,Fechado Perdido,Inbound,CMP-05,25/08/2024,02/10/2024,117960.0,Expansão
+Negociação,2025-08-12,OPP-0252,Clínica Araucária - 0252,ACC-0067,Fechado Perdido,Outbound,,2025-07-10,2025-08-12,2500.0,Expansão
+Qualificação,2025-01-27,OPP-0138,Grupo Mantiqueira - 0138,ACC-0211,Fechado Perdido,Parceiro,,26/12/2024,27/01/2025,4800.0,Expansão
+Fechado Ganho,2025-03-02,OPP-0150,Grupo Primavera - 0150,ACC-0196,Fechado Ganho,Inbound,CMP-03,2025-01-16,2025-03-02,2500.0,Novo Negócio
+Proposta,2024-10-18,OPP-0039,Construtora Serra - 0039,ACC-0075,Fechado Perdido,Outbound,CMP-11,2024-06-08,2024-10-18,79610.0,Expansão
+Fechado Ganho,2025-09-11,OPP-0265,Indústria Três - 0265,ACC-0158,Fechado Ganho,Evento,CMP-07,2025-07-30,2025-09-11,18450.0,Novo Negócio
+Proposta,2024-12-12,OPP-0088,Têxtil Ipê - 0088,ACC-0141,Fechado Perdido,Outbound,CMP-11,19/09/2024,2024-12-12,15455.0,Expansão
+Qualificação,2025-04-18,OPP-0143,Logística Santa - 0143,ACC-0108,Fechado Perdido,Outbound,CMP-10,2025-01-05,2025-04-18,13300.0,Expansão
+Qualificação,2025-09-11,OPP-0264,Colégio Aurora - 0264,ACC-0014,Fechado Perdido,Evento,CMP-07,2025-07-28,2025-09-11,12000.0,Novo Negócio
+Fechado Ganho,2025-06-09,OPP-0205,Têxtil Vale - 0205,ACC-0113,Fechado Ganho,,,10/05/2025,09/06/2025,38800.0,Novo Negócio
+Prospecção,2026-07-01,OPP-0432,Rede Paraná - 0432,ACC-0119,Fechado Perdido,Inbound,CMP-05,2026-05-10,2026-07-01,12000.0,Expansão
+Negociação,2024-11-23,OPP-0113,Logística Boa - 0113,ACC-0217,Fechado Perdido,Parceiro,,2024-10-29,23/11/2024,4320.0,Expansão
+Fechado Ganho,2025-04-13,OPP-0171,Clínica Araucária - 0171,ACC-0067,Fechado Ganho,,,2025-03-04,2025-04-13,19250.0,Expansão
+Negociação,2024-11-12,OPP-0071,Rede Paraná - 0071,ACC-0119,Fechado Perdido,Inbound,CMP-03,2024-08-14,12/11/2024,,Expansão
+Qualificação,2025-01-29,OPP-0129,Indústria Serra - 0129,ACC-0080,Fechado Perdido,Inbound,CMP-02,26/11/2024,29/01/2025,12000.0,Expansão
+Fechado Ganho,2026-10-22,OPP-0500,Clínica Araucária - 0500,ACC-0067,Fechado Ganho,Outbound,,2026-08-12,2026-10-22,38000.0,Expansão
+Fechado Ganho,2024-07-15,OPP-0047,Clínica Araucária - 0047,ACC-0067,Fechado Ganho,,,2024-06-22,15/07/2024,9500.0,Expansão
+Fechado Ganho,2026-03-11,OPP-0360,Logística Santa - 0360,ACC-0108,Fechado Ganho,inbound,CMP-02,2026-01-03,2023-12-15,136000.0,Expansão
+Prospecção,2024-12-13,OPP-0094,Construtora Araucária - 0094,ACC-0204,Fechado Perdido,Parceiro,,2024-09-28,2024-12-13,97800.0,Expansão
+Negociação,2026-10-09,OPP-0513,Clínica Araucária - 0513,ACC-0067,Negociação,outbound,CMP-12,29/08/2026,2026-11-10,146040.0,Expansão
+Fechado Ganho,2025-09-28,OPP-0282,Supermercados Guaporé - 0282,ACC-0146,Fechado Ganho,Indicação,,2025-08-23,28/09/2025,23940.0,Expansão
+Negociação,2025-12-21,OPP-0338,Clínica Araucária - 0338,ACC-0067,Fechado Perdido,Parceiro,,2025-12-01,2025-12-21,18450.0,Expansão
+Prospecção,2024-08-13,OPP-0052,Grupo Mantiqueira - 0052,ACC-0211,Fechado Perdido,Inbound,CMP-03,2024-07-01,2024-08-13,14000.0,Expansão
+Negociação,2026-10-08,OPP-0516,Rede Monte - 0516,ACC-0089,Negociação,Indicação,,2026-09-03,2026-11-12,157540.0,Novo Negócio
+Negociação,2026-09-17,OPP-0499,Clínica Araucária - 0499,ACC-0067,fechado perdido,Outbound,CMP-12,2026-08-12,17/09/2026,4320.0,Expansão
+Fechado Ganho,2025-02-10,OPP-0127,Colégio Primavera - 0127,ACC-0015,Fechado Ganho,Evento,CMP-08,2024-11-19,10/02/2025,73440.0,Novo Negócio
+Proposta,2025-10-12,OPP-0274,Grupo Mantiqueira - 0274,ACC-0211,Fechado Perdido,Indicação,,2025-08-11,12/10/2025,663820.0,Expansão
+Proposta,2026-10-30,OPP-0536,Rede Paraná - 0536,ACC-0119,Proposta,Inbound,CMP-03,2026-09-25,2026-12-04,11750.0,Expansão
+Fechado Ganho,2024-04-26,OPP-0010,Clínica Araucária - 0010,ACC-0067,Fechado Ganho,Inbound,CMP-03,2024-03-07,26/04/2024,8550.0,Novo Negócio
+Prospecção,2025-10-26,OPP-0296,Clínica Araucária - 0296,ACC-0067,Fechado Perdido,Parceiro,,2025-09-19,2025-10-26,204000.0,Expansão
+Prospecção,2026-08-02,OPP-0482,Supermercados Guaporé - 0482,ACC-0146,Fechado Perdido,Parceiro,,2026-07-13,2026-08-02,17620.0,Expansão
+Qualificação,2026-06-09,OPP-0378,Energia Ribeirão - 0378,ACC-0064,Fechado Perdido,Outbound,,2026-01-29,09/06/2026,150950.0,Novo Negócio
+Fechado Ganho,2026-07-06,OPP-0446,Grupo Sol - 0446,ACC-0214,Fechado Ganho,indicação,,23/05/2026,06/07/2026,228000.0,Novo Negócio
+Negociação,2024-09-13,OPP-0075,Clínica Araucária - 0075,ACC-0067,Fechado Perdido,Indicação,,2024-08-17,2024-09-13,14060.0,Expansão
+Proposta,2024-08-26,OPP-0056,Escola Paraná - 0056,ACC-0090,Fechado Perdido,indicação,,12/07/2024,2024-08-26,46500.0,Novo Negócio
+Negociação,2024-06-04,OPP-0020,Rede Paraná - 0020,ACC-0119,Fechado Perdido,Inbound,,2024-04-14,2024-06-04,50640.0,Expansão
+Proposta,2026-03-16,OPP-0381,Grupo Mantiqueira - 0381,ACC-0211,Fechado Perdido,INBOUND,CMP-02,10/02/2026,16/03/2026,4320.0,Expansão
+Fechado Ganho,2025-06-18,OPP-0217,Clínica Araucária - 0217,ACC-0067,Fechado Ganho,Inbound,,20/05/2025,2025-06-18,48960.0,Expansão
+Proposta,2024-10-27,OPP-0089,Clínica Araucária - 0089,ACC-0067,Fechado Perdido,Out-bound,CMP-09,2024-09-20,2024-10-27,4800.0,Expansão
+Negociação,2025-04-14,OPP-0173,Grupo Nova - 0173,ACC-0220,Fechado Perdido,Evento,CMP-07,2025-03-06,2025-04-14,60800.0,Expansão
+Qualificação,2026-04-27,OPP-0383,Grupo Mantiqueira - 0383,ACC-0211,Fechado Perdido,Inbound,CMP-03,13/02/2026,2026-04-27,149000.0,Expansão
+Fechado Ganho,2026-09-12,OPP-0476,Logística Araucária - 0476,ACC-0144,Fechado Ganho,Parceiro,,2026-07-06,2026-09-12,4560.0,Expansão
+Prospecção,2026-06-30,OPP-0399,Colégio Primavera - 0399,ACC-0015,Fechado Perdido,Outbound,CMP-10,18/03/2026,2026-06-30,37450.0,Expansão
+Prospecção,2026-10-21,OPP-0514,Clínica Araucária - 0514,ACC-0067,Fechado Perdido,Parceiro,,2026-08-31,21/10/2026,14065.0,Expansão
+Prospecção,2026-01-07,OPP-0313,Clínica Araucária - 0313,ACC-0067,Fechado Perdido,Outbound,CMP-10,13/10/2025,2026-01-07,60800.0,Expansão
+Prospecção,2025-04-28,OPP-0168,Clínica Primavera - 0168,ACC-0213,Fechado Perdido,Outbound,CMP-12,2025-03-03,2025-04-28,50650.0,Expansão
+Proposta,2024-12-21,OPP-0091,Clínica Araucária - 0091,ACC-0067,Fechado Perdido,evento,,2024-09-22,2024-12-21,82500.0,Expansão
+Fechado Ganho,2026-10-27,OPP-0484,Clínica Araucária - 0484,ACC-0067,Fechado Ganho,Outbound,CMP-11,2026-07-18,2026-10-27,18620.0,Expansão
+Qualificação,2025-01-20,OPP-0130,Colégio Aurora - 0130,ACC-0014,Fechado Perdido,Outbound,CMP-11,2024-11-27,2025-01-20,,Novo Negócio
+Prospecção,2026-06-25,OPP-0425,Clínica Araucária - 0425,ACC-0067,Fechado Perdido,Evento,,2026-04-26,25/06/2026,15500.0,Expansão
+Prospecção,2025-06-24,OPP-0209,Clínica Araucária - 0209,ACC-0067,Fechado Perdido,Evento,,2025-05-12,2025-06-24,17500.0,Expansão
+Prospecção,2026-08-30,OPP-0475,Grupo Jequitibá - 0475,ACC-0051,Fechado Perdido,Outbound,,04/07/2026,2026-08-30,11200.0,Novo Negócio
+Fechado Ganho,2025-08-08,OPP-0242,Construtora Araucária - 0242,ACC-0204,Fechado Ganho,Indicação,,2025-06-24,2025-08-08,20760.0,Expansão
+Fechado Ganho,2024-09-18,OPP-0079,Hospital Vale - 0079,ACC-0046,Fechado Ganho,Inbound,CMP-03,2024-09-03,18/09/2024,2375.0,Novo Negócio
+Fechado Ganho,2024-09-09,OPP-0072,Energia Guaporé - 0072,ACC-0134,Fechado Ganho,Parceiro,,15/08/2024,09/09/2024,14300.0,Novo Negócio
+Proposta,2025-01-20,OPP-0126,Laboratório Monte - 0126,ACC-0168,Fechado Perdido,Evento,CMP-07,2024-11-17,2025-01-20,14300.0,Novo Negócio
+Fechado Ganho,2025-04-07,OPP-0157,Colégio Primavera - 0157,ACC-0015,Fechado Ganho,Evento,CMP-06,2025-02-12,07/04/2025,12800.0,Expansão
+Fechado Ganho,2024-09-28,OPP-0011,Logística Guaporé - 0011,ACC-0053,Fechado Ganho,Outbound,CMP-11,2024-03-21,28/09/2024,148320.0,Novo Negócio
+Negociação,2025-07-22,OPP-0231,Rede Paraná - 0231,ACC-0119,Fechado Perdido,Evento,,2025-06-11,2025-07-22,11275.0,Expansão
+Proposta,2025-07-11,OPP-0223,Rede Paraná - 0223,ACC-0119,Fechado Perdido,Outbound,CMP-10,2025-06-04,11/07/2025,50625.0,Expansão
+Negociação,2026-10-25,OPP-0539,Rede Paraná - 0539,ACC-0119,Negociação,Inbound,CMP-01,2026-09-28,2026-11-10,221200.0,Expansão
+Qualificação,2025-06-23,OPP-0218,Têxtil Jequitibá - 0218,ACC-0097,Fechado Perdido,Inbound,CMP-01,22/05/2025,23/06/2025,63300.0,Expansão
+Proposta,2026-06-03,OPP-0417,Rede Paraná - 0417,ACC-0119,Fechado Perdido,Outbound,CMP-11,12/04/2026,2026-06-03,29640.0,Expansão
+Negociação,2026-07-11,OPP-0452,Laboratório Nova - 0452,ACC-0109,Fechado Perdido,Parceiro,,2026-05-31,2026-07-11,623400.0,Novo Negócio
+Qualificação,2026-10-13,OPP-0538,Clínica Araucária - 0538,ACC-0067,Fechado Perdido,Indicação,,2026-09-27,2026-10-13,9450.0,Expansão
+Fechado Ganho,2026-06-14,OPP-0438,Transportadora Araucária - 0438,ACC-0200,Fechado Ganho,Indicação,,2026-05-16,2023-12-15,7605.0,Novo Negócio
+Qualificação,2025-11-23,OPP-0180,Supermercados Pioneira - 0180,ACC-0095,Fechado Perdido,Inbound,CMP-05,26/03/2025,23/11/2025,91680.0,Novo Negócio
+Fechado Ganho,2026-06-11,OPP-0413,Logística Serra - 0413,ACC-0149,Fechado Ganho,Outbound,CMP-10,2026-04-07,2026-06-11,67200.0,Novo Negócio
+Prospecção,2026-07-27,OPP-0457,Grupo Jequitibá - 0457,ACC-0051,Fechado Perdido,Outbound,CMP-09,2026-06-11,27/07/2026,81000.0,Novo Negócio
+Negociação,2025-08-03,OPP-0213,Construtora Pioneira - 0213,ACC-0188,Fechado Perdido,evento,CMP-06,2025-05-17,03/08/2025,247980.0,Novo Negócio
+Proposta,2026-09-03,OPP-0479,Têxtil Cerrado - 0479,ACC-0094,Fechado Perdido,Inbound,,10/07/2026,2026-09-03,13900.0,Novo Negócio
+Qualificação,2024-09-09,OPP-0060,Clínica Araucária - 0060,ACC-0067,Fechado Perdido,Evento,CMP-08,2024-07-21,2024-09-09,11750.0,Expansão
+Proposta,2025-08-29,OPP-0257,Clínica Araucária - 0257,ACC-0067,Fechado Perdido,Indicação,,2025-07-17,2025-08-29,4560.0,Expansão
+Proposta,2025-12-26,OPP-0340,Clínica Araucária - 0340,ACC-0067,Fechado Perdido,Indicação,,06/12/2025,2025-12-26,34200.0,Expansão
+Negociação,2026-05-05,OPP-0406,Têxtil Monte - 0406,ACC-0195,Fechado Perdido,Inbound,CMP-02,2026-03-23,2026-05-05,70200.0,Expansão
+Proposta,2026-01-24,OPP-0339,Transportadora Jequitibá - 0339,ACC-0052,Fechado Perdido,,CMP-02,2025-12-01,2026-01-24,41250.0,Expansão
+Prospecção,2025-08-27,OPP-0260,Clínica Araucária - 0260,ACC-0067,Fechado Perdido,Outbound,CMP-09,2025-07-21,2025-08-27,2250.0,Expansão
+Fechado Ganho,,OPP-0030,Clínica Araucária - 0030,ACC-0067,Fechado Ganho,Parceiro,,2024-05-06,00/00/0000,32670.0,Expansão
+Proposta,2025-07-14,OPP-0192,Rede Paraná - 0192,ACC-0119,Fechado Perdido,Evento,CMP-08,2025-04-18,2025-07-14,89840.0,Expansão
+Qualificação,2025-02-17,OPP-0133,Clínica Primavera - 0133,ACC-0213,Fechado Perdido,Inbound,CMP-03,2024-12-10,17/02/2025,115600.0,Expansão
+Fechado Ganho,2026-06-10,OPP-0394,Têxtil Monte - 0394,ACC-0195,Fechado Ganho,inbound,CMP-05,2026-03-14,2026-06-10,2500.0,Expansão
+Fechado Ganho,2026-08-18,OPP-0486,Grupo Mantiqueira - 0486,ACC-0211,Fechado Ganho,Indicação,,2026-07-23,2026-08-18,19950.0,Novo Negócio
+Qualificação,2024-07-19,OPP-0053,Colégio Pioneira - 0053,ACC-0093,Fechado Perdido,,,2024-07-07,2024-07-19,22400.0,Expansão
+Qualificação,2026-07-07,OPP-0431,Clínica Araucária - 0431,ACC-0067,Fechado Perdido,Outbound,CMP-11,2026-05-08,2026-07-07,6820.0,Expansão
+Qualificação,2026-10-25,OPP-0540,Clínica Araucária - 0540,ACC-0067,Qualificação,Outbound,CMP-09,2026-09-29,19/12/2026,12000.0,Expansão
+Fechado Ganho,2025-07-09,OPP-0226,Têxtil Guaporé - 0226,ACC-0118,Fechado Ganho,Inbound,,2025-06-06,2025-07-09,92800.0,Novo Negócio
+Proposta,2025-12-22,OPP-0323,Logística Santa - 0323,ACC-0108,Fechado Perdido,Evento,CMP-08,2025-11-01,2025-12-22,,Expansão
+Prospecção,2026-04-02,OPP-0376,Distribuidora Primavera - 0376,ACC-0176,Fechado Perdido,,CMP-03,2026-01-25,2026-04-02,,Expansão
+Prospecção,2026-09-04,OPP-0502,Transportadora Araucária - 0502,ACC-0200,Fechado Perdido,Indicação,,2026-08-12,2026-09-04,575520.0,Expansão
+Prospecção,2024-09-11,OPP-0068,Clínica Araucária - 0068,ACC-0067,Fechado Perdido,Inbound,CMP-03,2024-08-06,2024-09-11,4560.0,Expansão
+Qualificação,2024-10-07,OPP-0033,Clínica Araucária - 0033,ACC-0067,Fechado Perdido,Outbound,CMP-10,11/05/2024,07/10/2024,50000.0,Expansão
+Negociação,2025-08-13,OPP-0243,Clínica Araucária - 0243,ACC-0067,Fechado Perdido,Parceiro,,2025-06-25,13/08/2025,38950.0,Expansão
+Fechado Ganho,2025-09-13,OPP-0277,Rede Paraná - 0277,ACC-0119,Fechado Ganho,Parceiro,,2025-08-16,2025-09-13,15450.0,Expansão
+Fechado Ganho,2026-01-13,OPP-0336,Clínica Araucária - 0336,ACC-0067,Fechado Ganho,,,2025-11-29,2026-01-13,258400.0,Expansão
+Proposta,2026-07-17,OPP-0435,Rede Guaporé - 0435,ACC-0036,Perdido,Outbound,,14/05/2026,2026-07-17,19825.0,Novo Negócio
+Proposta,2025-01-05,OPP-0103,Colégio Atlântico - 0103,ACC-0025,Fechado Perdido,Inbound,CMP-01,2024-10-14,2025-01-05,32000.0,Expansão
+Fechado Ganho,2026-03-12,OPP-0357,Clínica Araucária - 0357,ACC-0067,Fechado Ganho,Evento,CMP-07,2025-12-30,2026-03-12,39300.0,Expansão
+Prospecção,2026-04-12,OPP-0380,Clínica Araucária - 0380,ACC-0067,Fechado Perdido,Evento,CMP-08,2026-02-10,2026-04-12,4560.0,Expansão
+Qualificação,2025-10-23,OPP-0251,Energia Pioneira - 0251,ACC-0030,Fechado Perdido,Evento,CMP-08,2025-07-10,2025-10-23,79900.0,Novo Negócio
+Negociação,2024-09-09,OPP-0026,Construtora Serra - 0026,ACC-0075,fechado perdido,Evento,CMP-06,2024-04-24,2024-09-09,58650.0,Expansão
+Proposta,2025-10-24,OPP-0304,Rede Paraná - 0304,ACC-0119,Fechado Perdido,,CMP-07,2025-09-27,2025-10-24,9500.0,Expansão
+Prospecção,2025-08-28,OPP-0269,Energia Guaporé - 0269,ACC-0134,Fechado Perdido,Indicação,,2025-08-02,2025-08-28,,Expansão
+Fechado Ganho,2025-06-18,OPP-0201,Colégio Primavera - 0201,ACC-0015,Fechado Ganho,Parceiro,,2025-05-01,18/06/2025,126000.0,Expansão
+Fechado Ganho,2024-02-13,OPP-0004,Supermercados Vale - 0004,ACC-0055,Fechado Ganho,Inbound,CMP-05,2024-01-21,2024-02-13,2500.0,Novo Negócio
+Prospecção,2024-11-14,OPP-0093,Logística Nova - 0093,ACC-0033,Fechado Perdido,Inbound,,28/09/2024,2024-11-14,285120.0,Expansão
+Prospecção,2026-02-24,OPP-0344,Energia Ribeirão - 0344,ACC-0064,Fechado Perdido,Parceiro,,2025-12-12,2026-02-24,84300.0,Novo Negócio
+Proposta,2025-06-27,OPP-0216,Têxtil Ipê - 0216,ACC-0141,Fechado Perdido,Inbound,,2025-05-19,2025-06-27,13500.0,Expansão
+Prospecção,2026-07-21,OPP-0465,Clínica São - 0465,ACC-0218,Fechado Perdido,Indicação,,2026-06-20,2026-07-21,154870.0,Expansão
+Qualificação,2026-04-25,OPP-0392,Laboratório Primavera - 0392,ACC-0181,Fechado Perdido,Outbound,CMP-10,2026-03-09,2026-04-25,49000.0,Novo Negócio
+Proposta,2026-10-02,OPP-0507,Clínica Araucária - 0507,ACC-0067,Proposta,Outbound,CMP-12,2026-08-21,2026-12-21,151560.0,Expansão
+Fechado Ganho,2025-11-13,OPP-0280,Têxtil Pioneira - 0280,ACC-0150,Fechado Ganho,Outbound,CMP-10,18/08/2025,2025-11-13,83200.0,Expansão
+Qualificação,2024-04-30,OPP-0013,Transportadora São - 0013,ACC-0173,Fechado Perdido,Evento,CMP-07,2024-03-23,2024-04-30,4800.0,Novo Negócio
+Qualificação,2024-04-29,OPP-0008,Clínica Araucária - 0008,ACC-0067,Fechado Perdido,Inbound,CMP-05,2024-03-02,29/04/2024,29687.5,Expansão
+Qualificação,2026-02-19,OPP-0374,Construtora Araucária - 0374,ACC-0204,Fechado Perdido,Outbound,CMP-12,20/01/2026,2026-02-19,16320.0,Expansão
+Proposta,2025-11-27,OPP-0321,Hospital Cerrado - 0321,ACC-9004,Fechado Perdido,Evento,CMP-07,2025-10-25,27/11/2025,9500.0,Novo Negócio
+Prospecção,2026-04-01,OPP-0358,Colégio Pioneira - 0358,ACC-0093,Fechado Perdido,Outbound,CMP-12,2025-12-31,2026-04-01,17100.0,Expansão
+Fechado Ganho,2024-10-13,OPP-0080,Logística Araucária - 0080,ACC-0144,Fechado Ganho,Indicação,,2024-09-03,2024-10-13,242600.0,Novo Negócio
+Proposta,2026-09-19,OPP-0495,Colégio Cerrado - 0495,ACC-0040,Proposta,Inbound,CMP-03,2026-08-07,2026-09-29,,Novo Negócio
+Prospecção,2024-09-22,OPP-0076,Clínica Boa - 0076,ACC-0074,Fechado Perdido,Inbound,CMP-03,2024-08-22,2024-09-22,18945.0,Expansão
+Proposta,2025-04-06,OPP-0164,Metalúrgica Atlântico - 0164,ACC-0002,Perdido,Indicação,,2025-02-25,2025-04-06,4320.0,Expansão
+Qualificação,2025-11-27,OPP-0316,Colégio Aurora - 0316,ACC-0014,Fechado Perdido,Inbound,CMP-04,15/10/2025,2025-11-27,6820.0,Novo Negócio
+Fechado Ganho,2025-10-05,OPP-0289,Distribuidora Primavera - 0289,ACC-0176,Fechado Ganho,Parceiro,,06/09/2025,05/10/2025,13175.0,Novo Negócio
+Prospecção,2026-07-21,OPP-0460,Energia Pioneira - 0460,ACC-0030,Fechado Perdido,Parceiro,,2026-06-15,2026-07-21,13825.0,Novo Negócio
+Proposta,2026-09-29,OPP-0426,Clínica Primavera - 0426,ACC-0213,Proposta,,CMP-11,28/04/2026,2026-10-20,113800.0,Expansão
+Qualificação,2025-10-08,OPP-0250,Clínica Araucária - 0250,ACC-0067,Fechado Perdido,Inbound,CMP-03,2025-07-06,08/10/2025,339760.0,Expansão
+Proposta,2025-02-22,OPP-0140,Transportadora Nova - 0140,ACC-0114,Fechado Perdido,INBOUND,CMP-04,2024-12-28,22/02/2025,4800.0,Novo Negócio
+Fechado Ganho,2025-06-09,OPP-0205,Têxtil Vale - 0205,ACC-0113,Fechado Ganho,,,10/05/2025,09/06/2025,38800.0,Novo Negócio
+Fechado Ganho,2025-02-26,OPP-0148,Têxtil Pioneira - 0148,ACC-0150,Fechado Ganho,Inbound,CMP-02,2025-01-13,2025-02-26,73025.0,Expansão
+Qualificação,2025-07-29,OPP-0238,Colégio Atlântico - 0238,ACC-0025,Fechado Perdido,Inbound,CMP-04,21/06/2025,29/07/2025,14175.0,Expansão
+Proposta,2026-10-13,OPP-0524,Grupo Monte - 0524,ACC-0166,Fechado Perdido,Parceiro,,2026-09-11,2026-10-13,46500.0,Expansão
+Negociação,2025-06-03,OPP-0195,Energia Cerrado - 0195,ACC-0136,Fechado Perdido,Evento,CMP-07,2025-04-21,2025-06-03,12000.0,Expansão
+Proposta,2025-05-27,OPP-0167,Clínica Araucária - 0167,ACC-0067,Fechado Perdido,Inbound,CMP-03,03/03/2025,2025-05-27,44625.0,Expansão
+Prospecção,2025-12-02,OPP-0232,Têxtil Jequitibá - 0232,ACC-0097,Fechado Perdido,Outbound,CMP-10,2025-06-11,02/12/2025,22365.0,Expansão
+Fechado Ganho,2026-01-27,OPP-0356,Metalúrgica Atlântico - 0356,ACC-0002,Fechado Ganho,Inbound,CMP-03,2025-12-29,2026-01-27,,Novo Negócio
+Proposta,2026-07-02,OPP-0441,Escola Bandeirantes - 0441,ACC-0186,Perdido,Inbound,CMP-02,2026-05-16,2026-07-02,11400.0,Novo Negócio
+Fechado Ganho,2024-10-20,OPP-0057,Grupo Pioneira - 0057,ACC-0219,Ganho,Inbound,CMP-05,2024-07-17,20/10/2024,104775.0,Novo Negócio
+Proposta,2026-04-09,OPP-0389,Clínica Araucária - 0389,ACC-0067,Fechado Perdido,Inbound,CMP-04,2026-03-01,2026-04-09,19735.0,Expansão
+Fechado Ganho,2024-07-08,OPP-0044,Clínica Araucária - 0044,ACC-0067,Fechado Ganho,Outbound,,2024-06-19,2024-07-08,5320.0,Expansão
+Qualificação,2024-08-25,OPP-0059,Energia Pioneira - 0059,ACC-0030,Fechado Perdido,Indicação,,2024-07-20,32/01/2026,4800.0,Novo Negócio
+Negociação,2026-05-02,OPP-0366,Energia São - 0366,ACC-0198,Fechado Perdido,Inbound,CMP-04,2026-01-10,2026-05-02,54000.0,Novo Negócio
+Proposta,2025-07-04,OPP-0220,Hospital Vale - 0220,ACC-0046,Fechado Perdido,Inbound,CMP-04,2025-05-27,2025-07-04,11550.0,Expansão
+Prospecção,2026-09-19,OPP-0485,Supermercados Atlântico - 0485,ACC-0083,Fechado Perdido,Inbound,CMP-05,2026-07-21,2026-09-19,83980.0,Novo Negócio
+Prospecção,2024-06-08,OPP-0034,Têxtil Nova - 0034,ACC-0063,Fechado Perdido,Parceiro,,12/05/2024,2024-06-08,2500.0,Novo Negócio
+Fechado Ganho,2026-10-11,OPP-0491,Clínica Araucária - 0491,ACC-0067,Fechado Ganho,Evento,CMP-06,2026-08-03,11/10/2026,4800.0,Expansão
+Prospecção,2025-03-19,OPP-0155,Têxtil Ipê - 0155,ACC-0141,Fechado Perdido,Outbound,CMP-12,2025-01-30,2025-03-19,2250.0,Expansão
+Prospecção,2025-09-30,OPP-0278,Têxtil Jequitibá - 0278,ACC-0097,Fechado Perdido,Indicação,,2025-08-17,2025-09-30,65760.0,Expansão
+Fechado Ganho,2025-08-27,OPP-0261,Rede Paraná - 0261,ACC-0119,Fechado Ganho,Evento,CMP-07,22/07/2025,2025-08-27,12000.0,Expansão
+Negociação,2024-07-12,OPP-0049,Transportadora Nova - 0049,ACC-0114,Fechado Perdido,Indicação,,2024-06-26,2024-07-12,19260.0,Novo Negócio
+Negociação,2025-05-22,OPP-0182,Energia Ipê - 0182,ACC-0024,Closed Lost,Indicação,,2025-03-30,22/05/2025,48450.0,Novo Negócio
+Fechado Ganho,2025-08-11,OPP-0256,Construtora Araucária - 0256,ACC-0204,Fechado Ganho,Indicação,,2025-07-15,2025-08-11,7300.0,Expansão
+Proposta,2024-12-24,OPP-0097,Laboratório Nova - 0097,ACC-9014,Fechado Perdido,Inbound,CMP-02,2024-09-29,2024-12-24,157680.0,Novo Negócio
+Fechado Ganho,2025-12-03,OPP-0318,Rede Paraná - 0318,ACC-0119,Fechado Ganho,Outbound,CMP-10,17/10/2025,03/12/2025,30450.0,Expansão
+Proposta,2026-04-19,OPP-0385,Rede Paraná - 0385,ACC-0119,Fechado Perdido,Inbound,CMP-05,15/02/2026,2026-04-19,57050.0,Expansão
+Negociação,2026-07-28,OPP-0415,Colégio Aurora - 0415,ACC-0014,Fechado Perdido,Outbound,CMP-10,2026-04-08,2026-07-28,-22950.0,Novo Negócio
+Proposta,2025-02-04,OPP-0142,Rede Paraná - 0142,ACC-0119,Fechado Perdido,Indicacao,,2024-12-31,2025-02-04,-30600.0,Expansão
+Prospecção,2025-04-13,OPP-0179,Rede Paraná - 0179,ACC-0119,Fechado Perdido,Indicação,,24/03/2025,2025-04-13,10800.0,Expansão
+Proposta,2026-08-23,OPP-0477,Rede Araucária - 0477,ACC-0103,Fechado Perdido,Inbound,CMP-05,08/07/2026,2026-08-23,83840.0,Novo Negócio
+Qualificação,2024-07-15,OPP-0022,Clínica Bandeirantes - 0022,ACC-0157,Fechado Perdido,outbound,,2024-04-17,2024-07-15,406295.0,Novo Negócio
+Qualificação,2024-09-14,OPP-0078,Clínica Araucária - 0078,ACC-0067,Fechado Perdido,parceiro,,2024-08-26,2024-09-14,51680.0,Expansão
+Qualificação,2025-08-23,OPP-0267,Grupo Mantiqueira - 0267,ACC-0211,Closed Lost,Parceiro,,01/08/2025,2025-08-23,10800.0,Expansão
+Prospecção,2026-07-06,OPP-0456,Clínica Araucária - 0456,ACC-0067,Fechado Perdido,Indicação,,2026-06-10,2026-07-06,8375.0,Expansão
+Prospecção,2026-04-04,OPP-0384,Hospital Itapuã - 0384,ACC-0077,Fechado Perdido,Indicação,,13/02/2026,2026-04-04,98305.0,Novo Negócio
+Proposta,2025-10-28,OPP-0306,Clínica Araucária - 0306,ACC-0067,Fechado Perdido,Parceiro,,02/10/2025,2025-10-28,222800.0,Expansão
+Proposta,2025-10-29,OPP-0273,Têxtil Bandeirantes - 0273,ACC-0174,Fechado Perdido,Outbound,CMP-12,10/08/2025,2025-10-29,24272.5,Novo Negócio
+Negociação,2025-09-21,OPP-0272,Rede Paraná - 0272,ACC-0119,Fechado Perdido,Outbound,CMP-09,07/08/2025,2025-09-21,2250.0,Expansão
+Proposta,2025-12-26,OPP-0334,Clínica Paraná - 0334,ACC-0148,Fechado Perdido,Outbound,CMP-09,2025-11-23,2025-12-26,167960.0,Novo Negócio
+Qualificação,2026-01-12,OPP-0348,Metalúrgica Monte - 0348,ACC-0216,Fechado Perdido,Inbound,CMP-04,2025-12-16,2026-01-12,10800.0,Novo Negócio
+Negociação,2026-03-11,OPP-0387,Grupo Nova - 0387,ACC-0220,fechado perdido,Indicação,,2026-02-24,2026-03-11,57600.0,Expansão
+Negociação,2025-03-11,OPP-0156,Clínica Araucária - 0156,ACC-0067,Fechado Perdido,Inbound,CMP-01,01/02/2025,11/03/2025,,Expansão
+Prospecção,2025-11-02,OPP-0302,Metalúrgica Itapuã - 0302,ACC-9012,Fechado Perdido,Inbound,CMP-02,25/09/2025,02/11/2025,70300.0,Novo Negócio
+Qualificação,2025-09-19,OPP-0255,Colégio Aurora - 0255,ACC-0014,Fechado Perdido,Outbound,CMP-11,15/07/2025,2025-09-19,2500.0,Novo Negócio
+Qualificação,2026-01-31,OPP-0352,Construtora Araucária - 0352,ACC-0204,Fechado Perdido,Outbound,CMP-09,2025-12-25,2026-01-31,9025.0,Expansão
+Proposta,2025-09-08,OPP-0222,Laboratório Paraná - 0222,ACC-0165,Fechado Perdido,Outbound,CMP-10,2025-05-28,2025-09-08,136325.0,Expansão
+Qualificação,2025-10-26,OPP-0291,Indústria Jequitibá - 0291,ACC-0189,Fechado Perdido,Evento,CMP-07,2025-09-08,2025-10-26,14250.0,Novo Negócio
+Prospecção,2026-03-03,OPP-0346,Grupo Santa - 0346,ACC-0170,Fechado Perdido,Inbound,CMP-04,2025-12-13,2026-03-03,185600.0,Novo Negócio
+Proposta,2025-10-30,OPP-0288,Clínica São - 0288,ACC-0218,Fechado Perdido,Inbound,,05/09/2025,2025-10-30,9500.0,Expansão
+Proposta,2024-07-31,OPP-0041,Têxtil Pioneira - 0041,ACC-0150,Fechado Perdido,Parceiro,,2024-06-14,31/07/2024,13300.0,Expansão
+Fechado Ganho,2025-07-26,OPP-0236,Logística Boa - 0236,ACC-0217,Fechado Ganho,Parceiro,,2025-06-17,2025-07-26,4800.0,Novo Negócio
+Negociação,2024-09-08,OPP-0062,Metalúrgica Ribeirão - 0062,ACC-0031,Fechado Perdido,Inbound,CMP-03,2024-07-26,2024-09-08,4800.0,Novo Negócio
+Prospecção,2024-06-10,OPP-0018,Clínica Araucária - 0018,ACC-0067,Fechado Perdido,parceiro,,06/04/2024,2024-06-10,119760.0,Expansão
+Proposta,2026-07-26,OPP-0464,Clínica Araucária - 0464,ACC-0067,Fechado Perdido,Outbound,CMP-12,2026-06-19,2026-07-26,179880.0,Expansão
+Negociação,2025-04-18,OPP-0152,Indústria Três - 0152,ACC-0158,Fechado Perdido,Evento,CMP-07,25/01/2025,2025-04-18,94240.0,Expansão
+Fechado Ganho,2024-09-11,OPP-0040,Clínica Araucária - 0040,ACC-0067,Fechado Ganho,Inbound,CMP-02,13/06/2024,2024-09-11,,Expansão
+Qualificação,2024-07-10,OPP-0037,Metalúrgica São - 0037,ACC-0058,Fechado Perdido,Parceiro,,2024-05-27,2024-07-10,145100.0,Novo Negócio
+Qualificação,2026-08-28,OPP-0469,Construtora Serra - 0469,ACC-0075,Perdido,Parceiro,,2026-06-26,2026-08-28,242400.0,Expansão
+Qualificação,2026-06-22,OPP-0445,Escola São - 0445,ACC-0018,Fechado Perdido,Outbound,CMP-12,22/05/2026,2025-11-31,14060.0,Novo Negócio
+Prospecção,2025-08-22,OPP-0208,Clínica Araucária - 0208,ACC-0067,Fechado Perdido,Inbound,CMP-02,11/05/2025,2025-08-22,11400.0,Expansão
+Negociação,2025-12-16,OPP-0317,Logística Santa - 0317,ACC-0108,Perdido,Inbound,,16/10/2025,16/12/2025,106560.0,Expansão
+Prospecção,2024-08-05,OPP-0038,Escola Paraná - 0038,ACC-0090,Fechado Perdido,Inbound,CMP-03,2024-05-31,2024-08-05,4560.0,Novo Negócio
+Proposta,2025-12-05,OPP-0276,Logística Cerrado - 0276,ACC-0019,Fechado Perdido,Outbound,CMP-11,2025-08-16,2025-12-05,33450.0,Novo Negócio
+Negociação,2024-10-01,OPP-0074,Clínica Araucária - 0074,ACC-0067,Fechado Perdido,Evento,CMP-07,2024-08-15,2023-12-15,109440.0,Expansão
+Prospecção,2025-10-06,OPP-0266,Grupo Atlântico - 0266,ACC-0061,Fechado Perdido,Outbound,,2025-07-30,2025-10-06,714000.0,Novo Negócio
+Fechado Ganho,2024-12-12,OPP-0116,Clínica Araucária - 0116,ACC-0067,Fechado Ganho,Inbound,CMP-04,03/11/2024,2024-12-12,16850.0,Expansão
+Fechado Ganho,2024-10-24,OPP-0096,Clínica Nova - 0096,ACC-0045,Fechado Ganho,Indicação,,2024-09-29,2024-10-24,12000.0,Novo Negócio
+Fechado Ganho,2025-06-09,OPP-0207,Transportadora Serra - 0207,ACC-0028,Fechado Ganho,Indicação,,2025-05-11,2025-06-09,80640.0,Novo Negócio
+Prospecção,2024-09-02,OPP-0069,Colégio Aurora - 0069,ACC-0014,Fechado Perdido,Outbound,CMP-10,2024-08-06,2024-09-02,11750.0,Novo Negócio
+Qualificação,2024-07-10,OPP-0042,Laboratório Nova - 0042,ACC-0109,Closed Lost,Indicação,,2024-06-16,2024-07-10,856080.0,Novo Negócio
+Prospecção,2025-05-24,OPP-0184,Rede Paraná - 0184,ACC-0119,Fechado Perdido,Evento,CMP-07,04/04/2025,24/05/2025,26550.0,Expansão
+Prospecção,2026-09-04,OPP-0502,Transportadora Araucária - 0502,ACC-0200,Fechado Perdido,Indicação,,2026-08-12,2026-09-04,575520.0,Expansão
+Qualificação,2025-02-09,OPP-0100,Logística Santa - 0100,ACC-0108,Fechado Perdido,Outbound,CMP-11,2024-10-12,2025-02-09,,Expansão
+Qualificação,2024-06-19,OPP-0029,Laboratório Nova - 0029,ACC-9014,Fechado Perdido,Indicação,,02/05/2024,2024-06-19,95425.0,Novo Negócio
+Proposta,2025-03-12,OPP-0162,Escola Serra - 0162,ACC-0192,Fechado Perdido,Indicação,,21/02/2025,2025-03-12,2500.0,Novo Negócio
+Proposta,2024-12-27,OPP-0073,Têxtil Monte - 0073,ACC-0195,Fechado Perdido,Outbound,CMP-11,15/08/2024,2024-12-27,257600.0,Expansão
+Prospecção,2026-08-30,OPP-0462,Energia Cerrado - 0462,ACC-0136,Fechado Perdido,Outbound,,2026-06-15,30/08/2026,148500.0,Expansão
+Fechado Ganho,2025-01-12,OPP-0119,Energia Guaporé - 0119,ACC-0134,Fechado Ganho,Outbound,CMP-10,2024-11-11,12/01/2025,248520.0,Expansão
+Negociação,2026-05-01,OPP-0397,Clínica Araucária - 0397,ACC-0067,Fechado Perdido,Outbound,CMP-11,2026-03-17,01/05/2026,38125.0,Expansão
+Fechado Ganho,2026-06-22,OPP-0405,Rede Paraná - 0405,ACC-0119,Fechado Ganho,Eventos,CMP-08,2026-03-22,2026-06-22,176960.0,Expansão
+Qualificação,2025-06-11,OPP-0210,Construtora Três - 0210,ACC-9005,Fechado Perdido,Outbound,CMP-10,2025-05-12,2025-06-11,9500.0,Expansão
+Qualificação,2025-05-16,OPP-0177,Clínica Bandeirantes - 0177,ACC-0157,Perdido,Inbound,CMP-02,2025-03-16,2025-05-16,9500.0,Novo Negócio
+Fechado Ganho,2025-06-18,OPP-0219,Colégio Atlântico - 0219,ACC-0025,Fechado Ganho,Evento,,2025-05-24,18/06/2025,2500.0,Novo Negócio
+Negociação,2025-06-13,OPP-0186,Clínica Araucária - 0186,ACC-0067,Fechado Perdido,Inbound,CMP-03,2025-04-08,2025-06-13,46500.0,Expansão
+Prospecção,2024-07-21,OPP-0046,Rede Paraná - 0046,ACC-0119,Fechado Perdido,Indicação,,2024-06-20,2024-07-21,46400.0,Expansão
+Fechado Ganho,2026-10-29,OPP-0490,Indústria Boa - 0490,ACC-0184,Fechado Ganho,indicação,,2026-08-03,2026-10-29,43000.0,Novo Negócio
+Prospecção,2026-01-30,OPP-0351,Logística Guaporé - 0351,ACC-0053,Fechado Perdido,,CMP-05,2025-12-24,30/01/2026,7300.0,Expansão
+Prospecção,2025-09-13,OPP-0262,Agro Guaporé - 0262,ACC-0039,Fechado Perdido,Outbound,CMP-11,23/07/2025,13/09/2025,2500.0,Novo Negócio
+Prospecção,2026-09-07,OPP-0388,Supermercados Guaporé - 0388,ACC-0146,Fechado Perdido,Inbound,CMP-02,2026-02-25,2026-09-07,714000.0,Expansão
+Fechado Ganho,,OPP-0434,Transportadora Jequitibá - 0434,ACC-0052,Fechado Ganho,Outbound,CMP-09,2026-05-13,31/02/2025,7175.0,Expansão
+Fechado Ganho,2026-01-13,OPP-0315,Construtora Araucária - 0315,ACC-0204,Fechado Ganho,Evento,CMP-08,2025-10-15,13/01/2026,47600.0,Expansão
+Proposta,2026-06-01,OPP-0396,Grupo Sol - 0396,ACC-0214,Fechado Perdido,Outbound,,15/03/2026,2026-06-01,94525.0,Expansão
+Fechado Ganho,2024-04-25,OPP-0016,Escola Sol - 0016,ACC-0197,Fechado Ganho,Inbound,CMP-01,2024-03-31,2024-04-25,4800.0,Novo Negócio
+Fechado Ganho,2026-10-21,OPP-0519,Clínica Araucária - 0519,ACC-0067,Fechado Ganho,inbound,CMP-04,08/09/2026,21/10/2026,4800.0,Expansão
+Qualificação,2026-09-26,OPP-0537,Clínica Araucária - 0537,ACC-0067,Qualificação,outbound,CMP-12,26/09/2026,28/01/2027,100800.0,Expansão
+Qualificação,2024-07-21,OPP-0048,Rede Paraná - 0048,ACC-0119,Fechado Perdido,Indicacao,,2024-06-23,2024-07-21,9450.0,Expansão
+Qualificação,2024-12-15,OPP-0112,Laboratório Três - 0112,ACC-0110,Fechado Perdido,Inbound,CMP-03,29/10/2024,2024-12-15,19950.0,Expansão
+Negociação,2025-06-29,OPP-0212,Laboratório Três - 0212,ACC-0110,Fechado Perdido,Outbound,CMP-12,16/05/2025,2025-06-29,11550.0,Expansão
+Fechado Ganho,2024-12-18,OPP-0086,Escola Itapuã - 0086,ACC-0124,Fechado Ganho,Parceiro,,2024-09-14,18/12/2024,66240.0,Novo Negócio
+Proposta,2026-08-09,OPP-0473,Energia Cerrado - 0473,ACC-0136,Fechado Perdido,,CMP-03,2026-06-29,2026-08-09,,Expansão
+Fechado Ganho,2024-12-07,OPP-0118,Clínica Araucária - 0118,ACC-0067,Fechado Ganho,Inbound,CMP-04,09/11/2024,2024-12-07,35200.0,Expansão
+Prospecção,2024-11-05,OPP-0099,Clínica Araucária - 0099,ACC-0067,Fechado Perdido,Inbound,CMP-05,07/10/2024,2024-11-05,10800.0,Expansão
+Qualificação,2025-06-26,OPP-0202,Grupo São - 0202,ACC-0207,Fechado Perdido,Indicação,,2025-05-05,26/06/2025,8977.5,Novo Negócio
+Prospecção,2024-06-23,OPP-0035,Clínica Araucária - 0035,ACC-0067,Fechado Perdido,Indicação,,2024-05-15,2024-06-23,28025.0,Expansão
+Fechado Ganho,2026-07-06,OPP-0446,Grupo Sol - 0446,ACC-0214,Fechado Ganho,indicação,,23/05/2026,06/07/2026,228000.0,Novo Negócio
+Proposta,2024-11-23,OPP-0105,Indústria Serra - 0105,ACC-0080,Fechado Perdido,Evento,CMP-07,18/10/2024,23/11/2024,170112.5,Expansão
+Prospecção,2026-06-05,OPP-0407,Indústria Jequitibá - 0407,ACC-0189,Fechado Perdido,Outbound,CMP-09,2026-03-25,2026-06-05,239020.0,Novo Negócio
+Fechado Ganho,2026-10-17,OPP-0515,Clínica Araucária - 0515,ACC-0067,Fechado Ganho,Inbound,CMP-04,2026-09-02,17/10/2026,206720.0,Expansão
+Prospecção,2024-03-21,OPP-0007,Clínica Araucária - 0007,ACC-0067,Fechado Perdido,Outbound,,2024-02-29,2024-03-21,2500.0,Expansão
+Negociação,2026-05-30,OPP-0421,Clínica Araucária - 0421,ACC-0067,Fechado Perdido,Inbound,CMP-01,18/04/2026,2026-05-30,4560.0,Expansão
+Fechado Ganho,2026-06-29,OPP-0439,Indústria Serra - 0439,ACC-0080,Fechado Ganho,Indicação,,2026-05-16,29/06/2026,293760.0,Expansão
+Qualificação,2024-07-26,OPP-0045,Transportadora Guaporé - 0045,ACC-0021,Fechado Perdido,Inbound,CMP-05,2024-06-20,2024-07-26,3465.0,Novo Negócio
+Qualificação,2026-08-06,OPP-0471,Agro Paraná - 0471,ACC-0156,Fechado Perdido,Parceiro,,28/06/2026,06/08/2026,,Novo Negócio
+Prospecção,2025-02-16,OPP-0153,Colégio Primavera - 0153,ACC-0015,Fechado Perdido,Indicação,,2025-01-27,16/02/2025,9500.0,Expansão
+Fechado Ganho,2026-03-24,OPP-0361,Indústria Serra - 0361,ACC-0080,Fechado Ganho,Inbound,,2026-01-04,2026-03-24,414000.0,Novo Negócio
+Negociação,2025-06-12,OPP-0187,Clínica Araucária - 0187,ACC-0067,Fechado Perdido,,CMP-08,2025-04-09,2025-06-12,12800.0,Expansão
+Negociação,2026-10-27,OPP-0472,Rede Paraná - 0472,ACC-0119,Negociação,Outbound,CMP-11,2026-06-29,2026-11-12,92700.0,Expansão
+Qualificação,2025-05-02,OPP-0188,Distribuidora Guaporé - 0188,ACC-0079,Fechado Perdido,Evento,CMP-08,11/04/2025,2025-05-02,7050.0,Novo Negócio
+Qualificação,2025-05-26,OPP-0189,Construtora Serra - 0189,ACC-0075,Fechado Perdido,Inbound,CMP-02,2025-04-11,26/05/2025,64850.0,Expansão
+Proposta,2026-09-30,OPP-0492,Laboratório Três - 0492,ACC-0110,Fechado Perdido,Outbound,CMP-12,2026-08-05,2026-09-30,145305.0,Expansão
+Qualificação,2025-04-09,OPP-0149,Indústria Três - 0149,ACC-0158,Fechado Perdido,Outbound,CMP-10,2025-01-14,09/04/2025,52500.0,Expansão
+Fechado Ganho,2025-04-12,OPP-0166,Supermercados Monte - 0166,ACC-0122,Fechado Ganho,Inbound,CMP-02,03/03/2025,12/04/2025,18000.0,Novo Negócio
+Prospecção,2025-06-06,OPP-0194,Rede Guaporé - 0194,ACC-0036,Fechado Perdido,Indicação,,20/04/2025,2025-06-06,267600.0,Novo Negócio
+Proposta,2025-09-03,OPP-0270,Construtora Araucária - 0270,ACC-0204,Fechado Perdido,inbound,,2025-08-04,2025-09-03,24000.0,Expansão
+Prospecção,2025-05-08,OPP-0183,Clínica Araucária - 0183,ACC-0067,Fechado Perdido,Outbound,CMP-10,2025-03-30,2025-05-08,2375.0,Expansão
+Prospecção,2024-07-25,OPP-0032,Colégio Horizonte - 0032,ACC-0098,Fechado Perdido,Evento,CMP-06,2024-05-10,2024-07-25,272000.0,Novo Negócio
+Fechado Ganho,2026-03-07,OPP-0369,Clínica São - 0369,ACC-0218,Fechado Ganho,Inbound,CMP-05,2026-01-14,2026-03-07,229200.0,Novo Negócio
+Prospecção,2026-03-17,OPP-0331,Metalúrgica São - 0331,ACC-0058,Fechado Perdido,Parceiro,,20/11/2025,2026-03-17,59500.0,Novo Negócio
+Qualificação,2025-10-15,OPP-0204,Laboratório Primavera - 0204,ACC-0181,Fechado Perdido,Outbound,CMP-10,2025-05-09,15/10/2025,51300.0,Novo Negócio
+Negociação,2025-11-04,OPP-0310,Clínica Araucária - 0310,ACC-0067,fechado perdido,Inbound,CMP-01,2025-10-12,04/11/2025,213500.0,Expansão
+Fechado Ganho,2025-08-04,OPP-0259,Grupo Monte - 0259,ACC-0166,Fechado Ganho,Indicação,,2025-07-19,2025-08-04,12000.0,Novo Negócio
+Qualificação,2024-07-14,OPP-0043,Clínica Primavera - 0043,ACC-0213,Fechado Perdido,Evento,CMP-08,2024-06-17,2024-07-14,15360.0,Expansão
+Fechado Ganho,2026-09-13,OPP-0510,Clínica Araucária - 0510,ACC-0067,Fechado Ganho,Indicação,,2026-08-22,2026-09-13,15720.0,Expansão
+Proposta,2024-09-20,OPP-0061,Energia Pioneira - 0061,ACC-0030,Fechado Perdido,parceiro,,2024-07-22,2024-09-20,29700.0,Novo Negócio
+Prospecção,2025-03-08,OPP-0145,Transportadora Araucária - 0145,ACC-0200,Fechado Perdido,Evento,CMP-08,2025-01-11,2025-03-08,532440.0,Expansão
+Fechado Ganho,2025-01-04,OPP-0124,Grupo Boa - 0124,ACC-0060,Fechado Ganho,indicação,,2024-11-16,2025-01-04,115200.0,Novo Negócio
+Proposta,2026-09-27,OPP-0508,Grupo Aurora - 0508,ACC-0163,Proposta,Inbound,CMP-02,2026-08-21,2026-11-26,297600.0,Expansão
+Proposta,2026-01-13,OPP-0343,Transportadora Nova - 0343,ACC-0114,Fechado Perdido,Indicação,,2025-12-11,2026-01-13,10800.0,Novo Negócio
+Proposta,2026-08-23,OPP-0477,Rede Araucária - 0477,ACC-0103,Fechado Perdido,Inbound,CMP-05,08/07/2026,2026-08-23,83840.0,Novo Negócio
+Negociação,2025-04-29,OPP-0169,Construtora Atlântico - 0169,ACC-0026,Fechado Perdido,Outbound,CMP-12,2025-03-03,29/04/2025,79500.0,Novo Negócio
+Proposta,2024-10-31,OPP-0095,Supermercados São - 0095,ACC-0125,Fechado Perdido,Parceiro,,2024-09-29,31/10/2024,49850.0,Expansão
+Fechado Ganho,2025-01-25,OPP-0121,Têxtil Jequitibá - 0121,ACC-0097,Fechado Ganho,Inbound,CMP-02,2024-11-12,2025-01-25,12000.0,Novo Negócio
+Fechado Ganho,2026-07-20,OPP-0443,Têxtil Jequitibá - 0443,ACC-0097,Fechado Ganho,Outbound,CMP-12,2026-05-19,2026-07-20,2250.0,Expansão
+Prospecção,2024-06-15,OPP-0023,Energia Sol - 0023,ACC-0164,Fechado Perdido,Inbound,CMP-02,2024-04-18,2024-06-15,14375.0,Novo Negócio
+Proposta,2026-10-09,OPP-0521,Laboratório Horizonte - 0521,ACC-0013,Fechado Perdido,Inbound,CMP-04,2026-09-10,2026-10-09,4800.0,Novo Negócio
+Fechado Ganho,2024-10-30,OPP-0067,Logística Nova - 0067,ACC-0033,Fechado Ganho,Parceiro,,2024-08-04,2024-10-30,365760.0,Novo Negócio
+Qualificação,2026-02-14,OPP-0375,Rede Paraná - 0375,ACC-0119,Fechado Perdido,Indicação,,2026-01-21,2026-02-14,10800.0,Expansão
+Fechado Ganho,2024-11-27,OPP-0083,Têxtil Monte - 0083,ACC-0195,Fechado Ganho,Outbound,CMP-10,05/09/2024,27/11/2024,84100.0,Novo Negócio
+Proposta,2026-03-28,OPP-0368,Energia Itapuã - 0368,ACC-0038,Fechado Perdido,Evento,CMP-08,2026-01-11,2026-03-28,11875.0,Novo Negócio
+Fechado Ganho,2026-10-11,OPP-0503,Clínica Araucária - 0503,ACC-0067,Fechado Ganho,Parceiro,,2026-08-12,11/10/2026,14060.0,Expansão
+Proposta,2024-11-13,OPP-0090,Farmácia São - 0090,ACC-0162,Fechado Perdido,Outbound,CMP-12,2024-09-21,13/11/2024,15450.0,Novo Negócio
+Qualificação,2026-10-14,OPP-0511,Laboratório Jequitibá - 0511,ACC-0172,Fechado Perdido,Outbound,CMP-12,2026-08-25,2026-10-14,6570.0,Novo Negócio
+Negociação,2026-02-17,OPP-0359,Colégio Horizonte - 0359,ACC-0098,Fechado Perdido,Parceiro,,01/01/2026,17/02/2026,183380.0,Novo Negócio
+Prospecção,2025-12-13,OPP-0303,Hospital Vale - 0303,ACC-0046,Fechado Perdido,Outbound,CMP-09,2025-09-26,2025-12-13,80260.0,Expansão
+Proposta,2026-07-02,OPP-0411,Clínica Araucária - 0411,ACC-0067,Fechado Perdido,Parceiro,,2026-03-31,2026-07-02,33795.0,Expansão
+Negociação,2025-10-29,OPP-0307,Metalúrgica Três - 0307,ACC-0070,Fechado Perdido,Parceiro,,2025-10-03,2025-10-29,11050.0,Expansão
+Fechado Ganho,2026-04-27,OPP-0355,Clínica Araucária - 0355,ACC-0067,Fechado Ganho,Evento,,29/12/2025,27/04/2026,229345.0,Expansão
+Negociação,2026-05-26,OPP-0436,Indústria Serra - 0436,ACC-0080,Fechado Perdido,Indicação,,14/05/2026,2026-05-26,11782.5,Expansão
+Fechado Ganho,2026-06-07,OPP-0420,Têxtil Jequitibá - 0420,ACC-0097,Fechado Ganho,Evento,CMP-06,17/04/2026,2026-06-07,48000.0,Expansão
+Prospecção,2024-10-24,OPP-0082,Metalúrgica Três - 0082,ACC-0070,Fechado Perdido,Inbound,CMP-01,2024-09-04,2024-10-24,32650.0,Expansão
+Fechado Ganho,2026-04-17,OPP-0398,Construtora Nova - 0398,ACC-0100,Fechado Ganho,Indicação,,2026-03-17,2026-04-17,73227.5,Novo Negócio
+Fechado Ganho,2025-02-17,OPP-0123,Clínica Araucária - 0123,ACC-0067,Fechado Ganho,Outbound,CMP-11,13/11/2024,2025-02-17,34725.0,Expansão
+Fechado Ganho,2024-09-11,OPP-0064,Agro Primavera - 0064,ACC-0159,Fechado Ganho,Parceiro,,01/08/2024,2024-09-11,14300.0,Novo Negócio
+Qualificação,2026-05-04,OPP-0390,Indústria Ipê - 0390,ACC-0106,Fechado Perdido,Out-bound,CMP-11,06/03/2026,2026-05-04,121600.0,Novo Negócio
+Qualificação,2026-02-18,OPP-0332,Clínica Nova - 0332,ACC-0045,Fechado Perdido,Inbound,CMP-03,2025-11-23,2026-02-18,226900.0,Expansão
+Proposta,2025-06-14,OPP-0199,Clínica Araucária - 0199,ACC-0067,Fechado Perdido,Evento,CMP-08,2025-04-28,14/06/2025,2500.0,Expansão
+Negociação,2024-10-25,OPP-0081,Construtora Três - 0081,ACC-9005,fechado perdido,Evento,CMP-07,03/09/2024,2024-10-25,9150.0,Expansão
+Qualificação,2025-11-12,OPP-0312,Construtora Três - 0312,ACC-0071,Fechado Perdido,Indicação,,2025-10-13,2025-11-12,2500.0,Expansão
+Fechado Ganho,2025-08-05,OPP-0249,Supermercados Guaporé - 0249,ACC-0146,Fechado Ganho,Inbound,CMP-03,2025-07-04,05/08/2025,16560.0,Novo Negócio
+Fechado Ganho,2025-09-07,OPP-0263,Clínica Araucária - 0263,ACC-0067,Fechado Ganho,Indicação,,28/07/2025,2025-09-07,9025.0,Expansão
+Negociação,2024-08-16,OPP-0051,Clínica Araucária - 0051,ACC-0067,Fechado Perdido,parceiro,,2024-06-28,16/08/2024,14700.0,Expansão
+Proposta,2026-06-25,OPP-0408,Escola São - 0408,ACC-0018,Fechado Perdido,Outbound,CMP-11,2026-03-27,2026-06-25,25900.0,Novo Negócio
+Fechado Ganho,2026-09-11,OPP-0489,Hospital São - 0489,ACC-0078,Fechado Ganho,Inbound,CMP-05,2026-07-27,2026-09-11,15360.0,Novo Negócio
+Prospecção,2024-08-07,OPP-0050,Clínica Araucária - 0050,ACC-0067,Fechado Perdido,Evento,CMP-06,2024-06-27,07/08/2024,28767.5,Expansão
+Qualificação,2026-06-25,OPP-0458,Rede Ribeirão - 0458,ACC-9008,Fechado Perdido,Indicação,,11/06/2026,25/06/2026,13700.0,Novo Negócio
+Fechado Ganho,2025-03-30,OPP-0172,Laboratório Três - 0172,ACC-0110,Fechado Ganho,Outbound,CMP-11,2025-03-04,2025-03-30,14250.0,Novo Negócio
+Fechado Ganho,2025-01-25,OPP-0117,Clínica Araucária - 0117,ACC-0067,Fechado Ganho,Inbound,CMP-04,05/11/2024,2025-01-25,156380.0,Expansão
+Negociação,2025-05-01,OPP-0185,Colégio Horizonte - 0185,ACC-0098,Fechado Perdido,indicação,,08/04/2025,01/05/2025,34200.0,Novo Negócio
+Fechado Ganho,2025-12-28,OPP-0324,Clínica Araucária - 0324,ACC-0067,Fechado Ganho,Outbound,CMP-10,02/11/2025,2025-12-28,4320.0,Expansão
+Negociação,2026-05-23,OPP-0412,Têxtil Ipê - 0412,ACC-0141,Fechado Perdido,Outbound,CMP-12,2026-04-05,2026-05-23,21785.0,Expansão
+Proposta,2026-03-05,OPP-0379,Supermercados São - 0379,ACC-0125,Fechado Perdido,Indicação,,2026-02-07,2026-03-05,35200.0,Expansão
+Negociação,2024-10-01,OPP-0074,Clínica Araucária - 0074,ACC-0067,Fechado Perdido,Evento,CMP-07,2024-08-15,2023-12-15,109440.0,Expansão
+Fechado Ganho,2025-07-07,OPP-0198,Clínica Primavera - 0198,ACC-0213,Fechado Ganho,Evento,,2025-04-27,07/07/2025,85620.0,Novo Negócio
+Qualificação,2025-04-18,OPP-0178,Hospital Cerrado - 0178,ACC-0087,Fechado Perdido,Outbound,CMP-12,18/03/2025,2025-04-18,9642.5,Novo Negócio
+Prospecção,2025-10-06,OPP-0294,Escola Itapuã - 0294,ACC-0124,Fechado Perdido,inbound,CMP-05,2025-09-16,06/10/2025,9025.0,Expansão
+Prospecção,2026-03-17,OPP-0333,Transportadora Jequitibá - 0333,ACC-0052,Fechado Perdido,Inbound,,23/11/2025,2026-03-17,22750.0,Expansão
+Prospecção,2025-03-24,OPP-0144,Supermercados Guaporé - 0144,ACC-0146,Fechado Perdido,Indicação,,11/01/2025,2025-03-24,117800.0,Expansão
+Proposta,2025-04-21,OPP-0163,Logística Santa - 0163,ACC-0108,Fechado Perdido,Indicação,,2025-02-24,2025-04-21,,Expansão
+Fechado Ganho,2024-12-02,OPP-0101,Rede Paraná - 0101,ACC-0119,Fechado Ganho,Outbound,CMP-10,2024-10-13,2024-12-02,21500.0,Expansão
+Qualificação,2026-06-22,OPP-0447,Clínica Araucária - 0447,ACC-0067,Perdido,Indicação,,2026-05-24,2026-06-22,76000.0,Expansão
+Prospecção,2026-06-28,OPP-0410,Logística Cerrado - 0410,ACC-0019,Fechado Perdido,Parceiro,,2026-03-29,2026-06-28,204390.0,Novo Negócio
+Prospecção,2025-01-27,OPP-0139,Grupo Jequitibá - 0139,ACC-0051,Fechado Perdido,INDICAÇÃO,,2024-12-28,2025-01-27,113400.0,Novo Negócio
+Prospecção,2025-11-03,OPP-0300,Construtora Araucária - 0300,ACC-0204,Fechado Perdido,Outbound,,2025-09-22,2025-11-03,24850.0,Expansão
+Fechado Ganho,2026-10-11,OPP-0531,Supermercados Paraná - 0531,ACC-0115,Fechado Ganho,Indicação,,15/09/2026,11/10/2026,11400.0,Novo Negócio
+Proposta,2025-03-30,OPP-0159,Escola São - 0159,ACC-0018,fechado perdido,Parceiro,,2025-02-13,2025-03-30,-27650.0,Novo Negócio
+Fechado Ganho,2026-02-18,OPP-0341,Construtora Serra - 0341,ACC-0075,Fechado Ganho,Evento,CMP-08,06/12/2025,2026-02-18,,Novo Negócio
+Fechado Ganho,2025-07-31,OPP-0227,Clínica Araucária - 0227,ACC-0067,Fechado Ganho,Outbound,CMP-10,08/06/2025,31/07/2025,73500.0,Expansão
+Qualificação,2026-05-28,OPP-0416,Grupo Santa - 0416,ACC-0170,Fechado Perdido,Evento,CMP-06,10/04/2026,2026-05-28,,Novo Negócio
+Fechado Ganho,2026-04-24,OPP-0402,Têxtil Ipê - 0402,ACC-0141,Fechado Ganho,Indicação,,2026-03-20,24/04/2026,17670.0,Novo Negócio
+Qualificação,2026-06-10,OPP-0422,Grupo Nova - 0422,ACC-0220,Fechado Perdido,Evento,CMP-08,21/04/2026,10/06/2026,4560.0,Expansão
+Proposta,2025-01-19,OPP-0111,Hospital Itapuã - 0111,ACC-0077,Fechado Perdido,Inbound,CMP-02,2024-10-25,2025-01-19,10620.0,Novo Negócio
+Proposta,2025-02-25,OPP-0132,Transportadora Santa - 0132,ACC-0011,fechado perdido,Parceiro,,2024-12-06,2025-02-25,10500.0,Novo Negócio
+Negociação,2026-09-17,OPP-0499,Clínica Araucária - 0499,ACC-0067,fechado perdido,Outbound,CMP-12,2026-08-12,17/09/2026,4320.0,Expansão
+Fechado Ganho,2024-12-08,OPP-0110,Clínica Araucária - 0110,ACC-0067,Fechado Ganho,Evento,CMP-06,2024-10-24,2024-12-08,14630.0,Expansão
+Prospecção,2026-05-19,OPP-0400,Construtora Ribeirão - 0400,ACC-0076,Fechado Perdido,Inbound,CMP-03,2026-03-19,2026-05-19,13820.0,Novo Negócio
+Proposta,2024-11-23,OPP-0087,Clínica Nova - 0087,ACC-0045,Fechado Perdido,Inbound,CMP-03,2024-09-17,2024-11-23,49950.0,Expansão
+Proposta,2025-08-15,OPP-0230,Construtora Araucária - 0230,ACC-0204,Fechado Perdido,Outbound,CMP-11,2025-06-10,2023-12-15,11400.0,Expansão
+Prospecção,2025-11-22,OPP-0314,Clínica Araucária - 0314,ACC-0067,Fechado Perdido,Evento,CMP-08,2025-10-14,22/11/2025,14500.0,Expansão
+Negociação,2025-01-08,OPP-0125,Clínica Boa - 0125,ACC-0074,Fechado Perdido,parceiro,,16/11/2024,2025-01-08,11400.0,Expansão
+Qualificação,2026-05-17,OPP-0418,Têxtil Jequitibá - 0418,ACC-0097,Fechado Perdido,Indicação,,2026-04-13,17/05/2026,15960.0,Expansão
+Fechado Ganho,2025-11-07,OPP-0295,Rede Paraná - 0295,ACC-0119,Ganho,Parceiro,,2025-09-18,07/11/2025,9000.0,Expansão
+Fechado Ganho,2026-01-16,OPP-0353,Logística Santa - 0353,ACC-0108,Fechado Ganho,Indicação,,2025-12-28,2026-01-16,14850.0,Expansão
+Prospecção,2024-06-25,OPP-0028,Distribuidora Guaporé - 0028,ACC-0079,Fechado Perdido,Inbound,CMP-05,2024-05-01,25/06/2024,121500.0,Novo Negócio
+Fechado Ganho,2025-10-29,OPP-0193,Construtora Araucária - 0193,ACC-0204,Fechado Ganho,evento,CMP-08,2025-04-20,29/10/2025,208970.0,Expansão
+Fechado Ganho,2025-03-09,OPP-0151,Têxtil Monte - 0151,ACC-0195,Fechado Ganho,Parceiro,,2025-01-24,2025-03-09,2500.0,Expansão
+Fechado Ganho,2026-02-14,OPP-0364,Hospital Vale - 0364,ACC-0046,Fechado Ganho,Inbound,CMP-02,07/01/2026,2026-02-14,26107.5,Expansão
+Fechado Ganho,2026-02-27,OPP-0363,Laboratório Paraná - 0363,ACC-9013,Fechado Ganho,Parceiro,,06/01/2026,2026-02-27,94240.0,Novo Negócio
+Fechado Ganho,2025-09-15,OPP-0244,Logística Santa - 0244,ACC-0108,Fechado Ganho,Indicação,,2025-06-29,15/09/2025,183600.0,Expansão
+Qualificação,2025-07-25,OPP-0228,Metalúrgica Atlântico - 0228,ACC-0002,Fechado Perdido,Parceiro,,2025-06-09,25/07/2025,122400.0,Expansão
+Fechado Ganho,2026-05-10,OPP-0404,Construtora Araucária - 0404,ACC-0204,Fechado Ganho,Evento,CMP-06,2026-03-21,2026-05-10,17467.5,Expansão
+Prospecção,2024-10-09,OPP-0092,Farmácia Serra - 0092,ACC-0016,Fechado Perdido,indicação,,2024-09-24,2024-10-09,2500.0,Expansão
+Fechado Ganho,2026-10-17,OPP-0493,Clínica Primavera - 0493,ACC-0213,Fechado Ganho,Parceiro,,05/08/2026,2026-10-17,19950.0,Expansão
+Fechado Ganho,2025-07-05,OPP-0240,Clínica Araucária - 0240,ACC-0067,Fechado Ganho,Indicação,,22/06/2025,2025-07-05,12000.0,Expansão
+Qualificação,2024-07-10,OPP-0042,Laboratório Nova - 0042,ACC-0109,Closed Lost,Indicação,,2024-06-16,2024-07-10,856080.0,Novo Negócio
+Prospecção,2026-04-06,OPP-0395,Rede Paraná - 0395,ACC-0119,Fechado Perdido,Inbound,CMP-01,2026-03-15,06/04/2026,10575.0,Expansão
+Prospecção,2025-01-22,OPP-0131,Indústria Vale - 0131,ACC-0001,Fechado Perdido,Indicação,,2024-12-05,2025-01-22,42560.0,Expansão
+Fechado Ganho,2024-02-13,OPP-0005,Construtora Araucária - 0005,ACC-0204,Fechado Ganho,Indicação,,2024-01-26,2024-02-13,15120.0,Novo Negócio
+Prospecção,2026-10-05,OPP-0468,Clínica Araucária - 0468,ACC-0067,Fechado Perdido,,CMP-08,2026-06-25,05/10/2026,10800.0,Expansão
+Qualificação,2025-11-28,OPP-0293,Têxtil Pioneira - 0293,ACC-0150,Fechado Perdido,Inbound,CMP-03,2025-09-14,28/11/2025,10800.0,Expansão
+Fechado Ganho,2026-02-13,OPP-0337,Transportadora Jequitibá - 0337,ACC-0052,FECHADO GANHO,Outbound,CMP-11,2025-11-30,2026-02-13,4800.0,Novo Negócio
+Prospecção,2025-09-22,OPP-0284,Clínica Araucária - 0284,ACC-0067,Fechado Perdido,parceiro,,26/08/2025,2025-09-22,49825.0,Expansão
+Prospecção,2025-12-26,OPP-0320,Hospital Vale - 0320,ACC-0046,Fechado Perdido,Out-bound,CMP-09,18/10/2025,2025-12-26,10800.0,Expansão
+Qualificação,2025-09-23,OPP-0279,Têxtil Jequitibá - 0279,ACC-0097,Fechado Perdido,Inbound,CMP-04,2025-08-17,2025-09-23,16865.0,Expansão
+Proposta,2026-03-16,OPP-0373,Clínica Araucária - 0373,ACC-0067,Fechado Perdido,Indicação,,2026-01-18,2026-03-16,74375.0,Expansão
+Fechado Ganho,,OPP-0442,Clínica Araucária - 0442,ACC-0067,Fechado Ganho,Inbound,,2026-05-19,2025-13-05,100480.0,Expansão
+Proposta,2026-10-04,OPP-0520,Têxtil Jequitibá - 0520,ACC-0097,Proposta,Indicação,,08/09/2026,01/12/2026,,Expansão
+Fechado Ganho,2026-09-15,OPP-0455,Metalúrgica Três - 0455,ACC-0070,Fechado Ganho,Evento,CMP-07,2026-06-08,2026-09-15,143750.0,Expansão
+Fechado Ganho,2024-05-23,OPP-0024,Têxtil Pioneira - 0024,ACC-0150,Fechado Ganho,Inbound,CMP-05,2024-04-20,2024-05-23,14300.0,Novo Negócio
+Prospecção,2026-09-20,OPP-0498,Grupo Aurora - 0498,ACC-0163,Fechado Perdido,inbound,CMP-04,2026-08-10,20/09/2026,7300.0,Expansão
+Qualificação,2026-03-20,OPP-0349,Rede Serra - 0349,ACC-9020,Fechado Perdido,Inbound,CMP-05,2025-12-22,20/03/2026,326400.0,Novo Negócio
+Proposta,2024-09-12,OPP-0063,Clínica Araucária - 0063,ACC-0067,Fechado Perdido,Outbound,CMP-12,2024-07-30,12/09/2024,8800.0,Expansão
+Fechado Ganho,2024-05-06,OPP-0025,Rede Paraná - 0025,ACC-0119,Fechado Ganho,Indicação,,2024-04-20,2024-05-06,11400.0,Novo Negócio
+Qualificação,2025-08-02,OPP-0196,Hospital Cerrado - 0196,ACC-0087,Fechado Perdido,Parceiro,,2025-04-23,2025-08-02,103680.0,Novo Negócio
+Qualificação,2026-04-18,OPP-0386,Energia Pioneira - 0386,ACC-0030,Fechado Perdido,Outbound,CMP-12,22/02/2026,2026-04-18,8550.0,Novo Negócio
+Fechado Ganho,2026-10-25,OPP-0535,Indústria Vale - 0535,ACC-0001,Fechado Ganho,Inbound,CMP-01,2026-09-24,2026-10-25,2500.0,Novo Negócio
+Fechado Ganho,2025-09-07,OPP-0263,Clínica Araucária - 0263,ACC-0067,Fechado Ganho,Indicação,,28/07/2025,2025-09-07,9025.0,Expansão
+Prospecção,2026-07-23,OPP-0450,Rede Paraná - 0450,ACC-0119,Fechado Perdido,Outbound,CMP-10,28/05/2026,2026-07-23,111910.0,Expansão
+Negociação,2024-12-04,OPP-0108,Têxtil Jequitibá - 0108,ACC-0097,fechado perdido,Inbound,CMP-05,2024-10-21,04/12/2024,19980.0,Expansão
+Prospecção,2026-03-06,OPP-0345,Grupo Nova - 0345,ACC-0220,Fechado Perdido,Inbound,,2025-12-12,2026-03-06,105600.0,Expansão
+Qualificação,2025-05-03,OPP-0147,Escola São - 0147,ACC-0018,Fechado Perdido,INBOUND,CMP-03,2025-01-13,2025-05-03,204600.0,Novo Negócio
+Qualificação,2026-10-13,OPP-0528,Clínica Nova - 0528,ACC-0045,Fechado Perdido,Outbound,CMP-10,2026-09-13,2026-10-13,,Expansão
+Prospecção,2026-10-20,OPP-0429,Indústria Atlântico - 0429,ACC-0054,Fechado Perdido,Evento,,2026-05-05,20/10/2026,42800.0,Novo Negócio
+Qualificação,2026-10-27,OPP-0534,Logística Boa - 0534,ACC-0217,Qualificação,Parceiro,,2026-09-23,2026-12-15,10800.0,Expansão
+Fechado Ganho,2025-06-09,OPP-0207,Transportadora Serra - 0207,ACC-0028,Fechado Ganho,Indicação,,2025-05-11,2025-06-09,80640.0,Novo Negócio
+Qualificação,2026-07-15,OPP-0440,Metalúrgica Atlântico - 0440,ACC-0002,Fechado Perdido,Evento,,2026-05-16,15/07/2026,74630.0,Expansão
+Proposta,2025-08-12,OPP-0224,Metalúrgica Três - 0224,ACC-0070,Fechado Perdido,Inbound,CMP-02,2025-06-05,12/08/2025,292160.0,Expansão
+Negociação,2026-10-29,OPP-0527,Têxtil Araucária - 0527,ACC-0139,Negociação,Outbound,CMP-12,2026-09-12,2026-11-09,195840.0,Novo Negócio
+Fechado Ganho,2026-02-22,OPP-0365,Clínica Araucária - 0365,ACC-0067,Fechado Ganho,Evento,CMP-07,2026-01-10,2026-02-22,14375.0,Expansão
+Qualificação,2024-12-23,OPP-0128,Clínica Araucária - 0128,ACC-0067,Perdido,Inbound,,24/11/2024,23/12/2024,11400.0,Expansão
+Negociação,2025-05-30,OPP-0181,Supermercados São - 0181,ACC-0125,Fechado Perdido,Outbound,,2025-03-28,2025-05-30,12000.0,Expansão
+Prospecção,2025-11-16,OPP-0297,Supermercados Monte - 0297,ACC-0122,Fechado Perdido,Inbound,CMP-01,2025-09-19,16/11/2025,16800.0,Expansão
+Proposta,2025-03-28,OPP-0146,Clínica Araucária - 0146,ACC-0067,Fechado Perdido,Evento,CMP-07,2025-01-11,28/03/2025,100000.0,Expansão
+Qualificação,2025-08-01,OPP-0229,Colégio Aurora - 0229,ACC-0014,Fechado Perdido,Parceiro,,2025-06-09,01/08/2025,227120.0,Novo Negócio
+Fechado Ganho,2025-08-05,OPP-0234,Escola Guaporé - 0234,ACC-0091,FECHADO GANHO,,CMP-04,2025-06-14,2025-08-05,9920.0,Expansão
+Prospecção,2025-06-04,OPP-0170,Rede Paraná - 0170,ACC-0119,Fechado Perdido,Evento,CMP-08,2025-03-03,04/06/2025,158900.0,Expansão
+Proposta,2024-05-29,OPP-0009,Clínica Araucária - 0009,ACC-0067,Closed Lost,Evento,CMP-08,2024-03-06,2024-05-29,9150.0,Expansão
+Proposta,2026-03-11,OPP-0372,Clínica Araucária - 0372,ACC-0067,Fechado Perdido,Evento,CMP-08,2026-01-16,11/03/2026,9500.0,Expansão
+Proposta,2026-08-16,OPP-0444,Laboratório Paraná - 0444,ACC-0165,Fechado Perdido,Outbound,CMP-10,21/05/2026,16/08/2026,7175.0,Expansão
+Fechado Ganho,2024-11-24,OPP-0115,Clínica Araucária - 0115,ACC-0067,Fechado Ganho,Indicação,,02/11/2024,2024-11-24,18125.0,Expansão
+Fechado Ganho,2025-01-31,OPP-0102,Logística Santa - 0102,ACC-0108,Fechado Ganho,Evento,,2024-10-13,2025-01-31,13870.0,Novo Negócio
+Fechado Ganho,2025-07-13,OPP-0206,Farmácia Serra - 0206,ACC-0016,Fechado Ganho,Evento,CMP-06,2025-05-11,2025-07-13,9500.0,Novo Negócio
+Prospecção,2026-07-30,OPP-0419,Clínica Araucária - 0419,ACC-0067,Fechado Perdido,outbound,CMP-09,2026-04-14,2026-07-30,70700.0,Expansão
+Proposta,2024-09-24,OPP-0066,Têxtil Jequitibá - 0066,ACC-0097,Fechado Perdido,INBOUND,CMP-03,02/08/2024,2024-09-24,20820.0,Expansão
+Fechado Ganho,2025-03-07,OPP-0161,Clínica Araucária - 0161,ACC-0067,Fechado Ganho,Indicação,,2025-02-19,07/03/2025,19260.0,Expansão
+Prospecção,2026-04-25,OPP-0403,Transportadora Serra - 0403,ACC-0028,Fechado Perdido,Outbound,CMP-12,2026-03-20,2026-04-25,9025.0,Expansão
+Fechado Ganho,2026-01-13,OPP-0315,Construtora Araucária - 0315,ACC-0204,Fechado Ganho,Evento,CMP-08,2025-10-15,13/01/2026,47600.0,Expansão
+Fechado Ganho,2026-03-16,OPP-0377,Agro Nova - 0377,ACC-0143,Fechado Ganho,INBOUND,,2026-01-26,16/03/2026,9025.0,Novo Negócio
+Prospecção,2026-09-10,OPP-0481,Logística Araucária - 0481,ACC-0144,Fechado Perdido,Outbound,CMP-10,2026-07-11,2026-09-10,203300.0,Expansão
+Negociação,2025-12-15,OPP-0298,Clínica Araucária - 0298,ACC-0067,Fechado Perdido,Evento,CMP-06,20/09/2025,2025-12-15,,Expansão
+Qualificação,2026-05-28,OPP-0416,Grupo Santa - 0416,ACC-0170,Fechado Perdido,Evento,CMP-06,10/04/2026,2026-05-28,,Novo Negócio
+Prospecção,2026-05-21,OPP-0382,Construtora Araucária - 0382,ACC-0204,Fechado Perdido,Outbound,CMP-12,2026-02-11,2026-05-21,34000.0,Expansão
+Proposta,2026-07-18,OPP-0453,Construtora Três - 0453,ACC-0071,Fechado Perdido,Parceiro,,01/06/2026,18/07/2026,109260.0,Expansão
+Fechado Ganho,2026-01-16,OPP-0322,Clínica Boa - 0322,ACC-0074,Fechado Ganho,Outbound,CMP-11,27/10/2025,2026-01-16,11750.0,Novo Negócio
+Qualificação,2024-12-01,OPP-0122,Rede Serra - 0122,ACC-0206,Fechado Perdido,Inbound,,12/11/2024,01/12/2024,4800.0,Novo Negócio
+Negociação,2025-07-06,OPP-0239,Clínica Araucária - 0239,ACC-0067,Fechado Perdido,Indicação,,2025-06-22,2025-07-06,12000.0,Expansão

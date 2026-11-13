@@ -1,0 +1,243 @@
+id_externo,nome,setor,uf,porte,data_cadastro
+ACC-0141,Têxtil Ipê Ltda,,BA,Pequena,2025-08-04
+ACC-0211,Grupo Mantiqueira ME,Serviços,PE,Grande,2025-01-23
+ACC-0212,Construtora Boa Vista Ltda,Construção,SC,Pequena,2024-11-02
+ACC-0021,Transportadora Guaporé Ltda,,BA,Média,2024-12-12
+ACC-0132,Hospital Monte Alegre Ltda,Saúde,SC,Pequena,2024-03-14
+ACC-0198,Energia São Jorge EIRELI,Energia,Rio de Janeiro,Média,2025-06-18
+ACC-0188,Construtora Pioneira S.A.,Construção,PE,Média,2025-11-02
+ACC-0191,Energia Primavera Ltda,,Paraná,Grande,2024-03-04
+ACC-0165,Laboratório Paraná Ltda,Saúde,PE,Média,2024-06-23
+ACC-0061,Grupo Atlântico ME,Serviços,PE,Grande,2025-01-14
+ACC-0130,Clínica Mantiqueira EIRELI,Saúde,SP,Média,2024-06-14
+ACC-9011,  Agro  Guaporé  EIRELI ,Agronegócio,São Paulo,Pequena,2024-09-24
+ACC-9019,Indústria Primavera M.E.,Indústria,SP,Média,2025-11-24
+ACC-0104,Supermercados Araucária EIRELI,Varejo,BA,Pequena,2025-06-01
+ACC-0162,Farmácia São Jorge Ltda,Saúde,DF,Média,2025-01-10
+ACC-0201,Laboratório Pioneira Ltda,Saúde,SP,Pequena,2025-07-04
+ACC-0122,Supermercados Monte Alegre ME,Varejo,RS,Média,2024-06-11
+ACC-0002,Metalúrgica Atlântico S.A.,Indústria,BA,Média,2025-01-30
+ACC-0171,Supermercados Cerrado Ltda,Varejo,BA,Pequena,2024-05-08
+ACC-0179,Farmácia Araucária EIRELI,Saúde,SC,Média,2024-02-20
+ACC-0153,Laboratório São Jorge ME,Saúde,SP,Pequena,2024-03-06
+ACC-9003,construtora vale verde s.a.,Construção,RJ,Grande,2026-01-27
+ACC-9014,Laboratorio Nova Era EIRELI,Saúde,SC,Grande,2025-01-31
+ACC-0092,Laboratório Aurora Ltda,Saúde,BA,Pequena,2025-09-04
+ACC-0151,Construtora Cerrado ME,Construção,mg,Pequena,2024-01-05
+ACC-9010,Logística Ipê EIRELI,Logística,RJ,Média,2025-07-23
+ACC-0014,Colégio Aurora ME,Educação,SP,Pequena,2025-04-10
+ACC-0193,Distribuidora Três Rios S.A.,Varejo,SP,Pequena,2024-12-30
+ACC-0066,Supermercados Aurora S.A.,,RJ,Média,2025-05-23
+ACC-9007,Construtora Aurora SA,Construção,DF,Pequena,2026-02-01
+ACC-0119,Rede Paraná Ltda,Varejo,MG,Pequena,2025-04-09
+ACC-0032,Laboratório Ribeirão Ltda,Saúde,Parana,Pequena,2024-07-09
+ACC-0017,Distribuidora Horizonte EIRELI,Varejo,RJ,Pequena,2025-06-24
+ACC-0118,Têxtil Guaporé ME,Indústria,DF,Média,2024-11-23
+ACC-0038,Energia Itapuã Ltda,Energia,SC,Média,2025-06-14
+ACC-0181,Laboratório Primavera Ltda,Saúde,rj ,Pequena,2025-02-22
+ACC-0157,Clínica Bandeirantes EIRELI,Saúde,SP,Grande,2024-06-16
+ACC-0035,Construtora Aurora S.A.,Construção,DF,Pequena,2025-07-20
+ACC-0199,Laboratório Mantiqueira Ltda,Saúde,DF,Pequena,2024-06-13
+ACC-0065,Indústria Horizonte ME,Indústria,BA,Média,2025-05-26
+ACC-0205,Hospital Mantiqueira ME,Saúde,MG,Média,2025-05-26
+ACC-0136,Energia Cerrado S.A.,Energia,DF,Grande,2024-04-10
+ACC-9016,Transportadora Cerrado LTDA.,Logística,BA,Média,2025-05-24
+ACC-0135,Hospital Araucária Ltda,Saúde,RS,Pequena,2025-10-08
+ACC-0041,Indústria Primavera ME,Indústria,SP,Média,2025-03-16
+ACC-0091,Escola Guaporé Ltda,Educação,SP,Média,2025-05-18
+ACC-0146,Supermercados Guaporé EIRELI,Varejo,PE,Grande,2025-09-04
+ACC-0150,Têxtil Pioneira ME,Indústria,SP,Pequena,2025-02-03
+ACC-0156,Agro Paraná S.A.,Agronegócio,RJ,Média,2024-03-10
+ACC-0097,Têxtil Jequitibá Ltda,Indústria,SP,Pequena,2024-07-14
+ACC-9005,Construtora Três Rios M.E.,Construção,SP,Média,2024-12-27
+ACC-0034,Hospital Bandeirantes Ltda,Saúde,PE,Pequena,2024-11-15
+ACC-0096,Rede Ribeirão ME,Varejo,SC,Pequena,2024-04-10
+ACC-0208,Têxtil Sol Nascente ME,Indústria,MG,Pequena,2024-07-08
+ACC-0182,Colégio Sol Nascente S.A.,Educação,RJ,Grande,2025-05-01
+ACC-0031,Metalúrgica Ribeirão Ltda,Indústria,SC,Pequena,2025-05-30
+ACC-0042,Energia Vale Verde EIRELI,Energia,BA,Pequena,2024-02-29
+ACC-0027,Supermercados Ipê Ltda,Varejo,SP,Grande,2024-12-12
+ACC-9013,Laboratorio Parana Ltda,Saúde,PE,Média,2025-02-19
+ACC-0063,Têxtil Nova Era ME,Indústria,Paraná,Pequena,2025-04-11
+ACC-0009,Laboratório Vale Verde S.A.,Saúde,BA,Pequena,2025-07-29
+ACC-0073,Colégio Guaporé EIRELI,Educação,RS,Grande,2025-03-20
+ACC-0046,Hospital Vale Verde Ltda,Saúde,MG,Média,2024-03-13
+ACC-0159,Agro Primavera Ltda,Agronegócio,DF,Média,2025-03-15
+ACC-0172,Laboratório Jequitibá Ltda,Saúde,SC,Pequena,2025-04-25
+ACC-9006,ENERGIA CERRADO S.A.,Energia,DF,Grande,2024-07-20
+ACC-0144,Logística Araucária Ltda,Logística,BA,Pequena,2024-10-02
+ACC-0076,Construtora Ribeirão Ltda,Construção,SP,Pequena,2025-10-17
+ACC-0008,Colégio Araucária S.A.,Educação,RS,Grande,2024-10-12
+ACC-0158,Indústria Três Rios Ltda,,SP,Média,2025-11-16
+ACC-0083,Supermercados Atlântico Ltda,Varejo,PR,Média,2024-08-22
+ACC-0186,Escola Bandeirantes ME,Educação,RS,Grande,2024-02-29
+ACC-0059,Distribuidora Itapuã S.A.,Varejo,Minas Gerais,Pequena,2024-07-18
+ACC-0116,Indústria Ribeirão Ltda,Indústria,SC,Grande,2025-02-21
+ACC-0015,Colégio Primavera EIRELI,Educação,GO,Média,2024-08-12
+ACC-0207,Grupo São Jorge ME,Serviços,MG,Média,2025-03-20
+ACC-0003,Indústria Guaporé EIRELI,Indústria,SC,Média,2025-01-30
+ACC-0088,Distribuidora Atlântico Ltda,Varejo,MG,Pequena,2024-06-17
+ACC-0093,Colégio Pioneira Ltda,Educação,MG,Pequena,2025-11-29
+ACC-0060,Grupo Boa Vista Ltda,Serviços,SP,Média,2024-01-16
+ACC-0071,Construtora Três Rios ME,Construção,SP,Média,2024-11-18
+ACC-0062,Têxtil Boa Vista Ltda,Indústria,SP,Média,2024-04-08
+ACC-0043,Laboratório Itapuã S.A.,Saúde,SC,Pequena,2024-05-05
+ACC-0133,Metalúrgica Aurora ME,Indústria,SP,Média,2024-09-07
+ACC-9020,Rede Serra Azul M.E.,Varejo,DF,Grande,2025-02-21
+ACC-0084,Clínica Guaporé EIRELI,Saúde,MG,Pequena,2025-04-08
+ACC-0037,Distribuidora Ipê ME,Varejo,GO,Grande,2024-01-14
+ACC-0149,Logística Serra Azul Ltda,Logística,DF,Pequena,2025-03-25
+ACC-0028,Transportadora Serra Azul EIRELI,Logística,MG,Pequena,2025-05-04
+ACC-0090,Escola Paraná EIRELI,Educação,SC,Pequena,2024-04-17
+ACC-0120,Logística Jequitibá Ltda,Logística,MG,Média,2024-03-17
+ACC-9004,hospital cerrado s.a.,Saúde,MG,Grande,2026-05-25
+ACC-0200,Transportadora Araucária Ltda,Logística,SC,Grande,2025-02-23
+ACC-0024,Energia Ipê Ltda,,DF,Pequena,2025-03-17
+ACC-0007,Transportadora Sol Nascente EIRELI,Logística,BA,Pequena,2024-07-12
+ACC-0106,Indústria Ipê Ltda,Indústria,RS,Pequena,2025-10-11
+ACC-0079,Distribuidora Guaporé S.A.,Varejo,Paraná,Grande,2024-03-04
+ACC-0142,Agro Serra Azul ME,Agronegócio,RS,Média,2024-02-07
+ACC-0025,Colégio Atlântico EIRELI,Educação,MG,Pequena,2024-08-27
+ACC-0001,Indústria Vale Verde EIRELI,Indústria,MG,Pequena,2025-08-21
+ACC-0173,Transportadora São Jorge S.A.,Logística,BA,Grande,2025-04-14
+ACC-0196,Grupo Primavera Ltda,Serviços,RJ,Pequena,2025-02-04
+ACC-0145,Colégio Paraná S.A.,Educação,RS,Média,2025-05-30
+ACC-0039,Agro Guaporé EIRELI,Agronegócio,São Paulo,Pequena,2024-08-04
+ACC-0137,Supermercados Jequitibá Ltda,Varejo,SP,Pequena,2024-04-19
+ACC-0121,Escola Boa Vista ME,Educação,PE,Média,2024-11-20
+ACC-0143,Agro Nova Era Ltda,,PE,Média,2025-07-16
+ACC-0019,Logística Cerrado ME,Logística,DF,Pequena,2025-09-22
+ACC-0210,Colégio Monte Alegre ME,Educação,SP,Pequena,2024-04-20
+ACC-0218,Clínica São Jorge Ltda,,PE,Grande,2025-05-17
+ACC-9012,Metalúrgica Itapuã M.E.,Indústria,RS,Média,2025-10-02
+ACC-0147,Logística Ribeirão S.A.,Logística,RS,Pequena,2024-12-11
+ACC-0069,Colégio Vale Verde Ltda,Educação,PE,Pequena,2024-04-08
+ACC-9018,  Escola  Atlântico  Ltda ,Educação,RJ,Média,2026-01-16
+ACC-0095,Supermercados Pioneira EIRELI,Varejo,MG,Média,2024-10-30
+ACC-9022,Têxtil Bandeirantes LTDA.,Indústria,PE,Pequena,2025-11-18
+ACC-0112,Transportadora Cerrado Ltda,Logística,BA,Média,2025-01-23
+ACC-0164,Energia Sol Nascente S.A.,Energia,Paraná,Pequena,2024-11-19
+ACC-0110,Laboratório Três Rios Ltda,Saúde,MG,Grande,2024-07-19
+ACC-0057,Distribuidora Sol Nascente EIRELI,Varejo,SP,Pequena,2025-10-29
+ACC-0175,Metalúrgica Sol Nascente ME,Indústria,DF,Pequena,2024-11-18
+ACC-0055,Supermercados Vale Verde Ltda,,SC,Grande,2024-04-22
+ACC-0131,Indústria Araucária S.A.,Indústria,SP,Média,2025-11-02
+ACC-0213,Clínica Primavera ME,Saúde,BA,Média,2024-05-03
+ACC-0187,Supermercados Três Rios Ltda,Varejo,Minas Gerais,Pequena,2025-11-02
+ACC-9001,Industria Araucaria S.A.,Indústria,SP,Média,2026-04-14
+ACC-0044,Indústria Mantiqueira Ltda,Indústria,DF,Pequena,2024-12-11
+ACC-0006,Hospital Paraná Ltda,Saúde,SC,Pequena,2024-01-22
+ACC-0192,Escola Serra Azul Ltda,Educação,SP,Média,2024-06-26
+ACC-9021,  Logística  Bandeirantes  ME ,Logística,RJ,Pequena,2025-03-23
+ACC-0166,Grupo Monte Alegre ME,Serviços,BA,Pequena,2024-07-05
+ACC-0081,Construtora Paraná Ltda,Construção,PR,Grande,2024-03-22
+ACC-0052,Transportadora Jequitibá EIRELI,Logística,BA,Média,2024-12-03
+ACC-0080,Indústria Serra Azul S.A.,Indústria,GO,Grande,2025-06-08
+ACC-0139,Têxtil Araucária Ltda,Indústria,SC,Pequena,2025-01-13
+ACC-0152,Transportadora Monte Alegre Ltda,Logística,MG,Média,2024-09-18
+ACC-0030,Energia Pioneira Ltda,Energia,SP,Média,2025-06-29
+ACC-0100,Construtora Nova Era S.A.,,DF,Média,2024-12-20
+ACC-0074,Clínica Boa Vista Ltda,Saúde,RJ,Média,2024-07-22
+ACC-0085,Energia Santa Luzia Ltda,Energia,SP,Pequena,2025-05-30
+ACC-0048,Escola Atlântico Ltda,Educação,RJ,Média,2025-10-09
+ACC-0026,Construtora Atlântico Ltda,Construção,PE,Grande,2024-03-23
+ACC-0217,Logística Boa Vista Ltda,Logística,SC,Grande,2024-01-04
+ACC-0078,Hospital São Jorge S.A.,Saúde,SP,Grande,2024-10-31
+ACC-0004,Distribuidora Serra Azul ME,Varejo,SP,Média,2025-01-22
+ACC-0177,Metalúrgica Primavera EIRELI,Indústria,GO,Média,2024-05-21
+ACC-0128,Têxtil Mantiqueira Ltda,Indústria,RJ,Pequena,2025-08-30
+ACC-0126,Clínica Vale Verde Ltda,Saúde,RJ,Pequena,2024-09-18
+ACC-0216,Metalúrgica Monte Alegre Ltda,Indústria,S.Paulo,Pequena,2024-12-01
+ACC-0194,Colégio São Jorge S.A.,Educação,SP,Pequena,2025-03-07
+ACC-0047,Grupo Vale Verde Ltda,Serviços,MG,Pequena,2024-07-28
+ACC-0029,Transportadora Mantiqueira ME,Logística,PR,Grande,2024-07-03
+ACC-0176,Distribuidora Primavera S.A.,Varejo,PR,Média,2025-01-09
+ACC-0219,Grupo Pioneira ME,Serviços,SC,Pequena,2024-07-08
+ACC-0148,Clínica Paraná Ltda,,SP,Pequena,2024-05-07
+ACC-0077,Hospital Itapuã S.A.,Saúde,SP,Pequena,2024-07-28
+ACC-0068,Energia Atlântico Ltda,Energia,RS,Pequena,2025-10-03
+ACC-0113,Têxtil Vale Verde Ltda,Indústria,PE,Pequena,2025-05-21
+ACC-9009,Construtora Atlantico Ltda,Construção,PE,Grande,2024-07-07
+ACC-9017,Energia Araucaria Ltda,Energia,RJ,Pequena,2024-09-19
+ACC-0103,Rede Araucária Ltda,Varejo,S.Paulo,Média,2024-02-29
+ACC-0155,Construtora Vale Verde S.A.,Construção,RJ,Grande,2025-04-27
+ACC-0167,Laboratório Santa Luzia S.A.,,sao paulo,Pequena,2024-04-25
+ACC-0108,Logística Santa Luzia Ltda,Logística,SP,Média,2024-12-08
+ACC-0117,Escola Jequitibá S.A.,Educação,RJ,Média,2024-10-29
+ACC-0190,Metalúrgica Itapuã ME,Indústria,RS,Média,2025-07-01
+ACC-0127,Grupo Paraná Ltda,Serviços,RS,Média,2025-11-04
+ACC-0206,Rede Serra Azul ME,Varejo,DF,Grande,2024-08-21
+ACC-0220,Grupo Nova Era Ltda,Serviços,SC,Média,2025-08-18
+ACC-0123,Transportadora Itapuã ME,Logística,PE,Média,2025-10-15
+ACC-0049,Distribuidora São Jorge EIRELI,Varejo,RS,Pequena,2025-03-04
+ACC-0089,Rede Monte Alegre Ltda,Varejo,BA,Média,2025-09-16
+ACC-0170,Grupo Santa Luzia S.A.,Serviços,RS,Pequena,2024-09-13
+ACC-0140,Energia Araucária Ltda,Energia,RJ,Pequena,2024-01-15
+ACC-0215,Laboratório Araucária ME,Saúde,RS,Média,2025-03-04
+ACC-0022,Distribuidora Paraná EIRELI,Varejo,SP,Pequena,2024-11-08
+ACC-0045,Clínica Nova Era S.A.,Saúde,SC,Pequena,2025-04-19
+ACC-0107,Metalúrgica Boa Vista ME,Indústria,MG,Pequena,2024-04-02
+ACC-9008,  Rede  Ribeirão  ME ,Varejo,SC,Pequena,2024-09-16
+ACC-0064,Energia Ribeirão Ltda,Energia,DF,Pequena,2025-04-15
+ACC-0033,Logística Nova Era S.A.,Logística,SP,Grande,2024-03-30
+ACC-9015,  Indústria  Ipê  Ltda ,Indústria,RS,Pequena,2026-06-23
+ACC-0125,Supermercados São Jorge S.A.,Varejo,DF,Pequena,2024-03-24
+ACC-0115,Supermercados Paraná Ltda,Varejo,DF,Grande,2024-04-26
+ACC-9002,Industria Horizonte ME,Indústria,BA,Média,2026-01-18
+ACC-0129,Logística Bandeirantes ME,Logística,RJ,Pequena,2024-07-07
+ACC-0124,Escola Itapuã EIRELI,Educação,DF,Média,2025-08-30
+ACC-0101,Metalúrgica Guaporé Ltda,Indústria,MG,Média,2024-10-18
+ACC-0012,Logística Aurora Ltda,Logística,MG,Média,2025-04-08
+ACC-0138,Clínica Sol Nascente S.A.,Saúde,SP,Pequena,2024-07-18
+ACC-0184,Indústria Boa Vista Ltda,Indústria,Rio de Janeiro,Pequena,2025-03-06
+ACC-0180,Supermercados Nova Era EIRELI,Varejo,RS,Média,2024-07-20
+ACC-0154,Metalúrgica Mantiqueira Ltda,Indústria,PE,Pequena,2025-08-06
+ACC-0203,Escola Monte Alegre Ltda,Educação,RS,Média,2025-05-25
+ACC-0018,Escola São Jorge S.A.,Educação,SP,Pequena,2025-05-20
+ACC-0174,Têxtil Bandeirantes Ltda,Indústria,PE,Pequena,2025-10-03
+ACC-0178,Farmácia Bandeirantes Ltda,Saúde,SC,Média,2025-07-17
+ACC-0013,Laboratório Horizonte EIRELI,Saúde,RS,Média,2025-11-28
+ACC-0183,Transportadora Ribeirão ME,Logística,MG,Pequena,2025-10-28
+ACC-0197,Escola Sol Nascente Ltda,Educação,BA,Média,2025-05-24
+ACC-0050,Distribuidora Jequitibá S.A.,Varejo,SP,Pequena,2025-02-17
+ACC-0161,Farmácia Jequitibá ME,Saúde,DF,Pequena,2025-08-01
+ACC-0070,Metalúrgica Três Rios ME,Indústria,RS,Pequena,2025-01-23
+ACC-0214,Grupo Sol Nascente Ltda,Serviços,SC,Grande,2025-01-22
+ACC-0189,Indústria Jequitibá ME,Indústria,GO,Média,2024-11-07
+ACC-0105,Metalúrgica Cerrado S.A.,Indústria,PE,Pequena,2025-02-01
+ACC-0056,Metalúrgica Serra Azul S.A.,Indústria,SP,Pequena,2025-02-04
+ACC-0058,Metalúrgica São Jorge Ltda,Indústria,MG,Média,2024-08-20
+ACC-0036,Rede Guaporé ME,,GO,Pequena,2025-02-09
+ACC-0054,Indústria Atlântico S.A.,Indústria,SP,Pequena,2024-12-06
+ACC-0195,Têxtil Monte Alegre EIRELI,Indústria,GO,Média,2024-01-06
+ACC-0114,Transportadora Nova Era ME,Logística,SP,Pequena,2024-04-08
+ACC-0082,Hospital Santa Luzia Ltda,Saúde,RJ,Pequena,2024-12-29
+ACC-0102,Clínica Atlântico S.A.,Saúde,PE,Média,2024-05-19
+ACC-0086,Energia Paraná Ltda,Energia, sp,Pequena,2025-06-06
+ACC-0005,Agro São Jorge S.A.,Agronegócio,rj ,Pequena,2025-02-25
+ACC-0202,Rede Primavera Ltda,Varejo,BA,Pequena,2024-03-22
+ACC-0204,Construtora Araucária EIRELI,Construção,MG,Média,2024-10-20
+ACC-0010,Têxtil Santa Luzia Ltda,Indústria,SP,Pequena,2024-02-10
+ACC-0072,Escola Araucária EIRELI,Educação,BA,Pequena,2025-07-19
+ACC-0040,Colégio Cerrado EIRELI,Educação,mg,Média,2025-03-15
+ACC-0209,Logística Itapuã Ltda,Logística,DF,Pequena,2024-08-07
+ACC-0016,Farmácia Serra Azul S.A.,Saúde,BA,Pequena,2024-04-26
+ACC-0168,Laboratório Monte Alegre S.A.,Saúde,PE,Pequena,2024-10-18
+ACC-0109,Laboratório Nova Era EIRELI,Saúde,SC,Grande,2024-12-30
+ACC-0051,Grupo Jequitibá S.A.,Serviços,MG,Grande,2024-10-19
+ACC-0087,Hospital Cerrado S.A.,Saúde,MG,Grande,2025-10-25
+ACC-0011,Transportadora Santa Luzia Ltda,,SP,Pequena,2024-10-31
+ACC-0098,Colégio Horizonte Ltda,Educação,GO,Média,2024-04-02
+ACC-0134,Energia Guaporé Ltda,Energia,SC,Média,2024-04-12
+ACC-0163,Grupo Aurora ME,Serviços,MG,Grande,2025-08-06
+ACC-0023,Colégio Ribeirão S.A.,Educação,SP,Pequena,2025-04-23
+ACC-0185,Agro Sol Nascente Ltda,Agronegócio,SP,Média,2025-02-10
+ACC-0067,Clínica Araucária S.A.,Saúde,MG,Pequena,2025-03-06
+ACC-0160,Logística Ipê EIRELI,Logística,RJ,Média,2025-03-25
+ACC-0075,Construtora Serra Azul EIRELI,Construção,SC,Pequena,2025-11-24
+ACC-0053,Logística Guaporé EIRELI,Logística,MG,Pequena,2024-07-12
+ACC-0020,Farmácia Três Rios Ltda,Saúde,mg,Pequena,2024-12-16
+ACC-0169,Energia Serra Azul Ltda,Energia,DF,Pequena,2024-12-19
+ACC-0099,Clínica Horizonte Ltda,Saúde,Minas Gerais,Pequena,2024-07-26
+ACC-0111,Hospital Aurora ME,Saúde,GO,Pequena,2025-02-21
+ACC-0094,Têxtil Cerrado Ltda,Indústria,SP,Grande,2025-06-28
