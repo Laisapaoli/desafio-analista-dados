@@ -48,3 +48,22 @@ jupyter notebook estatistica/analise_estatistica.ipynb
 - [x] Resumo executivo
 - [ ] Bônus: Flow de oportunidade parada (print)
 - [x] Bônus: limpeza e análises automatizadas em Python
+
+## 🏅 Trailhead — Pré-requisitos do desafio
+
+**Perfil público:** [salesforce.com/trailblazer/hqr91pum24qfz50wg0](https://www.salesforce.com/trailblazer/hqr91pum24qfz50wg0) — 16 emblemas
+
+| Exigido no desafio | Concluído no Trailhead | Status |
+|---|---|---|
+| Admin Beginner | Trilha *Admin iniciantse* | ✅ |
+| Reports & Dashboards for Lightning Experience | Trilha *Explorar Reports & Dashboards do Lightning Experience* + emblemas *Relatórios e painéis* e *Criar relatórios e painéis* | ✅ |
+| Data Modeling e Data Management | Emblemas *Modelagem de dados* e *Gerenciamento de dados* + trilha *Gerenciar dados como administrador* | ✅ |
+
+Outros emblemas relevantes: Qualidade dos dados, Administração da lista de opções, Gerenciamento de usuários, Salesforce CRM.
+
+
+
+
+| 
+
+| 
