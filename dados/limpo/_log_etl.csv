@@ -1,25 +1,25 @@
-tabela,regra,acao,registros_afetados
-contas,espaços extras no nome,corrigido,5
-contas,UF padronizada para sigla,corrigido,21
-contas,setor nulo -> 'Não informado',corrigido,14
-contas,conta duplicada (mesmo nome normalizado),descartado,22
-contatos,conta apontando p/ duplicada -> conta mestre,corrigido,0
-contatos,e-mail inválido -> nulo (manter contato),corrigido,8
-contatos,"e-mail nulo (mantido, sinalizado)",sinalizado,23
-contatos,contato duplicado (e-mail ou nome+conta),descartado,21
-oportunidades,linha duplicada exata,descartado,18
-oportunidades,conta duplicada -> conta mestre,corrigido,12
-oportunidades,etapa padronizada,corrigido,40
-oportunidades,origem padronizada,corrigido,45
-oportunidades,origem nula -> 'Não informado',corrigido,18
-oportunidades,datas convertidas de dd/mm/aaaa p/ ISO,corrigido,162
-oportunidades,fechamento inválido/antes da abertura -> últ. mudança,corrigido,9
-oportunidades,data irrecuperável (sem data alternativa),descartado,3
-itens,item órfão (oportunidade inexistente),descartado,4
-itens,item de oportunidade descartada,descartado,6
-itens,quantidade <= 0,descartado,3
-oportunidades,valor nulo -> soma dos itens,corrigido,24
-oportunidades,valor negativo -> soma dos itens,corrigido,4
-oportunidades,valor diferente da soma dos itens -> soma,corrigido,2
-oportunidades,sem itens válidos -> mantém valor original,sinalizado,1
-oportunidades,sem itens e sem valor válido,descartado,0
+tabela       , regra                                                , acao      , registros_afetados
+contas       , espaços extras no nome                               , corrigido ,                  5
+contas       , UF padronizada para sigla                            , corrigido ,                 21
+contas       , setor nulo -> 'Não informado'                        , corrigido ,                 14
+contas       , conta duplicada (mesmo nome normalizado)             , descartado,                 22
+contatos     , conta apontando p/ duplicada -> conta mestre         , corrigido ,                  0
+contatos     , e-mail inválido -> nulo (manter contato)             , corrigido ,                  8
+contatos     , "e-mail nulo (mantido, sinalizado)"                  , sinalizado,                 23
+contatos     , contato duplicado (e-mail ou nome+conta)             , descartado,                 21
+oportunidades, linha duplicada exata                                , descartado,                 18
+oportunidades, conta duplicada -> conta mestre                      , corrigido ,                 12
+oportunidades, etapa padronizada                                    , corrigido ,                 40
+oportunidades, origem padronizada                                   , corrigido ,                 45
+oportunidades, origem nula -> 'Não informado'                       , corrigido ,                 18
+oportunidades, datas convertidas de dd/mm/aaaa p/ ISO               , corrigido ,                162
+oportunidades, fechamento inválido/antes da abertura -> últ. mudança, corrigido ,                  9
+oportunidades, data irrecuperável (sem data alternativa)            , descartado,                  3
+itens        , item órfão (oportunidade inexistente)                , descartado,                  4
+itens        , item de oportunidade descartada                      , descartado,                  6
+itens        , quantidade <= 0                                      , descartado,                  3
+oportunidades, valor nulo -> soma dos itens                         , corrigido ,                 24
+oportunidades, valor negativo -> soma dos itens                     , corrigido ,                  4
+oportunidades, valor diferente da soma dos itens -> soma            , corrigido ,                  2
+oportunidades, sem itens válidos -> mantém valor original           , sinalizado,                  1
+oportunidades, sem itens e sem valor válido                         , descartado,                  0
