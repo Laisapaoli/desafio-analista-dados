@@ -37,10 +37,9 @@ psql -d desafio -f sql/01_analises.sql
 jupyter notebook estatistica/analise_estatistica.ipynb
 ```
 
-## Checklist de entregáveis
-- [ ] Link do perfil Trailhead com os 3 emblemas
-- [x] Documentação do modelo (`docs/01`) + [ ] print do Schema Builder
-- [x] Documentação do ETL (`docs/02`) + [ ] arquivos success/error do Data Loader
+- [x] [Link do perfil Trailhead](https://www.salesforce.com/trailblazer/hqr91pum24qfz50wg0) com os 3 emblemas (detalhes na seção Trailhead abaixo)
+- [x] Documentação do modelo (`docs/01`) + print do Schema Builder (`docs/`)
+- [x] Documentação do ETL (`docs/02`) + arquivos success/error do Data Loader (`resultados_carga/`)
 - [x] Arquivo SQL com consultas e resultados (`sql/`)
 - [x] Notebook de estatística (`estatistica/`)
 - [ ] Dashboard Power BI (print ou link) — roteiro em `docs/03`
