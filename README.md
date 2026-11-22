@@ -45,7 +45,7 @@ jupyter notebook estatistica/analise_estatistica.ipynb
 - [ ] Dashboard Power BI (print ou link) — roteiro em `docs/03`
 - [x] 3 relatórios + dashboard no Salesforce (prints em docs/)
 - [x] Resumo executivo
-- [ ] Bônus: Flow de oportunidade parada (print)
+- [x] Bônus: Flow de oportunidade parada (2 flows: registra mudança de etapa + alerta diário; prints em docs/)
 - [x] Bônus: limpeza e análises automatizadas em Python
 
 ## 🏅 Trailhead — Pré-requisitos do desafio
