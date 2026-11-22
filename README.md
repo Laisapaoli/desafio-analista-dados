@@ -43,7 +43,7 @@ jupyter notebook estatistica/analise_estatistica.ipynb
 - [x] Arquivo SQL com consultas e resultados (`sql/`)
 - [x] Notebook de estatística (`estatistica/`)
 - [ ] Dashboard Power BI (print ou link) — roteiro em `docs/03`
-- [ ] 3 relatórios + dashboard no Salesforce (prints)
+- [x] 3 relatórios + dashboard no Salesforce (prints em docs/)
 - [x] Resumo executivo
 - [ ] Bônus: Flow de oportunidade parada (print)
 - [x] Bônus: limpeza e análises automatizadas em Python
