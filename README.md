@@ -42,7 +42,7 @@ jupyter notebook estatistica/analise_estatistica.ipynb
 - [x] Documentação do ETL (`docs/02`) + arquivos success/error do Data Loader (`resultados_carga/`)
 - [x] Arquivo SQL com consultas e resultados (`sql/`)
 - [x] Notebook de estatística (`estatistica/`)
-- [ ] Dashboard Power BI (print ou link) — roteiro em `docs/03`
+- [x] Dashboard Power BI (dashboard_comercial.pbix + print em docs/) — roteiro em docs/03
 - [x] 3 relatórios + dashboard no Salesforce (prints em docs/)
 - [x] Resumo executivo
 - [x] Bônus: Flow de oportunidade parada (2 flows: registra mudança de etapa + alerta diário; prints em docs/)
